@@ -1,0 +1,4574 @@
+[
+  {
+    "id": 1,
+    "billId": "HD0001",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 15,
+    "price": 17000,
+    "subtotal": 255000
+  },
+  {
+    "id": 2,
+    "billId": "HD0001",
+    "productId": 81,
+    "productName": "Kính cường lực 8mm trong suốt (m2)",
+    "quantity": 4,
+    "price": 356000,
+    "subtotal": 1424000
+  },
+  {
+    "id": 3,
+    "billId": "HD0001",
+    "productId": 82,
+    "productName": "Kính cường lực 10mm mờ (tấm)",
+    "quantity": 19,
+    "price": 429000,
+    "subtotal": 8151000
+  },
+  {
+    "id": 4,
+    "billId": "HD0001",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 9,
+    "price": 76000,
+    "subtotal": 684000
+  },
+  {
+    "id": 5,
+    "billId": "HD0002",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 8,
+    "price": 2923000,
+    "subtotal": 23384000
+  },
+  {
+    "id": 6,
+    "billId": "HD0002",
+    "productId": 83,
+    "productName": "Kính cường lực 12mm (m2)",
+    "quantity": 14,
+    "price": 621000,
+    "subtotal": 8694000
+  },
+  {
+    "id": 7,
+    "billId": "HD0002",
+    "productId": 52,
+    "productName": "Dây điện đôi 2.5mm² Cadivi (cuộn 100m)",
+    "quantity": 5,
+    "price": 38000,
+    "subtotal": 190000
+  },
+  {
+    "id": 8,
+    "billId": "HD0002",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 11,
+    "price": 2151000,
+    "subtotal": 23661000
+  },
+  {
+    "id": 9,
+    "billId": "HD0002",
+    "productId": 1,
+    "productName": "Xi măng Hà Tiên (bao 50kg)",
+    "quantity": 12,
+    "price": 28000,
+    "subtotal": 336000
+  },
+  {
+    "id": 10,
+    "billId": "HD0003",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 15,
+    "price": 30000,
+    "subtotal": 450000
+  },
+  {
+    "id": 11,
+    "billId": "HD0003",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 9,
+    "price": 4400000,
+    "subtotal": 39600000
+  },
+  {
+    "id": 12,
+    "billId": "HD0004",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 5,
+    "price": 17000,
+    "subtotal": 85000
+  },
+  {
+    "id": 13,
+    "billId": "HD0005",
+    "productId": 84,
+    "productName": "Kính float 5mm (tấm)",
+    "quantity": 20,
+    "price": 126000,
+    "subtotal": 2520000
+  },
+  {
+    "id": 14,
+    "billId": "HD0005",
+    "productId": 11,
+    "productName": "Thép phi 6 CB240T (kg)",
+    "quantity": 4,
+    "price": 15000,
+    "subtotal": 60000
+  },
+  {
+    "id": 15,
+    "billId": "HD0005",
+    "productId": 61,
+    "productName": "Ống nhựa PVC Tiền Phong D21 (m)",
+    "quantity": 19,
+    "price": 14000,
+    "subtotal": 266000
+  },
+  {
+    "id": 16,
+    "billId": "HD0006",
+    "productId": 88,
+    "productName": "Nhôm định hình hệ 55 trắng (cây 6m)",
+    "quantity": 20,
+    "price": 193000,
+    "subtotal": 3860000
+  },
+  {
+    "id": 17,
+    "billId": "HD0006",
+    "productId": 85,
+    "productName": "Kính float 8mm (m2)",
+    "quantity": 11,
+    "price": 215000,
+    "subtotal": 2365000
+  },
+  {
+    "id": 18,
+    "billId": "HD0006",
+    "productId": 82,
+    "productName": "Kính cường lực 10mm mờ (tấm)",
+    "quantity": 8,
+    "price": 429000,
+    "subtotal": 3432000
+  },
+  {
+    "id": 19,
+    "billId": "HD0006",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 16,
+    "price": 1253000,
+    "subtotal": 20048000
+  },
+  {
+    "id": 20,
+    "billId": "HD0007",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 7,
+    "price": 1847000,
+    "subtotal": 12929000
+  },
+  {
+    "id": 21,
+    "billId": "HD0007",
+    "productId": 2,
+    "productName": "Xi măng Holcim (bao 40kg)",
+    "quantity": 1,
+    "price": 28000,
+    "subtotal": 28000
+  },
+  {
+    "id": 22,
+    "billId": "HD0007",
+    "productId": 41,
+    "productName": "Sơn nội thất Dulux EasyCare (lít)",
+    "quantity": 9,
+    "price": 173000,
+    "subtotal": 1557000
+  },
+  {
+    "id": 23,
+    "billId": "HD0007",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 2,
+    "price": 21000,
+    "subtotal": 42000
+  },
+  {
+    "id": 24,
+    "billId": "HD0007",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 6,
+    "price": 1465000,
+    "subtotal": 8790000
+  },
+  {
+    "id": 25,
+    "billId": "HD0009",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 13,
+    "price": 88000,
+    "subtotal": 1144000
+  },
+  {
+    "id": 26,
+    "billId": "HD0010",
+    "productId": 12,
+    "productName": "Thép phi 8 CB240T (thanh)",
+    "quantity": 9,
+    "price": 15000,
+    "subtotal": 135000
+  },
+  {
+    "id": 27,
+    "billId": "HD0010",
+    "productId": 77,
+    "productName": "Vòi sen tắm Hafele (cái)",
+    "quantity": 18,
+    "price": 439000,
+    "subtotal": 7902000
+  },
+  {
+    "id": 28,
+    "billId": "HD0010",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 5,
+    "price": 80000,
+    "subtotal": 400000
+  },
+  {
+    "id": 29,
+    "billId": "HD0010",
+    "productId": 86,
+    "productName": "Kính hộp đôi 5+6A+5 (tấm)",
+    "quantity": 7,
+    "price": 440000,
+    "subtotal": 3080000
+  },
+  {
+    "id": 30,
+    "billId": "HD0010",
+    "productId": 3,
+    "productName": "Xi măng INSEE (bao 50kg)",
+    "quantity": 15,
+    "price": 28000,
+    "subtotal": 420000
+  },
+  {
+    "id": 31,
+    "billId": "HD0011",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 11,
+    "price": 76000,
+    "subtotal": 836000
+  },
+  {
+    "id": 32,
+    "billId": "HD0011",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 17,
+    "price": 2198000,
+    "subtotal": 37366000
+  },
+  {
+    "id": 33,
+    "billId": "HD0012",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 15,
+    "price": 122000,
+    "subtotal": 1830000
+  },
+  {
+    "id": 34,
+    "billId": "HD0012",
+    "productId": 4,
+    "productName": "Xi măng Nghi Sơn (tấn)",
+    "quantity": 9,
+    "price": 25000,
+    "subtotal": 225000
+  },
+  {
+    "id": 35,
+    "billId": "HD0012",
+    "productId": 5,
+    "productName": "Xi măng Vicem (bao 50kg)",
+    "quantity": 17,
+    "price": 27000,
+    "subtotal": 459000
+  },
+  {
+    "id": 36,
+    "billId": "HD0012",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 19,
+    "price": 122000,
+    "subtotal": 2318000
+  },
+  {
+    "id": 37,
+    "billId": "HD0012",
+    "productId": 6,
+    "productName": "Cát vàng xây dựng (tấn)",
+    "quantity": 1,
+    "price": 211000,
+    "subtotal": 211000
+  },
+  {
+    "id": 38,
+    "billId": "HD0013",
+    "productId": 32,
+    "productName": "Gạch ceramic 40x40 mờ (m2)",
+    "quantity": 10,
+    "price": 89000,
+    "subtotal": 890000
+  },
+  {
+    "id": 39,
+    "billId": "HD0013",
+    "productId": 42,
+    "productName": "Sơn ngoại thất Dulux WeatherShield (thùng 5L)",
+    "quantity": 7,
+    "price": 162000,
+    "subtotal": 1134000
+  },
+  {
+    "id": 40,
+    "billId": "HD0014",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 8,
+    "price": 1000,
+    "subtotal": 8000
+  },
+  {
+    "id": 41,
+    "billId": "HD0014",
+    "productId": 13,
+    "productName": "Thép phi 10 CB300V (tấn)",
+    "quantity": 4,
+    "price": 16000,
+    "subtotal": 64000
+  },
+  {
+    "id": 42,
+    "billId": "HD0015",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 16,
+    "price": 146000,
+    "subtotal": 2336000
+  },
+  {
+    "id": 43,
+    "billId": "HD0015",
+    "productId": 87,
+    "productName": "Kính phản quang 6mm (m2)",
+    "quantity": 20,
+    "price": 308000,
+    "subtotal": 6160000
+  },
+  {
+    "id": 44,
+    "billId": "HD0016",
+    "productId": 43,
+    "productName": "Sơn Jotun Majestic nội thất (thùng 18L)",
+    "quantity": 15,
+    "price": 173000,
+    "subtotal": 2595000
+  },
+  {
+    "id": 45,
+    "billId": "HD0016",
+    "productId": 94,
+    "productName": "Thanh xương thạch cao C 38 (cây 3m)",
+    "quantity": 7,
+    "price": 20000,
+    "subtotal": 140000
+  },
+  {
+    "id": 46,
+    "billId": "HD0017",
+    "productId": 88,
+    "productName": "Nhôm định hình hệ 55 trắng (cây 6m)",
+    "quantity": 11,
+    "price": 193000,
+    "subtotal": 2123000
+  },
+  {
+    "id": 47,
+    "billId": "HD0018",
+    "productId": 81,
+    "productName": "Kính cường lực 8mm trong suốt (m2)",
+    "quantity": 1,
+    "price": 356000,
+    "subtotal": 356000
+  },
+  {
+    "id": 48,
+    "billId": "HD0018",
+    "productId": 95,
+    "productName": "Thanh xương thạch cao U 28 (thanh)",
+    "quantity": 20,
+    "price": 22000,
+    "subtotal": 440000
+  },
+  {
+    "id": 49,
+    "billId": "HD0018",
+    "productId": 89,
+    "productName": "Nhôm định hình hệ 55 vân gỗ (m)",
+    "quantity": 17,
+    "price": 231000,
+    "subtotal": 3927000
+  },
+  {
+    "id": 50,
+    "billId": "HD0018",
+    "productId": 7,
+    "productName": "Cát đen san lấp (m3)",
+    "quantity": 18,
+    "price": 133000,
+    "subtotal": 2394000
+  },
+  {
+    "id": 51,
+    "billId": "HD0019",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 11,
+    "price": 21000,
+    "subtotal": 231000
+  },
+  {
+    "id": 52,
+    "billId": "HD0019",
+    "productId": 90,
+    "productName": "Nhôm hệ 65 xingfa (cây 6m)",
+    "quantity": 15,
+    "price": 293000,
+    "subtotal": 4395000
+  },
+  {
+    "id": 53,
+    "billId": "HD0020",
+    "productId": 97,
+    "productName": "Keo dán gạch Mapei Kerabond (kg)",
+    "quantity": 6,
+    "price": 22000,
+    "subtotal": 132000
+  },
+  {
+    "id": 54,
+    "billId": "HD0020",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 15,
+    "price": 104000,
+    "subtotal": 1560000
+  },
+  {
+    "id": 55,
+    "billId": "HD0021",
+    "productId": 8,
+    "productName": "Cát mịn trát tường (tấn)",
+    "quantity": 8,
+    "price": 233000,
+    "subtotal": 1864000
+  },
+  {
+    "id": 56,
+    "billId": "HD0021",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 2,
+    "price": 178000,
+    "subtotal": 356000
+  },
+  {
+    "id": 57,
+    "billId": "HD0021",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 12,
+    "price": 3210000,
+    "subtotal": 38520000
+  },
+  {
+    "id": 58,
+    "billId": "HD0021",
+    "productId": 44,
+    "productName": "Sơn Jotun Jotashield ngoại thất (lít)",
+    "quantity": 8,
+    "price": 182000,
+    "subtotal": 1456000
+  },
+  {
+    "id": 59,
+    "billId": "HD0021",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 13,
+    "price": 17000,
+    "subtotal": 221000
+  },
+  {
+    "id": 60,
+    "billId": "HD0022",
+    "productId": 53,
+    "productName": "Dây điện đôi 4mm² Cadivi (m)",
+    "quantity": 7,
+    "price": 50000,
+    "subtotal": 350000
+  },
+  {
+    "id": 61,
+    "billId": "HD0022",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 2,
+    "price": 64000,
+    "subtotal": 128000
+  },
+  {
+    "id": 62,
+    "billId": "HD0022",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 12,
+    "price": 217000,
+    "subtotal": 2604000
+  },
+  {
+    "id": 63,
+    "billId": "HD0022",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 7,
+    "price": 267000,
+    "subtotal": 1869000
+  },
+  {
+    "id": 64,
+    "billId": "HD0023",
+    "productId": 45,
+    "productName": "Sơn Nippon Odour-less nội thất (thùng 5L)",
+    "quantity": 11,
+    "price": 153000,
+    "subtotal": 1683000
+  },
+  {
+    "id": 65,
+    "billId": "HD0023",
+    "productId": 80,
+    "productName": "Vòi rửa bát nóng lạnh Teka (cái)",
+    "quantity": 12,
+    "price": 689000,
+    "subtotal": 8268000
+  },
+  {
+    "id": 66,
+    "billId": "HD0023",
+    "productId": 14,
+    "productName": "Thép phi 12 CB300V (kg)",
+    "quantity": 20,
+    "price": 16000,
+    "subtotal": 320000
+  },
+  {
+    "id": 67,
+    "billId": "HD0024",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 5,
+    "price": 15000,
+    "subtotal": 75000
+  },
+  {
+    "id": 68,
+    "billId": "HD0024",
+    "productId": 98,
+    "productName": "Keo chít mạch đàn hồi màu (hộp 1kg)",
+    "quantity": 14,
+    "price": 110000,
+    "subtotal": 1540000
+  },
+  {
+    "id": 69,
+    "billId": "HD0025",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 3,
+    "price": 36000,
+    "subtotal": 108000
+  },
+  {
+    "id": 70,
+    "billId": "HD0025",
+    "productId": 21,
+    "productName": "Gạch đặc 6.5x10.5x22 (viên)",
+    "quantity": 5,
+    "price": 1000,
+    "subtotal": 5000
+  },
+  {
+    "id": 71,
+    "billId": "HD0025",
+    "productId": 9,
+    "productName": "Đá 1x2 xây dựng (m3)",
+    "quantity": 19,
+    "price": 255000,
+    "subtotal": 4845000
+  },
+  {
+    "id": 72,
+    "billId": "HD0025",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 14,
+    "price": 17000,
+    "subtotal": 238000
+  },
+  {
+    "id": 73,
+    "billId": "HD0026",
+    "productId": 17,
+    "productName": "Thép phi 18 CB400V (kg)",
+    "quantity": 20,
+    "price": 16000,
+    "subtotal": 320000
+  },
+  {
+    "id": 74,
+    "billId": "HD0027",
+    "productId": 63,
+    "productName": "Ống nhựa PVC Tiền Phong D34 (cây 6m)",
+    "quantity": 17,
+    "price": 27000,
+    "subtotal": 459000
+  },
+  {
+    "id": 75,
+    "billId": "HD0027",
+    "productId": 99,
+    "productName": "Bột bả tường Maxbond nội thất (kg)",
+    "quantity": 17,
+    "price": 21000,
+    "subtotal": 357000
+  },
+  {
+    "id": 76,
+    "billId": "HD0027",
+    "productId": 81,
+    "productName": "Kính cường lực 8mm trong suốt (m2)",
+    "quantity": 18,
+    "price": 356000,
+    "subtotal": 6408000
+  },
+  {
+    "id": 77,
+    "billId": "HD0027",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 1,
+    "price": 1000,
+    "subtotal": 1000
+  },
+  {
+    "id": 78,
+    "billId": "HD0028",
+    "productId": 56,
+    "productName": "Công tắc đơn Sino Schneider (bộ)",
+    "quantity": 20,
+    "price": 29000,
+    "subtotal": 580000
+  },
+  {
+    "id": 79,
+    "billId": "HD0028",
+    "productId": 23,
+    "productName": "Gạch rỗng 4 lỗ 8x8x18 (viên)",
+    "quantity": 15,
+    "price": 1000,
+    "subtotal": 15000
+  },
+  {
+    "id": 80,
+    "billId": "HD0029",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 19,
+    "price": 3000,
+    "subtotal": 57000
+  },
+  {
+    "id": 81,
+    "billId": "HD0029",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 3,
+    "price": 2923000,
+    "subtotal": 8769000
+  },
+  {
+    "id": 82,
+    "billId": "HD0029",
+    "productId": 46,
+    "productName": "Sơn Nippon Weatherbond ngoại thất (thùng 18L)",
+    "quantity": 11,
+    "price": 171000,
+    "subtotal": 1881000
+  },
+  {
+    "id": 83,
+    "billId": "HD0030",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 5,
+    "price": 2151000,
+    "subtotal": 10755000
+  },
+  {
+    "id": 84,
+    "billId": "HD0030",
+    "productId": 57,
+    "productName": "Công tắc đôi Sino Schneider (cái)",
+    "quantity": 15,
+    "price": 54000,
+    "subtotal": 810000
+  },
+  {
+    "id": 85,
+    "billId": "HD0030",
+    "productId": 36,
+    "productName": "Gạch granite 60x60 tự nhiên (thùng)",
+    "quantity": 18,
+    "price": 169000,
+    "subtotal": 3042000
+  },
+  {
+    "id": 86,
+    "billId": "HD0030",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 8,
+    "price": 22000,
+    "subtotal": 176000
+  },
+  {
+    "id": 87,
+    "billId": "HD0032",
+    "productId": 10,
+    "productName": "Đá 4x6 nền móng (tấn)",
+    "quantity": 7,
+    "price": 253000,
+    "subtotal": 1771000
+  },
+  {
+    "id": 88,
+    "billId": "HD0032",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 13,
+    "price": 32000,
+    "subtotal": 416000
+  },
+  {
+    "id": 89,
+    "billId": "HD0032",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 12,
+    "price": 2198000,
+    "subtotal": 26376000
+  },
+  {
+    "id": 90,
+    "billId": "HD0032",
+    "productId": 18,
+    "productName": "Thép phi 20 CB400V (thanh)",
+    "quantity": 9,
+    "price": 16000,
+    "subtotal": 144000
+  },
+  {
+    "id": 91,
+    "billId": "HD0033",
+    "productId": 58,
+    "productName": "Aptomat MCB 16A Schneider (cái)",
+    "quantity": 13,
+    "price": 50000,
+    "subtotal": 650000
+  },
+  {
+    "id": 92,
+    "billId": "HD0033",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 6,
+    "price": 4400000,
+    "subtotal": 26400000
+  },
+  {
+    "id": 93,
+    "billId": "HD0033",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 19,
+    "price": 267000,
+    "subtotal": 5073000
+  },
+  {
+    "id": 94,
+    "billId": "HD0033",
+    "productId": 25,
+    "productName": "Gạch siêu nhẹ ACC 10x20x60 (viên)",
+    "quantity": 14,
+    "price": 4000,
+    "subtotal": 56000
+  },
+  {
+    "id": 95,
+    "billId": "HD0034",
+    "productId": 38,
+    "productName": "Gạch granite 120x60 (m2)",
+    "quantity": 6,
+    "price": 295000,
+    "subtotal": 1770000
+  },
+  {
+    "id": 96,
+    "billId": "HD0034",
+    "productId": 26,
+    "productName": "Gạch không nung 10x20x40 (m2)",
+    "quantity": 20,
+    "price": 2000,
+    "subtotal": 40000
+  },
+  {
+    "id": 97,
+    "billId": "HD0034",
+    "productId": 47,
+    "productName": "Sơn Kova nội thất C-20 (lít)",
+    "quantity": 18,
+    "price": 107000,
+    "subtotal": 1926000
+  },
+  {
+    "id": 98,
+    "billId": "HD0034",
+    "productId": 82,
+    "productName": "Kính cường lực 10mm mờ (tấm)",
+    "quantity": 6,
+    "price": 429000,
+    "subtotal": 2574000
+  },
+  {
+    "id": 99,
+    "billId": "HD0035",
+    "productId": 4,
+    "productName": "Xi măng Nghi Sơn (tấn)",
+    "quantity": 19,
+    "price": 25000,
+    "subtotal": 475000
+  },
+  {
+    "id": 100,
+    "billId": "HD0035",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 4,
+    "price": 88000,
+    "subtotal": 352000
+  },
+  {
+    "id": 101,
+    "billId": "HD0036",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 5,
+    "price": 32000,
+    "subtotal": 160000
+  },
+  {
+    "id": 102,
+    "billId": "HD0036",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 4,
+    "price": 2000,
+    "subtotal": 8000
+  },
+  {
+    "id": 103,
+    "billId": "HD0036",
+    "productId": 39,
+    "productName": "Gạch thạch anh 60x60 (thùng)",
+    "quantity": 4,
+    "price": 182000,
+    "subtotal": 728000
+  },
+  {
+    "id": 104,
+    "billId": "HD0036",
+    "productId": 65,
+    "productName": "Ống nhựa PVC Tiền Phong D60 (m)",
+    "quantity": 4,
+    "price": 64000,
+    "subtotal": 256000
+  },
+  {
+    "id": 105,
+    "billId": "HD0037",
+    "productId": 59,
+    "productName": "Aptomat MCB 20A Schneider (cái)",
+    "quantity": 18,
+    "price": 67000,
+    "subtotal": 1206000
+  },
+  {
+    "id": 106,
+    "billId": "HD0037",
+    "productId": 66,
+    "productName": "Ống HDPE chịu nhiệt D20 (cuộn 50m)",
+    "quantity": 20,
+    "price": 24000,
+    "subtotal": 480000
+  },
+  {
+    "id": 107,
+    "billId": "HD0037",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 5,
+    "price": 4000,
+    "subtotal": 20000
+  },
+  {
+    "id": 108,
+    "billId": "HD0037",
+    "productId": 67,
+    "productName": "Ống HDPE chịu nhiệt D25 (m)",
+    "quantity": 2,
+    "price": 28000,
+    "subtotal": 56000
+  },
+  {
+    "id": 109,
+    "billId": "HD0038",
+    "productId": 42,
+    "productName": "Sơn ngoại thất Dulux WeatherShield (thùng 5L)",
+    "quantity": 18,
+    "price": 162000,
+    "subtotal": 2916000
+  },
+  {
+    "id": 110,
+    "billId": "HD0038",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 13,
+    "price": 122000,
+    "subtotal": 1586000
+  },
+  {
+    "id": 111,
+    "billId": "HD0038",
+    "productId": 19,
+    "productName": "Thép phi 22 CB400V (tấn)",
+    "quantity": 15,
+    "price": 19000,
+    "subtotal": 285000
+  },
+  {
+    "id": 112,
+    "billId": "HD0038",
+    "productId": 48,
+    "productName": "Sơn Kova ngoại thất C-23 (thùng 5L)",
+    "quantity": 7,
+    "price": 109000,
+    "subtotal": 763000
+  },
+  {
+    "id": 113,
+    "billId": "HD0041",
+    "productId": 40,
+    "productName": "Gạch ốp tường 30x60 trắng (viên)",
+    "quantity": 10,
+    "price": 86000,
+    "subtotal": 860000
+  },
+  {
+    "id": 114,
+    "billId": "HD0042",
+    "productId": 29,
+    "productName": "Gạch đỏ thủ công 5x10x20 (viên)",
+    "quantity": 20,
+    "price": 1000,
+    "subtotal": 20000
+  },
+  {
+    "id": 115,
+    "billId": "HD0042",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 19,
+    "price": 146000,
+    "subtotal": 2774000
+  },
+  {
+    "id": 116,
+    "billId": "HD0042",
+    "productId": 49,
+    "productName": "Chống thấm Sika 107 (thùng 20kg)",
+    "quantity": 14,
+    "price": 195000,
+    "subtotal": 2730000
+  },
+  {
+    "id": 117,
+    "billId": "HD0042",
+    "productId": 83,
+    "productName": "Kính cường lực 12mm (m2)",
+    "quantity": 13,
+    "price": 621000,
+    "subtotal": 8073000
+  },
+  {
+    "id": 118,
+    "billId": "HD0042",
+    "productId": 1,
+    "productName": "Xi măng Hà Tiên (bao 50kg)",
+    "quantity": 19,
+    "price": 28000,
+    "subtotal": 532000
+  },
+  {
+    "id": 119,
+    "billId": "HD0043",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 15,
+    "price": 178000,
+    "subtotal": 2670000
+  },
+  {
+    "id": 120,
+    "billId": "HD0044",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 8,
+    "price": 76000,
+    "subtotal": 608000
+  },
+  {
+    "id": 121,
+    "billId": "HD0046",
+    "productId": 68,
+    "productName": "Ống PPR nóng lạnh D20 (cây 4m)",
+    "quantity": 18,
+    "price": 26000,
+    "subtotal": 468000
+  },
+  {
+    "id": 122,
+    "billId": "HD0047",
+    "productId": 84,
+    "productName": "Kính float 5mm (tấm)",
+    "quantity": 9,
+    "price": 126000,
+    "subtotal": 1134000
+  },
+  {
+    "id": 123,
+    "billId": "HD0047",
+    "productId": 50,
+    "productName": "Chống thấm Sika Top 107 Seal (thùng 5kg)",
+    "quantity": 15,
+    "price": 205000,
+    "subtotal": 3075000
+  },
+  {
+    "id": 124,
+    "billId": "HD0048",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 18,
+    "price": 30000,
+    "subtotal": 540000
+  },
+  {
+    "id": 125,
+    "billId": "HD0048",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 1,
+    "price": 21000,
+    "subtotal": 21000
+  },
+  {
+    "id": 126,
+    "billId": "HD0048",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 3,
+    "price": 80000,
+    "subtotal": 240000
+  },
+  {
+    "id": 127,
+    "billId": "HD0048",
+    "productId": 32,
+    "productName": "Gạch ceramic 40x40 mờ (m2)",
+    "quantity": 14,
+    "price": 89000,
+    "subtotal": 1246000
+  },
+  {
+    "id": 128,
+    "billId": "HD0048",
+    "productId": 85,
+    "productName": "Kính float 8mm (m2)",
+    "quantity": 1,
+    "price": 215000,
+    "subtotal": 215000
+  },
+  {
+    "id": 129,
+    "billId": "HD0049",
+    "productId": 2,
+    "productName": "Xi măng Holcim (bao 40kg)",
+    "quantity": 9,
+    "price": 28000,
+    "subtotal": 252000
+  },
+  {
+    "id": 130,
+    "billId": "HD0050",
+    "productId": 41,
+    "productName": "Sơn nội thất Dulux EasyCare (lít)",
+    "quantity": 20,
+    "price": 173000,
+    "subtotal": 3460000
+  },
+  {
+    "id": 131,
+    "billId": "HD0050",
+    "productId": 86,
+    "productName": "Kính hộp đôi 5+6A+5 (tấm)",
+    "quantity": 5,
+    "price": 440000,
+    "subtotal": 2200000
+  },
+  {
+    "id": 132,
+    "billId": "HD0050",
+    "productId": 30,
+    "productName": "Gạch tuy nen 6x10x22 (nghìn viên)",
+    "quantity": 5,
+    "price": 1000,
+    "subtotal": 5000
+  },
+  {
+    "id": 133,
+    "billId": "HD0050",
+    "productId": 70,
+    "productName": "Ống PPR nóng lạnh D32 (cây 4m)",
+    "quantity": 20,
+    "price": 50000,
+    "subtotal": 1000000
+  },
+  {
+    "id": 134,
+    "billId": "HD0051",
+    "productId": 42,
+    "productName": "Sơn ngoại thất Dulux WeatherShield (thùng 5L)",
+    "quantity": 9,
+    "price": 162000,
+    "subtotal": 1458000
+  },
+  {
+    "id": 135,
+    "billId": "HD0051",
+    "productId": 21,
+    "productName": "Gạch đặc 6.5x10.5x22 (viên)",
+    "quantity": 1,
+    "price": 1000,
+    "subtotal": 1000
+  },
+  {
+    "id": 136,
+    "billId": "HD0051",
+    "productId": 20,
+    "productName": "Thép phi 25 CB400V (kg)",
+    "quantity": 14,
+    "price": 16000,
+    "subtotal": 224000
+  },
+  {
+    "id": 137,
+    "billId": "HD0051",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 13,
+    "price": 17000,
+    "subtotal": 221000
+  },
+  {
+    "id": 138,
+    "billId": "HD0052",
+    "productId": 61,
+    "productName": "Ống nhựa PVC Tiền Phong D21 (m)",
+    "quantity": 19,
+    "price": 14000,
+    "subtotal": 266000
+  },
+  {
+    "id": 139,
+    "billId": "HD0052",
+    "productId": 94,
+    "productName": "Thanh xương thạch cao C 38 (cây 3m)",
+    "quantity": 18,
+    "price": 20000,
+    "subtotal": 360000
+  },
+  {
+    "id": 140,
+    "billId": "HD0052",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 4,
+    "price": 1253000,
+    "subtotal": 5012000
+  },
+  {
+    "id": 141,
+    "billId": "HD0052",
+    "productId": 52,
+    "productName": "Dây điện đôi 2.5mm² Cadivi (cuộn 100m)",
+    "quantity": 2,
+    "price": 38000,
+    "subtotal": 76000
+  },
+  {
+    "id": 142,
+    "billId": "HD0052",
+    "productId": 43,
+    "productName": "Sơn Jotun Majestic nội thất (thùng 18L)",
+    "quantity": 10,
+    "price": 173000,
+    "subtotal": 1730000
+  },
+  {
+    "id": 143,
+    "billId": "HD0053",
+    "productId": 44,
+    "productName": "Sơn Jotun Jotashield ngoại thất (lít)",
+    "quantity": 7,
+    "price": 182000,
+    "subtotal": 1274000
+  },
+  {
+    "id": 144,
+    "billId": "HD0053",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 11,
+    "price": 1847000,
+    "subtotal": 20317000
+  },
+  {
+    "id": 145,
+    "billId": "HD0053",
+    "productId": 3,
+    "productName": "Xi măng INSEE (bao 50kg)",
+    "quantity": 4,
+    "price": 28000,
+    "subtotal": 112000
+  },
+  {
+    "id": 146,
+    "billId": "HD0053",
+    "productId": 11,
+    "productName": "Thép phi 6 CB240T (kg)",
+    "quantity": 12,
+    "price": 15000,
+    "subtotal": 180000
+  },
+  {
+    "id": 147,
+    "billId": "HD0053",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 1,
+    "price": 1000,
+    "subtotal": 1000
+  },
+  {
+    "id": 148,
+    "billId": "HD0054",
+    "productId": 12,
+    "productName": "Thép phi 8 CB240T (thanh)",
+    "quantity": 16,
+    "price": 15000,
+    "subtotal": 240000
+  },
+  {
+    "id": 149,
+    "billId": "HD0054",
+    "productId": 10,
+    "productName": "Đá 4x6 nền móng (tấn)",
+    "quantity": 7,
+    "price": 253000,
+    "subtotal": 1771000
+  },
+  {
+    "id": 150,
+    "billId": "HD0055",
+    "productId": 53,
+    "productName": "Dây điện đôi 4mm² Cadivi (m)",
+    "quantity": 18,
+    "price": 50000,
+    "subtotal": 900000
+  },
+  {
+    "id": 151,
+    "billId": "HD0055",
+    "productId": 95,
+    "productName": "Thanh xương thạch cao U 28 (thanh)",
+    "quantity": 14,
+    "price": 22000,
+    "subtotal": 308000
+  },
+  {
+    "id": 152,
+    "billId": "HD0055",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 4,
+    "price": 217000,
+    "subtotal": 868000
+  },
+  {
+    "id": 153,
+    "billId": "HD0055",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 17,
+    "price": 104000,
+    "subtotal": 1768000
+  },
+  {
+    "id": 154,
+    "billId": "HD0055",
+    "productId": 89,
+    "productName": "Nhôm định hình hệ 55 vân gỗ (m)",
+    "quantity": 14,
+    "price": 231000,
+    "subtotal": 3234000
+  },
+  {
+    "id": 155,
+    "billId": "HD0056",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 8,
+    "price": 178000,
+    "subtotal": 1424000
+  },
+  {
+    "id": 156,
+    "billId": "HD0056",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 18,
+    "price": 64000,
+    "subtotal": 1152000
+  },
+  {
+    "id": 157,
+    "billId": "HD0057",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 12,
+    "price": 1465000,
+    "subtotal": 17580000
+  },
+  {
+    "id": 158,
+    "billId": "HD0057",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 3,
+    "price": 36000,
+    "subtotal": 108000
+  },
+  {
+    "id": 159,
+    "billId": "HD0057",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 14,
+    "price": 21000,
+    "subtotal": 294000
+  },
+  {
+    "id": 160,
+    "billId": "HD0057",
+    "productId": 13,
+    "productName": "Thép phi 10 CB300V (tấn)",
+    "quantity": 5,
+    "price": 16000,
+    "subtotal": 80000
+  },
+  {
+    "id": 161,
+    "billId": "HD0058",
+    "productId": 77,
+    "productName": "Vòi sen tắm Hafele (cái)",
+    "quantity": 11,
+    "price": 439000,
+    "subtotal": 4829000
+  },
+  {
+    "id": 162,
+    "billId": "HD0058",
+    "productId": 4,
+    "productName": "Xi măng Nghi Sơn (tấn)",
+    "quantity": 20,
+    "price": 25000,
+    "subtotal": 500000
+  },
+  {
+    "id": 163,
+    "billId": "HD0058",
+    "productId": 97,
+    "productName": "Keo dán gạch Mapei Kerabond (kg)",
+    "quantity": 2,
+    "price": 22000,
+    "subtotal": 44000
+  },
+  {
+    "id": 164,
+    "billId": "HD0059",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 3,
+    "price": 21000,
+    "subtotal": 63000
+  },
+  {
+    "id": 165,
+    "billId": "HD0059",
+    "productId": 63,
+    "productName": "Ống nhựa PVC Tiền Phong D34 (cây 6m)",
+    "quantity": 17,
+    "price": 27000,
+    "subtotal": 459000
+  },
+  {
+    "id": 166,
+    "billId": "HD0060",
+    "productId": 23,
+    "productName": "Gạch rỗng 4 lỗ 8x8x18 (viên)",
+    "quantity": 7,
+    "price": 1000,
+    "subtotal": 7000
+  },
+  {
+    "id": 167,
+    "billId": "HD0060",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 19,
+    "price": 217000,
+    "subtotal": 4123000
+  },
+  {
+    "id": 168,
+    "billId": "HD0060",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 14,
+    "price": 2198000,
+    "subtotal": 30772000
+  },
+  {
+    "id": 169,
+    "billId": "HD0060",
+    "productId": 45,
+    "productName": "Sơn Nippon Odour-less nội thất (thùng 5L)",
+    "quantity": 19,
+    "price": 153000,
+    "subtotal": 2907000
+  },
+  {
+    "id": 170,
+    "billId": "HD0060",
+    "productId": 59,
+    "productName": "Aptomat MCB 20A Schneider (cái)",
+    "quantity": 1,
+    "price": 67000,
+    "subtotal": 67000
+  },
+  {
+    "id": 171,
+    "billId": "HD0061",
+    "productId": 56,
+    "productName": "Công tắc đơn Sino Schneider (bộ)",
+    "quantity": 20,
+    "price": 29000,
+    "subtotal": 580000
+  },
+  {
+    "id": 172,
+    "billId": "HD0061",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 9,
+    "price": 32000,
+    "subtotal": 288000
+  },
+  {
+    "id": 173,
+    "billId": "HD0061",
+    "productId": 46,
+    "productName": "Sơn Nippon Weatherbond ngoại thất (thùng 18L)",
+    "quantity": 9,
+    "price": 171000,
+    "subtotal": 1539000
+  },
+  {
+    "id": 174,
+    "billId": "HD0061",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 16,
+    "price": 3000,
+    "subtotal": 48000
+  },
+  {
+    "id": 175,
+    "billId": "HD0061",
+    "productId": 5,
+    "productName": "Xi măng Vicem (bao 50kg)",
+    "quantity": 9,
+    "price": 27000,
+    "subtotal": 243000
+  },
+  {
+    "id": 176,
+    "billId": "HD0062",
+    "productId": 65,
+    "productName": "Ống nhựa PVC Tiền Phong D60 (m)",
+    "quantity": 7,
+    "price": 64000,
+    "subtotal": 448000
+  },
+  {
+    "id": 177,
+    "billId": "HD0062",
+    "productId": 25,
+    "productName": "Gạch siêu nhẹ ACC 10x20x60 (viên)",
+    "quantity": 6,
+    "price": 4000,
+    "subtotal": 24000
+  },
+  {
+    "id": 178,
+    "billId": "HD0062",
+    "productId": 8,
+    "productName": "Cát mịn trát tường (tấn)",
+    "quantity": 8,
+    "price": 233000,
+    "subtotal": 1864000
+  },
+  {
+    "id": 179,
+    "billId": "HD0062",
+    "productId": 98,
+    "productName": "Keo chít mạch đàn hồi màu (hộp 1kg)",
+    "quantity": 7,
+    "price": 110000,
+    "subtotal": 770000
+  },
+  {
+    "id": 180,
+    "billId": "HD0063",
+    "productId": 36,
+    "productName": "Gạch granite 60x60 tự nhiên (thùng)",
+    "quantity": 6,
+    "price": 169000,
+    "subtotal": 1014000
+  },
+  {
+    "id": 181,
+    "billId": "HD0063",
+    "productId": 66,
+    "productName": "Ống HDPE chịu nhiệt D20 (cuộn 50m)",
+    "quantity": 14,
+    "price": 24000,
+    "subtotal": 336000
+  },
+  {
+    "id": 182,
+    "billId": "HD0063",
+    "productId": 57,
+    "productName": "Công tắc đôi Sino Schneider (cái)",
+    "quantity": 16,
+    "price": 54000,
+    "subtotal": 864000
+  },
+  {
+    "id": 183,
+    "billId": "HD0063",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 6,
+    "price": 3210000,
+    "subtotal": 19260000
+  },
+  {
+    "id": 184,
+    "billId": "HD0064",
+    "productId": 67,
+    "productName": "Ống HDPE chịu nhiệt D25 (m)",
+    "quantity": 7,
+    "price": 28000,
+    "subtotal": 196000
+  },
+  {
+    "id": 185,
+    "billId": "HD0064",
+    "productId": 14,
+    "productName": "Thép phi 12 CB300V (kg)",
+    "quantity": 4,
+    "price": 16000,
+    "subtotal": 64000
+  },
+  {
+    "id": 186,
+    "billId": "HD0064",
+    "productId": 6,
+    "productName": "Cát vàng xây dựng (tấn)",
+    "quantity": 1,
+    "price": 211000,
+    "subtotal": 211000
+  },
+  {
+    "id": 187,
+    "billId": "HD0064",
+    "productId": 58,
+    "productName": "Aptomat MCB 16A Schneider (cái)",
+    "quantity": 13,
+    "price": 50000,
+    "subtotal": 650000
+  },
+  {
+    "id": 188,
+    "billId": "HD0064",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 4,
+    "price": 15000,
+    "subtotal": 60000
+  },
+  {
+    "id": 189,
+    "billId": "HD0065",
+    "productId": 26,
+    "productName": "Gạch không nung 10x20x40 (m2)",
+    "quantity": 10,
+    "price": 2000,
+    "subtotal": 20000
+  },
+  {
+    "id": 190,
+    "billId": "HD0065",
+    "productId": 87,
+    "productName": "Kính phản quang 6mm (m2)",
+    "quantity": 20,
+    "price": 308000,
+    "subtotal": 6160000
+  },
+  {
+    "id": 191,
+    "billId": "HD0065",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 17,
+    "price": 2000,
+    "subtotal": 34000
+  },
+  {
+    "id": 192,
+    "billId": "HD0066",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 10,
+    "price": 17000,
+    "subtotal": 170000
+  },
+  {
+    "id": 193,
+    "billId": "HD0066",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 2,
+    "price": 267000,
+    "subtotal": 534000
+  },
+  {
+    "id": 194,
+    "billId": "HD0069",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 11,
+    "price": 2151000,
+    "subtotal": 23661000
+  },
+  {
+    "id": 195,
+    "billId": "HD0069",
+    "productId": 7,
+    "productName": "Cát đen san lấp (m3)",
+    "quantity": 9,
+    "price": 133000,
+    "subtotal": 1197000
+  },
+  {
+    "id": 196,
+    "billId": "HD0069",
+    "productId": 38,
+    "productName": "Gạch granite 120x60 (m2)",
+    "quantity": 8,
+    "price": 295000,
+    "subtotal": 2360000
+  },
+  {
+    "id": 197,
+    "billId": "HD0070",
+    "productId": 99,
+    "productName": "Bột bả tường Maxbond nội thất (kg)",
+    "quantity": 18,
+    "price": 21000,
+    "subtotal": 378000
+  },
+  {
+    "id": 198,
+    "billId": "HD0070",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 16,
+    "price": 22000,
+    "subtotal": 352000
+  },
+  {
+    "id": 199,
+    "billId": "HD0070",
+    "productId": 80,
+    "productName": "Vòi rửa bát nóng lạnh Teka (cái)",
+    "quantity": 18,
+    "price": 689000,
+    "subtotal": 12402000
+  },
+  {
+    "id": 200,
+    "billId": "HD0071",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 18,
+    "price": 4000,
+    "subtotal": 72000
+  },
+  {
+    "id": 201,
+    "billId": "HD0071",
+    "productId": 68,
+    "productName": "Ống PPR nóng lạnh D20 (cây 4m)",
+    "quantity": 5,
+    "price": 26000,
+    "subtotal": 130000
+  },
+  {
+    "id": 202,
+    "billId": "HD0071",
+    "productId": 47,
+    "productName": "Sơn Kova nội thất C-20 (lít)",
+    "quantity": 5,
+    "price": 107000,
+    "subtotal": 535000
+  },
+  {
+    "id": 203,
+    "billId": "HD0072",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 4,
+    "price": 88000,
+    "subtotal": 352000
+  },
+  {
+    "id": 204,
+    "billId": "HD0073",
+    "productId": 8,
+    "productName": "Cát mịn trát tường (tấn)",
+    "quantity": 6,
+    "price": 233000,
+    "subtotal": 1398000
+  },
+  {
+    "id": 205,
+    "billId": "HD0075",
+    "productId": 29,
+    "productName": "Gạch đỏ thủ công 5x10x20 (viên)",
+    "quantity": 17,
+    "price": 1000,
+    "subtotal": 17000
+  },
+  {
+    "id": 206,
+    "billId": "HD0075",
+    "productId": 30,
+    "productName": "Gạch tuy nen 6x10x22 (nghìn viên)",
+    "quantity": 17,
+    "price": 1000,
+    "subtotal": 17000
+  },
+  {
+    "id": 207,
+    "billId": "HD0077",
+    "productId": 21,
+    "productName": "Gạch đặc 6.5x10.5x22 (viên)",
+    "quantity": 8,
+    "price": 1000,
+    "subtotal": 8000
+  },
+  {
+    "id": 208,
+    "billId": "HD0077",
+    "productId": 39,
+    "productName": "Gạch thạch anh 60x60 (thùng)",
+    "quantity": 6,
+    "price": 182000,
+    "subtotal": 1092000
+  },
+  {
+    "id": 209,
+    "billId": "HD0078",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 12,
+    "price": 122000,
+    "subtotal": 1464000
+  },
+  {
+    "id": 210,
+    "billId": "HD0078",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 6,
+    "price": 178000,
+    "subtotal": 1068000
+  },
+  {
+    "id": 211,
+    "billId": "HD0078",
+    "productId": 40,
+    "productName": "Gạch ốp tường 30x60 trắng (viên)",
+    "quantity": 19,
+    "price": 86000,
+    "subtotal": 1634000
+  },
+  {
+    "id": 212,
+    "billId": "HD0078",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 7,
+    "price": 76000,
+    "subtotal": 532000
+  },
+  {
+    "id": 213,
+    "billId": "HD0080",
+    "productId": 32,
+    "productName": "Gạch ceramic 40x40 mờ (m2)",
+    "quantity": 14,
+    "price": 89000,
+    "subtotal": 1246000
+  },
+  {
+    "id": 214,
+    "billId": "HD0080",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 6,
+    "price": 146000,
+    "subtotal": 876000
+  },
+  {
+    "id": 215,
+    "billId": "HD0080",
+    "productId": 94,
+    "productName": "Thanh xương thạch cao C 38 (cây 3m)",
+    "quantity": 5,
+    "price": 20000,
+    "subtotal": 100000
+  },
+  {
+    "id": 216,
+    "billId": "HD0081",
+    "productId": 17,
+    "productName": "Thép phi 18 CB400V (kg)",
+    "quantity": 17,
+    "price": 16000,
+    "subtotal": 272000
+  },
+  {
+    "id": 217,
+    "billId": "HD0081",
+    "productId": 95,
+    "productName": "Thanh xương thạch cao U 28 (thanh)",
+    "quantity": 15,
+    "price": 22000,
+    "subtotal": 330000
+  },
+  {
+    "id": 218,
+    "billId": "HD0081",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 1,
+    "price": 2923000,
+    "subtotal": 2923000
+  },
+  {
+    "id": 219,
+    "billId": "HD0082",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 6,
+    "price": 104000,
+    "subtotal": 624000
+  },
+  {
+    "id": 220,
+    "billId": "HD0082",
+    "productId": 18,
+    "productName": "Thép phi 20 CB400V (thanh)",
+    "quantity": 11,
+    "price": 16000,
+    "subtotal": 176000
+  },
+  {
+    "id": 221,
+    "billId": "HD0082",
+    "productId": 59,
+    "productName": "Aptomat MCB 20A Schneider (cái)",
+    "quantity": 6,
+    "price": 67000,
+    "subtotal": 402000
+  },
+  {
+    "id": 222,
+    "billId": "HD0082",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 16,
+    "price": 2151000,
+    "subtotal": 34416000
+  },
+  {
+    "id": 223,
+    "billId": "HD0082",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 8,
+    "price": 21000,
+    "subtotal": 168000
+  },
+  {
+    "id": 224,
+    "billId": "HD0083",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 5,
+    "price": 1000,
+    "subtotal": 5000
+  },
+  {
+    "id": 225,
+    "billId": "HD0083",
+    "productId": 97,
+    "productName": "Keo dán gạch Mapei Kerabond (kg)",
+    "quantity": 3,
+    "price": 22000,
+    "subtotal": 66000
+  },
+  {
+    "id": 226,
+    "billId": "HD0083",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 1,
+    "price": 17000,
+    "subtotal": 17000
+  },
+  {
+    "id": 227,
+    "billId": "HD0083",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 2,
+    "price": 80000,
+    "subtotal": 160000
+  },
+  {
+    "id": 228,
+    "billId": "HD0083",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 19,
+    "price": 4400000,
+    "subtotal": 83600000
+  },
+  {
+    "id": 229,
+    "billId": "HD0084",
+    "productId": 9,
+    "productName": "Đá 1x2 xây dựng (m3)",
+    "quantity": 6,
+    "price": 255000,
+    "subtotal": 1530000
+  },
+  {
+    "id": 230,
+    "billId": "HD0084",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 3,
+    "price": 178000,
+    "subtotal": 534000
+  },
+  {
+    "id": 231,
+    "billId": "HD0084",
+    "productId": 23,
+    "productName": "Gạch rỗng 4 lỗ 8x8x18 (viên)",
+    "quantity": 3,
+    "price": 1000,
+    "subtotal": 3000
+  },
+  {
+    "id": 232,
+    "billId": "HD0084",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 4,
+    "price": 146000,
+    "subtotal": 584000
+  },
+  {
+    "id": 233,
+    "billId": "HD0084",
+    "productId": 48,
+    "productName": "Sơn Kova ngoại thất C-23 (thùng 5L)",
+    "quantity": 17,
+    "price": 109000,
+    "subtotal": 1853000
+  },
+  {
+    "id": 234,
+    "billId": "HD0085",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 17,
+    "price": 17000,
+    "subtotal": 289000
+  },
+  {
+    "id": 235,
+    "billId": "HD0085",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 17,
+    "price": 3000,
+    "subtotal": 51000
+  },
+  {
+    "id": 236,
+    "billId": "HD0085",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 13,
+    "price": 1253000,
+    "subtotal": 16289000
+  },
+  {
+    "id": 237,
+    "billId": "HD0086",
+    "productId": 88,
+    "productName": "Nhôm định hình hệ 55 trắng (cây 6m)",
+    "quantity": 3,
+    "price": 193000,
+    "subtotal": 579000
+  },
+  {
+    "id": 238,
+    "billId": "HD0086",
+    "productId": 19,
+    "productName": "Thép phi 22 CB400V (tấn)",
+    "quantity": 8,
+    "price": 19000,
+    "subtotal": 152000
+  },
+  {
+    "id": 239,
+    "billId": "HD0087",
+    "productId": 89,
+    "productName": "Nhôm định hình hệ 55 vân gỗ (m)",
+    "quantity": 18,
+    "price": 231000,
+    "subtotal": 4158000
+  },
+  {
+    "id": 240,
+    "billId": "HD0087",
+    "productId": 49,
+    "productName": "Chống thấm Sika 107 (thùng 20kg)",
+    "quantity": 7,
+    "price": 195000,
+    "subtotal": 1365000
+  },
+  {
+    "id": 241,
+    "billId": "HD0087",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 4,
+    "price": 3210000,
+    "subtotal": 12840000
+  },
+  {
+    "id": 242,
+    "billId": "HD0088",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 8,
+    "price": 1847000,
+    "subtotal": 14776000
+  },
+  {
+    "id": 243,
+    "billId": "HD0088",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 11,
+    "price": 30000,
+    "subtotal": 330000
+  },
+  {
+    "id": 244,
+    "billId": "HD0088",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 3,
+    "price": 217000,
+    "subtotal": 651000
+  },
+  {
+    "id": 245,
+    "billId": "HD0088",
+    "productId": 36,
+    "productName": "Gạch granite 60x60 tự nhiên (thùng)",
+    "quantity": 17,
+    "price": 169000,
+    "subtotal": 2873000
+  },
+  {
+    "id": 246,
+    "billId": "HD0089",
+    "productId": 70,
+    "productName": "Ống PPR nóng lạnh D32 (cây 4m)",
+    "quantity": 17,
+    "price": 50000,
+    "subtotal": 850000
+  },
+  {
+    "id": 247,
+    "billId": "HD0091",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 15,
+    "price": 1465000,
+    "subtotal": 21975000
+  },
+  {
+    "id": 248,
+    "billId": "HD0092",
+    "productId": 10,
+    "productName": "Đá 4x6 nền móng (tấn)",
+    "quantity": 5,
+    "price": 253000,
+    "subtotal": 1265000
+  },
+  {
+    "id": 249,
+    "billId": "HD0092",
+    "productId": 52,
+    "productName": "Dây điện đôi 2.5mm² Cadivi (cuộn 100m)",
+    "quantity": 10,
+    "price": 38000,
+    "subtotal": 380000
+  },
+  {
+    "id": 250,
+    "billId": "HD0092",
+    "productId": 61,
+    "productName": "Ống nhựa PVC Tiền Phong D21 (m)",
+    "quantity": 5,
+    "price": 14000,
+    "subtotal": 70000
+  },
+  {
+    "id": 251,
+    "billId": "HD0095",
+    "productId": 53,
+    "productName": "Dây điện đôi 4mm² Cadivi (m)",
+    "quantity": 9,
+    "price": 50000,
+    "subtotal": 450000
+  },
+  {
+    "id": 252,
+    "billId": "HD0095",
+    "productId": 57,
+    "productName": "Công tắc đôi Sino Schneider (cái)",
+    "quantity": 9,
+    "price": 54000,
+    "subtotal": 486000
+  },
+  {
+    "id": 253,
+    "billId": "HD0095",
+    "productId": 20,
+    "productName": "Thép phi 25 CB400V (kg)",
+    "quantity": 12,
+    "price": 16000,
+    "subtotal": 192000
+  },
+  {
+    "id": 254,
+    "billId": "HD0095",
+    "productId": 25,
+    "productName": "Gạch siêu nhẹ ACC 10x20x60 (viên)",
+    "quantity": 20,
+    "price": 4000,
+    "subtotal": 80000
+  },
+  {
+    "id": 255,
+    "billId": "HD0098",
+    "productId": 77,
+    "productName": "Vòi sen tắm Hafele (cái)",
+    "quantity": 18,
+    "price": 439000,
+    "subtotal": 7902000
+  },
+  {
+    "id": 256,
+    "billId": "HD0098",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 15,
+    "price": 21000,
+    "subtotal": 315000
+  },
+  {
+    "id": 257,
+    "billId": "HD0099",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 3,
+    "price": 267000,
+    "subtotal": 801000
+  },
+  {
+    "id": 258,
+    "billId": "HD0099",
+    "productId": 98,
+    "productName": "Keo chít mạch đàn hồi màu (hộp 1kg)",
+    "quantity": 1,
+    "price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "id": 259,
+    "billId": "HD0101",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 18,
+    "price": 2198000,
+    "subtotal": 39564000
+  },
+  {
+    "id": 260,
+    "billId": "HD0101",
+    "productId": 99,
+    "productName": "Bột bả tường Maxbond nội thất (kg)",
+    "quantity": 16,
+    "price": 21000,
+    "subtotal": 336000
+  },
+  {
+    "id": 261,
+    "billId": "HD0101",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 14,
+    "price": 22000,
+    "subtotal": 308000
+  },
+  {
+    "id": 262,
+    "billId": "HD0102",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 8,
+    "price": 64000,
+    "subtotal": 512000
+  },
+  {
+    "id": 263,
+    "billId": "HD0102",
+    "productId": 63,
+    "productName": "Ống nhựa PVC Tiền Phong D34 (cây 6m)",
+    "quantity": 10,
+    "price": 27000,
+    "subtotal": 270000
+  },
+  {
+    "id": 264,
+    "billId": "HD0103",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 15,
+    "price": 88000,
+    "subtotal": 1320000
+  },
+  {
+    "id": 265,
+    "billId": "HD0104",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 20,
+    "price": 36000,
+    "subtotal": 720000
+  },
+  {
+    "id": 266,
+    "billId": "HD0104",
+    "productId": 26,
+    "productName": "Gạch không nung 10x20x40 (m2)",
+    "quantity": 9,
+    "price": 2000,
+    "subtotal": 18000
+  },
+  {
+    "id": 267,
+    "billId": "HD0104",
+    "productId": 58,
+    "productName": "Aptomat MCB 16A Schneider (cái)",
+    "quantity": 14,
+    "price": 50000,
+    "subtotal": 700000
+  },
+  {
+    "id": 268,
+    "billId": "HD0104",
+    "productId": 56,
+    "productName": "Công tắc đơn Sino Schneider (bộ)",
+    "quantity": 12,
+    "price": 29000,
+    "subtotal": 348000
+  },
+  {
+    "id": 269,
+    "billId": "HD0105",
+    "productId": 11,
+    "productName": "Thép phi 6 CB240T (kg)",
+    "quantity": 13,
+    "price": 15000,
+    "subtotal": 195000
+  },
+  {
+    "id": 270,
+    "billId": "HD0105",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 1,
+    "price": 2000,
+    "subtotal": 2000
+  },
+  {
+    "id": 271,
+    "billId": "HD0106",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 3,
+    "price": 122000,
+    "subtotal": 366000
+  },
+  {
+    "id": 272,
+    "billId": "HD0106",
+    "productId": 1,
+    "productName": "Xi măng Hà Tiên (bao 50kg)",
+    "quantity": 2,
+    "price": 28000,
+    "subtotal": 56000
+  },
+  {
+    "id": 273,
+    "billId": "HD0106",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 18,
+    "price": 3210000,
+    "subtotal": 57780000
+  },
+  {
+    "id": 274,
+    "billId": "HD0106",
+    "productId": 57,
+    "productName": "Công tắc đôi Sino Schneider (cái)",
+    "quantity": 20,
+    "price": 54000,
+    "subtotal": 1080000
+  },
+  {
+    "id": 275,
+    "billId": "HD0106",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 10,
+    "price": 4000,
+    "subtotal": 40000
+  },
+  {
+    "id": 276,
+    "billId": "HD0107",
+    "productId": 50,
+    "productName": "Chống thấm Sika Top 107 Seal (thùng 5kg)",
+    "quantity": 10,
+    "price": 205000,
+    "subtotal": 2050000
+  },
+  {
+    "id": 277,
+    "billId": "HD0107",
+    "productId": 80,
+    "productName": "Vòi rửa bát nóng lạnh Teka (cái)",
+    "quantity": 11,
+    "price": 689000,
+    "subtotal": 7579000
+  },
+  {
+    "id": 278,
+    "billId": "HD0107",
+    "productId": 2,
+    "productName": "Xi măng Holcim (bao 40kg)",
+    "quantity": 7,
+    "price": 28000,
+    "subtotal": 196000
+  },
+  {
+    "id": 279,
+    "billId": "HD0107",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 14,
+    "price": 146000,
+    "subtotal": 2044000
+  },
+  {
+    "id": 280,
+    "billId": "HD0107",
+    "productId": 41,
+    "productName": "Sơn nội thất Dulux EasyCare (lít)",
+    "quantity": 7,
+    "price": 173000,
+    "subtotal": 1211000
+  },
+  {
+    "id": 281,
+    "billId": "HD0108",
+    "productId": 58,
+    "productName": "Aptomat MCB 16A Schneider (cái)",
+    "quantity": 5,
+    "price": 50000,
+    "subtotal": 250000
+  },
+  {
+    "id": 282,
+    "billId": "HD0108",
+    "productId": 3,
+    "productName": "Xi măng INSEE (bao 50kg)",
+    "quantity": 2,
+    "price": 28000,
+    "subtotal": 56000
+  },
+  {
+    "id": 283,
+    "billId": "HD0108",
+    "productId": 4,
+    "productName": "Xi măng Nghi Sơn (tấn)",
+    "quantity": 15,
+    "price": 25000,
+    "subtotal": 375000
+  },
+  {
+    "id": 284,
+    "billId": "HD0108",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 10,
+    "price": 32000,
+    "subtotal": 320000
+  },
+  {
+    "id": 285,
+    "billId": "HD0108",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 11,
+    "price": 2923000,
+    "subtotal": 32153000
+  },
+  {
+    "id": 286,
+    "billId": "HD0109",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 8,
+    "price": 2151000,
+    "subtotal": 17208000
+  },
+  {
+    "id": 287,
+    "billId": "HD0109",
+    "productId": 65,
+    "productName": "Ống nhựa PVC Tiền Phong D60 (m)",
+    "quantity": 9,
+    "price": 64000,
+    "subtotal": 576000
+  },
+  {
+    "id": 288,
+    "billId": "HD0109",
+    "productId": 59,
+    "productName": "Aptomat MCB 20A Schneider (cái)",
+    "quantity": 15,
+    "price": 67000,
+    "subtotal": 1005000
+  },
+  {
+    "id": 289,
+    "billId": "HD0110",
+    "productId": 94,
+    "productName": "Thanh xương thạch cao C 38 (cây 3m)",
+    "quantity": 11,
+    "price": 20000,
+    "subtotal": 220000
+  },
+  {
+    "id": 290,
+    "billId": "HD0110",
+    "productId": 83,
+    "productName": "Kính cường lực 12mm (m2)",
+    "quantity": 11,
+    "price": 621000,
+    "subtotal": 6831000
+  },
+  {
+    "id": 291,
+    "billId": "HD0110",
+    "productId": 47,
+    "productName": "Sơn Kova nội thất C-20 (lít)",
+    "quantity": 14,
+    "price": 107000,
+    "subtotal": 1498000
+  },
+  {
+    "id": 292,
+    "billId": "HD0110",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 3,
+    "price": 2000,
+    "subtotal": 6000
+  },
+  {
+    "id": 293,
+    "billId": "HD0110",
+    "productId": 42,
+    "productName": "Sơn ngoại thất Dulux WeatherShield (thùng 5L)",
+    "quantity": 1,
+    "price": 162000,
+    "subtotal": 162000
+  },
+  {
+    "id": 294,
+    "billId": "HD0111",
+    "productId": 66,
+    "productName": "Ống HDPE chịu nhiệt D20 (cuộn 50m)",
+    "quantity": 16,
+    "price": 24000,
+    "subtotal": 384000
+  },
+  {
+    "id": 295,
+    "billId": "HD0112",
+    "productId": 5,
+    "productName": "Xi măng Vicem (bao 50kg)",
+    "quantity": 19,
+    "price": 27000,
+    "subtotal": 513000
+  },
+  {
+    "id": 296,
+    "billId": "HD0113",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 17,
+    "price": 1253000,
+    "subtotal": 21301000
+  },
+  {
+    "id": 297,
+    "billId": "HD0113",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 7,
+    "price": 80000,
+    "subtotal": 560000
+  },
+  {
+    "id": 298,
+    "billId": "HD0113",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 18,
+    "price": 4000,
+    "subtotal": 72000
+  },
+  {
+    "id": 299,
+    "billId": "HD0113",
+    "productId": 38,
+    "productName": "Gạch granite 120x60 (m2)",
+    "quantity": 20,
+    "price": 295000,
+    "subtotal": 5900000
+  },
+  {
+    "id": 300,
+    "billId": "HD0113",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 3,
+    "price": 64000,
+    "subtotal": 192000
+  },
+  {
+    "id": 301,
+    "billId": "HD0114",
+    "productId": 67,
+    "productName": "Ống HDPE chịu nhiệt D25 (m)",
+    "quantity": 7,
+    "price": 28000,
+    "subtotal": 196000
+  },
+  {
+    "id": 302,
+    "billId": "HD0114",
+    "productId": 29,
+    "productName": "Gạch đỏ thủ công 5x10x20 (viên)",
+    "quantity": 4,
+    "price": 1000,
+    "subtotal": 4000
+  },
+  {
+    "id": 303,
+    "billId": "HD0115",
+    "productId": 29,
+    "productName": "Gạch đỏ thủ công 5x10x20 (viên)",
+    "quantity": 14,
+    "price": 1000,
+    "subtotal": 14000
+  },
+  {
+    "id": 304,
+    "billId": "HD0115",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 17,
+    "price": 80000,
+    "subtotal": 1360000
+  },
+  {
+    "id": 305,
+    "billId": "HD0115",
+    "productId": 90,
+    "productName": "Nhôm hệ 65 xingfa (cây 6m)",
+    "quantity": 9,
+    "price": 293000,
+    "subtotal": 2637000
+  },
+  {
+    "id": 306,
+    "billId": "HD0115",
+    "productId": 95,
+    "productName": "Thanh xương thạch cao U 28 (thanh)",
+    "quantity": 8,
+    "price": 22000,
+    "subtotal": 176000
+  },
+  {
+    "id": 307,
+    "billId": "HD0116",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 7,
+    "price": 4400000,
+    "subtotal": 30800000
+  },
+  {
+    "id": 308,
+    "billId": "HD0116",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 19,
+    "price": 1253000,
+    "subtotal": 23807000
+  },
+  {
+    "id": 309,
+    "billId": "HD0116",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 10,
+    "price": 21000,
+    "subtotal": 210000
+  },
+  {
+    "id": 310,
+    "billId": "HD0117",
+    "productId": 81,
+    "productName": "Kính cường lực 8mm trong suốt (m2)",
+    "quantity": 6,
+    "price": 356000,
+    "subtotal": 2136000
+  },
+  {
+    "id": 311,
+    "billId": "HD0117",
+    "productId": 12,
+    "productName": "Thép phi 8 CB240T (thanh)",
+    "quantity": 19,
+    "price": 15000,
+    "subtotal": 285000
+  },
+  {
+    "id": 312,
+    "billId": "HD0117",
+    "productId": 30,
+    "productName": "Gạch tuy nen 6x10x22 (nghìn viên)",
+    "quantity": 8,
+    "price": 1000,
+    "subtotal": 8000
+  },
+  {
+    "id": 313,
+    "billId": "HD0117",
+    "productId": 6,
+    "productName": "Cát vàng xây dựng (tấn)",
+    "quantity": 4,
+    "price": 211000,
+    "subtotal": 844000
+  },
+  {
+    "id": 314,
+    "billId": "HD0118",
+    "productId": 21,
+    "productName": "Gạch đặc 6.5x10.5x22 (viên)",
+    "quantity": 12,
+    "price": 1000,
+    "subtotal": 12000
+  },
+  {
+    "id": 315,
+    "billId": "HD0118",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 9,
+    "price": 17000,
+    "subtotal": 153000
+  },
+  {
+    "id": 316,
+    "billId": "HD0118",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 11,
+    "price": 178000,
+    "subtotal": 1958000
+  },
+  {
+    "id": 317,
+    "billId": "HD0118",
+    "productId": 7,
+    "productName": "Cát đen san lấp (m3)",
+    "quantity": 11,
+    "price": 133000,
+    "subtotal": 1463000
+  },
+  {
+    "id": 318,
+    "billId": "HD0118",
+    "productId": 39,
+    "productName": "Gạch thạch anh 60x60 (thùng)",
+    "quantity": 14,
+    "price": 182000,
+    "subtotal": 2548000
+  },
+  {
+    "id": 319,
+    "billId": "HD0119",
+    "productId": 13,
+    "productName": "Thép phi 10 CB300V (tấn)",
+    "quantity": 1,
+    "price": 16000,
+    "subtotal": 16000
+  },
+  {
+    "id": 320,
+    "billId": "HD0120",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 8,
+    "price": 1847000,
+    "subtotal": 14776000
+  },
+  {
+    "id": 321,
+    "billId": "HD0120",
+    "productId": 8,
+    "productName": "Cát mịn trát tường (tấn)",
+    "quantity": 4,
+    "price": 233000,
+    "subtotal": 932000
+  },
+  {
+    "id": 322,
+    "billId": "HD0120",
+    "productId": 40,
+    "productName": "Gạch ốp tường 30x60 trắng (viên)",
+    "quantity": 5,
+    "price": 86000,
+    "subtotal": 430000
+  },
+  {
+    "id": 323,
+    "billId": "HD0121",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 1,
+    "price": 1465000,
+    "subtotal": 1465000
+  },
+  {
+    "id": 324,
+    "billId": "HD0121",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 3,
+    "price": 17000,
+    "subtotal": 51000
+  },
+  {
+    "id": 325,
+    "billId": "HD0121",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 13,
+    "price": 1000,
+    "subtotal": 13000
+  },
+  {
+    "id": 326,
+    "billId": "HD0121",
+    "productId": 23,
+    "productName": "Gạch rỗng 4 lỗ 8x8x18 (viên)",
+    "quantity": 11,
+    "price": 1000,
+    "subtotal": 11000
+  },
+  {
+    "id": 327,
+    "billId": "HD0122",
+    "productId": 9,
+    "productName": "Đá 1x2 xây dựng (m3)",
+    "quantity": 16,
+    "price": 255000,
+    "subtotal": 4080000
+  },
+  {
+    "id": 328,
+    "billId": "HD0122",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 5,
+    "price": 3000,
+    "subtotal": 15000
+  },
+  {
+    "id": 329,
+    "billId": "HD0123",
+    "productId": 25,
+    "productName": "Gạch siêu nhẹ ACC 10x20x60 (viên)",
+    "quantity": 12,
+    "price": 4000,
+    "subtotal": 48000
+  },
+  {
+    "id": 330,
+    "billId": "HD0124",
+    "productId": 97,
+    "productName": "Keo dán gạch Mapei Kerabond (kg)",
+    "quantity": 14,
+    "price": 22000,
+    "subtotal": 308000
+  },
+  {
+    "id": 331,
+    "billId": "HD0124",
+    "productId": 52,
+    "productName": "Dây điện đôi 2.5mm² Cadivi (cuộn 100m)",
+    "quantity": 14,
+    "price": 38000,
+    "subtotal": 532000
+  },
+  {
+    "id": 332,
+    "billId": "HD0124",
+    "productId": 43,
+    "productName": "Sơn Jotun Majestic nội thất (thùng 18L)",
+    "quantity": 8,
+    "price": 173000,
+    "subtotal": 1384000
+  },
+  {
+    "id": 333,
+    "billId": "HD0124",
+    "productId": 53,
+    "productName": "Dây điện đôi 4mm² Cadivi (m)",
+    "quantity": 20,
+    "price": 50000,
+    "subtotal": 1000000
+  },
+  {
+    "id": 334,
+    "billId": "HD0124",
+    "productId": 14,
+    "productName": "Thép phi 12 CB300V (kg)",
+    "quantity": 13,
+    "price": 16000,
+    "subtotal": 208000
+  },
+  {
+    "id": 335,
+    "billId": "HD0125",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 3,
+    "price": 76000,
+    "subtotal": 228000
+  },
+  {
+    "id": 336,
+    "billId": "HD0125",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 18,
+    "price": 64000,
+    "subtotal": 1152000
+  },
+  {
+    "id": 337,
+    "billId": "HD0125",
+    "productId": 82,
+    "productName": "Kính cường lực 10mm mờ (tấm)",
+    "quantity": 15,
+    "price": 429000,
+    "subtotal": 6435000
+  },
+  {
+    "id": 338,
+    "billId": "HD0125",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 14,
+    "price": 15000,
+    "subtotal": 210000
+  },
+  {
+    "id": 339,
+    "billId": "HD0126",
+    "productId": 10,
+    "productName": "Đá 4x6 nền móng (tấn)",
+    "quantity": 7,
+    "price": 253000,
+    "subtotal": 1771000
+  },
+  {
+    "id": 340,
+    "billId": "HD0126",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 5,
+    "price": 15000,
+    "subtotal": 75000
+  },
+  {
+    "id": 341,
+    "billId": "HD0126",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 3,
+    "price": 104000,
+    "subtotal": 312000
+  },
+  {
+    "id": 342,
+    "billId": "HD0126",
+    "productId": 77,
+    "productName": "Vòi sen tắm Hafele (cái)",
+    "quantity": 6,
+    "price": 439000,
+    "subtotal": 2634000
+  },
+  {
+    "id": 343,
+    "billId": "HD0127",
+    "productId": 32,
+    "productName": "Gạch ceramic 40x40 mờ (m2)",
+    "quantity": 10,
+    "price": 89000,
+    "subtotal": 890000
+  },
+  {
+    "id": 344,
+    "billId": "HD0127",
+    "productId": 68,
+    "productName": "Ống PPR nóng lạnh D20 (cây 4m)",
+    "quantity": 2,
+    "price": 26000,
+    "subtotal": 52000
+  },
+  {
+    "id": 345,
+    "billId": "HD0127",
+    "productId": 98,
+    "productName": "Keo chít mạch đàn hồi màu (hộp 1kg)",
+    "quantity": 9,
+    "price": 110000,
+    "subtotal": 990000
+  },
+  {
+    "id": 346,
+    "billId": "HD0128",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 18,
+    "price": 104000,
+    "subtotal": 1872000
+  },
+  {
+    "id": 347,
+    "billId": "HD0128",
+    "productId": 99,
+    "productName": "Bột bả tường Maxbond nội thất (kg)",
+    "quantity": 1,
+    "price": 21000,
+    "subtotal": 21000
+  },
+  {
+    "id": 348,
+    "billId": "HD0129",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 2,
+    "price": 2198000,
+    "subtotal": 4396000
+  },
+  {
+    "id": 349,
+    "billId": "HD0129",
+    "productId": 1,
+    "productName": "Xi măng Hà Tiên (bao 50kg)",
+    "quantity": 15,
+    "price": 28000,
+    "subtotal": 420000
+  },
+  {
+    "id": 350,
+    "billId": "HD0130",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 4,
+    "price": 3210000,
+    "subtotal": 12840000
+  },
+  {
+    "id": 351,
+    "billId": "HD0130",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 3,
+    "price": 30000,
+    "subtotal": 90000
+  },
+  {
+    "id": 352,
+    "billId": "HD0130",
+    "productId": 80,
+    "productName": "Vòi rửa bát nóng lạnh Teka (cái)",
+    "quantity": 4,
+    "price": 689000,
+    "subtotal": 2756000
+  },
+  {
+    "id": 353,
+    "billId": "HD0130",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 6,
+    "price": 22000,
+    "subtotal": 132000
+  },
+  {
+    "id": 354,
+    "billId": "HD0131",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 18,
+    "price": 88000,
+    "subtotal": 1584000
+  },
+  {
+    "id": 355,
+    "billId": "HD0131",
+    "productId": 83,
+    "productName": "Kính cường lực 12mm (m2)",
+    "quantity": 11,
+    "price": 621000,
+    "subtotal": 6831000
+  },
+  {
+    "id": 356,
+    "billId": "HD0133",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 7,
+    "price": 178000,
+    "subtotal": 1246000
+  },
+  {
+    "id": 357,
+    "billId": "HD0133",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 13,
+    "price": 36000,
+    "subtotal": 468000
+  },
+  {
+    "id": 358,
+    "billId": "HD0135",
+    "productId": 26,
+    "productName": "Gạch không nung 10x20x40 (m2)",
+    "quantity": 19,
+    "price": 2000,
+    "subtotal": 38000
+  },
+  {
+    "id": 359,
+    "billId": "HD0135",
+    "productId": 84,
+    "productName": "Kính float 5mm (tấm)",
+    "quantity": 15,
+    "price": 126000,
+    "subtotal": 1890000
+  },
+  {
+    "id": 360,
+    "billId": "HD0135",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 3,
+    "price": 17000,
+    "subtotal": 51000
+  },
+  {
+    "id": 361,
+    "billId": "HD0135",
+    "productId": 70,
+    "productName": "Ống PPR nóng lạnh D32 (cây 4m)",
+    "quantity": 5,
+    "price": 50000,
+    "subtotal": 250000
+  },
+  {
+    "id": 362,
+    "billId": "HD0135",
+    "productId": 44,
+    "productName": "Sơn Jotun Jotashield ngoại thất (lít)",
+    "quantity": 19,
+    "price": 182000,
+    "subtotal": 3458000
+  },
+  {
+    "id": 363,
+    "billId": "HD0136",
+    "productId": 61,
+    "productName": "Ống nhựa PVC Tiền Phong D21 (m)",
+    "quantity": 6,
+    "price": 14000,
+    "subtotal": 84000
+  },
+  {
+    "id": 364,
+    "billId": "HD0137",
+    "productId": 17,
+    "productName": "Thép phi 18 CB400V (kg)",
+    "quantity": 12,
+    "price": 16000,
+    "subtotal": 192000
+  },
+  {
+    "id": 365,
+    "billId": "HD0138",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 8,
+    "price": 1465000,
+    "subtotal": 11720000
+  },
+  {
+    "id": 366,
+    "billId": "HD0138",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 10,
+    "price": 2000,
+    "subtotal": 20000
+  },
+  {
+    "id": 367,
+    "billId": "HD0138",
+    "productId": 70,
+    "productName": "Ống PPR nóng lạnh D32 (cây 4m)",
+    "quantity": 14,
+    "price": 50000,
+    "subtotal": 700000
+  },
+  {
+    "id": 368,
+    "billId": "HD0138",
+    "productId": 45,
+    "productName": "Sơn Nippon Odour-less nội thất (thùng 5L)",
+    "quantity": 1,
+    "price": 153000,
+    "subtotal": 153000
+  },
+  {
+    "id": 369,
+    "billId": "HD0138",
+    "productId": 46,
+    "productName": "Sơn Nippon Weatherbond ngoại thất (thùng 18L)",
+    "quantity": 9,
+    "price": 171000,
+    "subtotal": 1539000
+  },
+  {
+    "id": 370,
+    "billId": "HD0139",
+    "productId": 18,
+    "productName": "Thép phi 20 CB400V (thanh)",
+    "quantity": 5,
+    "price": 16000,
+    "subtotal": 80000
+  },
+  {
+    "id": 371,
+    "billId": "HD0140",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 20,
+    "price": 122000,
+    "subtotal": 2440000
+  },
+  {
+    "id": 372,
+    "billId": "HD0140",
+    "productId": 56,
+    "productName": "Công tắc đơn Sino Schneider (bộ)",
+    "quantity": 6,
+    "price": 29000,
+    "subtotal": 174000
+  },
+  {
+    "id": 373,
+    "billId": "HD0140",
+    "productId": 83,
+    "productName": "Kính cường lực 12mm (m2)",
+    "quantity": 16,
+    "price": 621000,
+    "subtotal": 9936000
+  },
+  {
+    "id": 374,
+    "billId": "HD0140",
+    "productId": 19,
+    "productName": "Thép phi 22 CB400V (tấn)",
+    "quantity": 20,
+    "price": 19000,
+    "subtotal": 380000
+  },
+  {
+    "id": 375,
+    "billId": "HD0140",
+    "productId": 85,
+    "productName": "Kính float 8mm (m2)",
+    "quantity": 16,
+    "price": 215000,
+    "subtotal": 3440000
+  },
+  {
+    "id": 376,
+    "billId": "HD0142",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 9,
+    "price": 21000,
+    "subtotal": 189000
+  },
+  {
+    "id": 377,
+    "billId": "HD0142",
+    "productId": 20,
+    "productName": "Thép phi 25 CB400V (kg)",
+    "quantity": 1,
+    "price": 16000,
+    "subtotal": 16000
+  },
+  {
+    "id": 378,
+    "billId": "HD0142",
+    "productId": 63,
+    "productName": "Ống nhựa PVC Tiền Phong D34 (cây 6m)",
+    "quantity": 3,
+    "price": 27000,
+    "subtotal": 81000
+  },
+  {
+    "id": 379,
+    "billId": "HD0143",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 11,
+    "price": 32000,
+    "subtotal": 352000
+  },
+  {
+    "id": 380,
+    "billId": "HD0143",
+    "productId": 2,
+    "productName": "Xi măng Holcim (bao 40kg)",
+    "quantity": 6,
+    "price": 28000,
+    "subtotal": 168000
+  },
+  {
+    "id": 381,
+    "billId": "HD0143",
+    "productId": 57,
+    "productName": "Công tắc đôi Sino Schneider (cái)",
+    "quantity": 7,
+    "price": 54000,
+    "subtotal": 378000
+  },
+  {
+    "id": 382,
+    "billId": "HD0143",
+    "productId": 58,
+    "productName": "Aptomat MCB 16A Schneider (cái)",
+    "quantity": 8,
+    "price": 50000,
+    "subtotal": 400000
+  },
+  {
+    "id": 383,
+    "billId": "HD0144",
+    "productId": 11,
+    "productName": "Thép phi 6 CB240T (kg)",
+    "quantity": 19,
+    "price": 15000,
+    "subtotal": 285000
+  },
+  {
+    "id": 384,
+    "billId": "HD0144",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 4,
+    "price": 4000,
+    "subtotal": 16000
+  },
+  {
+    "id": 385,
+    "billId": "HD0144",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 12,
+    "price": 217000,
+    "subtotal": 2604000
+  },
+  {
+    "id": 386,
+    "billId": "HD0145",
+    "productId": 12,
+    "productName": "Thép phi 8 CB240T (thanh)",
+    "quantity": 17,
+    "price": 15000,
+    "subtotal": 255000
+  },
+  {
+    "id": 387,
+    "billId": "HD0145",
+    "productId": 47,
+    "productName": "Sơn Kova nội thất C-20 (lít)",
+    "quantity": 13,
+    "price": 107000,
+    "subtotal": 1391000
+  },
+  {
+    "id": 388,
+    "billId": "HD0145",
+    "productId": 48,
+    "productName": "Sơn Kova ngoại thất C-23 (thùng 5L)",
+    "quantity": 3,
+    "price": 109000,
+    "subtotal": 327000
+  },
+  {
+    "id": 389,
+    "billId": "HD0145",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 13,
+    "price": 2923000,
+    "subtotal": 37999000
+  },
+  {
+    "id": 390,
+    "billId": "HD0146",
+    "productId": 59,
+    "productName": "Aptomat MCB 20A Schneider (cái)",
+    "quantity": 6,
+    "price": 67000,
+    "subtotal": 402000
+  },
+  {
+    "id": 391,
+    "billId": "HD0146",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 18,
+    "price": 2151000,
+    "subtotal": 38718000
+  },
+  {
+    "id": 392,
+    "billId": "HD0146",
+    "productId": 36,
+    "productName": "Gạch granite 60x60 tự nhiên (thùng)",
+    "quantity": 19,
+    "price": 169000,
+    "subtotal": 3211000
+  },
+  {
+    "id": 393,
+    "billId": "HD0146",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 19,
+    "price": 4400000,
+    "subtotal": 83600000
+  },
+  {
+    "id": 394,
+    "billId": "HD0149",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 14,
+    "price": 146000,
+    "subtotal": 2044000
+  },
+  {
+    "id": 395,
+    "billId": "HD0149",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 3,
+    "price": 1253000,
+    "subtotal": 3759000
+  },
+  {
+    "id": 396,
+    "billId": "HD0149",
+    "productId": 29,
+    "productName": "Gạch đỏ thủ công 5x10x20 (viên)",
+    "quantity": 7,
+    "price": 1000,
+    "subtotal": 7000
+  },
+  {
+    "id": 397,
+    "billId": "HD0149",
+    "productId": 94,
+    "productName": "Thanh xương thạch cao C 38 (cây 3m)",
+    "quantity": 5,
+    "price": 20000,
+    "subtotal": 100000
+  },
+  {
+    "id": 398,
+    "billId": "HD0152",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 12,
+    "price": 267000,
+    "subtotal": 3204000
+  },
+  {
+    "id": 399,
+    "billId": "HD0152",
+    "productId": 30,
+    "productName": "Gạch tuy nen 6x10x22 (nghìn viên)",
+    "quantity": 4,
+    "price": 1000,
+    "subtotal": 4000
+  },
+  {
+    "id": 400,
+    "billId": "HD0152",
+    "productId": 60,
+    "productName": "Aptomat MCB 32A Schneider (cái)",
+    "quantity": 3,
+    "price": 80000,
+    "subtotal": 240000
+  },
+  {
+    "id": 401,
+    "billId": "HD0152",
+    "productId": 13,
+    "productName": "Thép phi 10 CB300V (tấn)",
+    "quantity": 7,
+    "price": 16000,
+    "subtotal": 112000
+  },
+  {
+    "id": 402,
+    "billId": "HD0153",
+    "productId": 49,
+    "productName": "Chống thấm Sika 107 (thùng 20kg)",
+    "quantity": 4,
+    "price": 195000,
+    "subtotal": 780000
+  },
+  {
+    "id": 403,
+    "billId": "HD0154",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 5,
+    "price": 1847000,
+    "subtotal": 9235000
+  },
+  {
+    "id": 404,
+    "billId": "HD0155",
+    "productId": 65,
+    "productName": "Ống nhựa PVC Tiền Phong D60 (m)",
+    "quantity": 4,
+    "price": 64000,
+    "subtotal": 256000
+  },
+  {
+    "id": 405,
+    "billId": "HD0155",
+    "productId": 38,
+    "productName": "Gạch granite 120x60 (m2)",
+    "quantity": 11,
+    "price": 295000,
+    "subtotal": 3245000
+  },
+  {
+    "id": 406,
+    "billId": "HD0155",
+    "productId": 1,
+    "productName": "Xi măng Hà Tiên (bao 50kg)",
+    "quantity": 12,
+    "price": 28000,
+    "subtotal": 336000
+  },
+  {
+    "id": 407,
+    "billId": "HD0156",
+    "productId": 21,
+    "productName": "Gạch đặc 6.5x10.5x22 (viên)",
+    "quantity": 10,
+    "price": 1000,
+    "subtotal": 10000
+  },
+  {
+    "id": 408,
+    "billId": "HD0156",
+    "productId": 39,
+    "productName": "Gạch thạch anh 60x60 (thùng)",
+    "quantity": 12,
+    "price": 182000,
+    "subtotal": 2184000
+  },
+  {
+    "id": 409,
+    "billId": "HD0156",
+    "productId": 76,
+    "productName": "Lavabo đặt bàn Caesar LF5255 (bộ)",
+    "quantity": 7,
+    "price": 1465000,
+    "subtotal": 10255000
+  },
+  {
+    "id": 410,
+    "billId": "HD0156",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 11,
+    "price": 1000,
+    "subtotal": 11000
+  },
+  {
+    "id": 411,
+    "billId": "HD0157",
+    "productId": 14,
+    "productName": "Thép phi 12 CB300V (kg)",
+    "quantity": 11,
+    "price": 16000,
+    "subtotal": 176000
+  },
+  {
+    "id": 412,
+    "billId": "HD0157",
+    "productId": 40,
+    "productName": "Gạch ốp tường 30x60 trắng (viên)",
+    "quantity": 4,
+    "price": 86000,
+    "subtotal": 344000
+  },
+  {
+    "id": 413,
+    "billId": "HD0157",
+    "productId": 77,
+    "productName": "Vòi sen tắm Hafele (cái)",
+    "quantity": 5,
+    "price": 439000,
+    "subtotal": 2195000
+  },
+  {
+    "id": 414,
+    "billId": "HD0159",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 4,
+    "price": 17000,
+    "subtotal": 68000
+  },
+  {
+    "id": 415,
+    "billId": "HD0160",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 2,
+    "price": 21000,
+    "subtotal": 42000
+  },
+  {
+    "id": 416,
+    "billId": "HD0160",
+    "productId": 66,
+    "productName": "Ống HDPE chịu nhiệt D20 (cuộn 50m)",
+    "quantity": 4,
+    "price": 24000,
+    "subtotal": 96000
+  },
+  {
+    "id": 417,
+    "billId": "HD0160",
+    "productId": 23,
+    "productName": "Gạch rỗng 4 lỗ 8x8x18 (viên)",
+    "quantity": 9,
+    "price": 1000,
+    "subtotal": 9000
+  },
+  {
+    "id": 418,
+    "billId": "HD0160",
+    "productId": 67,
+    "productName": "Ống HDPE chịu nhiệt D25 (m)",
+    "quantity": 17,
+    "price": 28000,
+    "subtotal": 476000
+  },
+  {
+    "id": 419,
+    "billId": "HD0161",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 2,
+    "price": 22000,
+    "subtotal": 44000
+  },
+  {
+    "id": 420,
+    "billId": "HD0161",
+    "productId": 41,
+    "productName": "Sơn nội thất Dulux EasyCare (lít)",
+    "quantity": 17,
+    "price": 173000,
+    "subtotal": 2941000
+  },
+  {
+    "id": 421,
+    "billId": "HD0161",
+    "productId": 68,
+    "productName": "Ống PPR nóng lạnh D20 (cây 4m)",
+    "quantity": 12,
+    "price": 26000,
+    "subtotal": 312000
+  },
+  {
+    "id": 422,
+    "billId": "HD0161",
+    "productId": 78,
+    "productName": "Sen cây đứng Inax BFV-110S (bộ)",
+    "quantity": 10,
+    "price": 2198000,
+    "subtotal": 21980000
+  },
+  {
+    "id": 423,
+    "billId": "HD0162",
+    "productId": 95,
+    "productName": "Thanh xương thạch cao U 28 (thanh)",
+    "quantity": 18,
+    "price": 22000,
+    "subtotal": 396000
+  },
+  {
+    "id": 424,
+    "billId": "HD0163",
+    "productId": 50,
+    "productName": "Chống thấm Sika Top 107 Seal (thùng 5kg)",
+    "quantity": 13,
+    "price": 205000,
+    "subtotal": 2665000
+  },
+  {
+    "id": 425,
+    "billId": "HD0163",
+    "productId": 96,
+    "productName": "Keo dán gạch CM17 bột trắng (bao 25kg)",
+    "quantity": 11,
+    "price": 21000,
+    "subtotal": 231000
+  },
+  {
+    "id": 426,
+    "billId": "HD0163",
+    "productId": 79,
+    "productName": "Sen tắm nhiệt độ Grohe (cái)",
+    "quantity": 10,
+    "price": 3210000,
+    "subtotal": 32100000
+  },
+  {
+    "id": 427,
+    "billId": "HD0163",
+    "productId": 86,
+    "productName": "Kính hộp đôi 5+6A+5 (tấm)",
+    "quantity": 17,
+    "price": 440000,
+    "subtotal": 7480000
+  },
+  {
+    "id": 428,
+    "billId": "HD0163",
+    "productId": 3,
+    "productName": "Xi măng INSEE (bao 50kg)",
+    "quantity": 12,
+    "price": 28000,
+    "subtotal": 336000
+  },
+  {
+    "id": 429,
+    "billId": "HD0165",
+    "productId": 41,
+    "productName": "Sơn nội thất Dulux EasyCare (lít)",
+    "quantity": 8,
+    "price": 173000,
+    "subtotal": 1384000
+  },
+  {
+    "id": 430,
+    "billId": "HD0165",
+    "productId": 52,
+    "productName": "Dây điện đôi 2.5mm² Cadivi (cuộn 100m)",
+    "quantity": 8,
+    "price": 38000,
+    "subtotal": 304000
+  },
+  {
+    "id": 431,
+    "billId": "HD0166",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 11,
+    "price": 15000,
+    "subtotal": 165000
+  },
+  {
+    "id": 432,
+    "billId": "HD0167",
+    "productId": 4,
+    "productName": "Xi măng Nghi Sơn (tấn)",
+    "quantity": 1,
+    "price": 25000,
+    "subtotal": 25000
+  },
+  {
+    "id": 433,
+    "billId": "HD0167",
+    "productId": 16,
+    "productName": "Thép phi 16 CB300V (tấn)",
+    "quantity": 10,
+    "price": 17000,
+    "subtotal": 170000
+  },
+  {
+    "id": 434,
+    "billId": "HD0167",
+    "productId": 5,
+    "productName": "Xi măng Vicem (bao 50kg)",
+    "quantity": 12,
+    "price": 27000,
+    "subtotal": 324000
+  },
+  {
+    "id": 435,
+    "billId": "HD0167",
+    "productId": 97,
+    "productName": "Keo dán gạch Mapei Kerabond (kg)",
+    "quantity": 10,
+    "price": 22000,
+    "subtotal": 220000
+  },
+  {
+    "id": 436,
+    "billId": "HD0169",
+    "productId": 42,
+    "productName": "Sơn ngoại thất Dulux WeatherShield (thùng 5L)",
+    "quantity": 19,
+    "price": 162000,
+    "subtotal": 3078000
+  },
+  {
+    "id": 437,
+    "billId": "HD0169",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 16,
+    "price": 36000,
+    "subtotal": 576000
+  },
+  {
+    "id": 438,
+    "billId": "HD0169",
+    "productId": 5,
+    "productName": "Xi măng Vicem (bao 50kg)",
+    "quantity": 15,
+    "price": 27000,
+    "subtotal": 405000
+  },
+  {
+    "id": 439,
+    "billId": "HD0169",
+    "productId": 80,
+    "productName": "Vòi rửa bát nóng lạnh Teka (cái)",
+    "quantity": 20,
+    "price": 689000,
+    "subtotal": 13780000
+  },
+  {
+    "id": 440,
+    "billId": "HD0170",
+    "productId": 43,
+    "productName": "Sơn Jotun Majestic nội thất (thùng 18L)",
+    "quantity": 8,
+    "price": 173000,
+    "subtotal": 1384000
+  },
+  {
+    "id": 441,
+    "billId": "HD0172",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 18,
+    "price": 30000,
+    "subtotal": 540000
+  },
+  {
+    "id": 442,
+    "billId": "HD0172",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 19,
+    "price": 3000,
+    "subtotal": 57000
+  },
+  {
+    "id": 443,
+    "billId": "HD0172",
+    "productId": 31,
+    "productName": "Gạch ceramic 30x30 bóng (viên)",
+    "quantity": 6,
+    "price": 76000,
+    "subtotal": 456000
+  },
+  {
+    "id": 444,
+    "billId": "HD0172",
+    "productId": 87,
+    "productName": "Kính phản quang 6mm (m2)",
+    "quantity": 8,
+    "price": 308000,
+    "subtotal": 2464000
+  },
+  {
+    "id": 445,
+    "billId": "HD0172",
+    "productId": 44,
+    "productName": "Sơn Jotun Jotashield ngoại thất (lít)",
+    "quantity": 18,
+    "price": 182000,
+    "subtotal": 3276000
+  },
+  {
+    "id": 446,
+    "billId": "HD0173",
+    "productId": 17,
+    "productName": "Thép phi 18 CB400V (kg)",
+    "quantity": 15,
+    "price": 16000,
+    "subtotal": 240000
+  },
+  {
+    "id": 447,
+    "billId": "HD0173",
+    "productId": 71,
+    "productName": "Bồn cầu 1 khối TOTO CS300 (cái)",
+    "quantity": 3,
+    "price": 2923000,
+    "subtotal": 8769000
+  },
+  {
+    "id": 448,
+    "billId": "HD0173",
+    "productId": 98,
+    "productName": "Keo chít mạch đàn hồi màu (hộp 1kg)",
+    "quantity": 1,
+    "price": 110000,
+    "subtotal": 110000
+  },
+  {
+    "id": 449,
+    "billId": "HD0173",
+    "productId": 25,
+    "productName": "Gạch siêu nhẹ ACC 10x20x60 (viên)",
+    "quantity": 9,
+    "price": 4000,
+    "subtotal": 36000
+  },
+  {
+    "id": 450,
+    "billId": "HD0174",
+    "productId": 32,
+    "productName": "Gạch ceramic 40x40 mờ (m2)",
+    "quantity": 15,
+    "price": 89000,
+    "subtotal": 1335000
+  },
+  {
+    "id": 451,
+    "billId": "HD0175",
+    "productId": 6,
+    "productName": "Cát vàng xây dựng (tấn)",
+    "quantity": 11,
+    "price": 211000,
+    "subtotal": 2321000
+  },
+  {
+    "id": 452,
+    "billId": "HD0176",
+    "productId": 26,
+    "productName": "Gạch không nung 10x20x40 (m2)",
+    "quantity": 5,
+    "price": 2000,
+    "subtotal": 10000
+  },
+  {
+    "id": 453,
+    "billId": "HD0176",
+    "productId": 33,
+    "productName": "Gạch ceramic 60x60 bóng (thùng)",
+    "quantity": 11,
+    "price": 104000,
+    "subtotal": 1144000
+  },
+  {
+    "id": 454,
+    "billId": "HD0178",
+    "productId": 7,
+    "productName": "Cát đen san lấp (m3)",
+    "quantity": 2,
+    "price": 133000,
+    "subtotal": 266000
+  },
+  {
+    "id": 455,
+    "billId": "HD0179",
+    "productId": 18,
+    "productName": "Thép phi 20 CB400V (thanh)",
+    "quantity": 6,
+    "price": 16000,
+    "subtotal": 96000
+  },
+  {
+    "id": 456,
+    "billId": "HD0179",
+    "productId": 27,
+    "productName": "Gạch không nung 15x20x40 (viên)",
+    "quantity": 1,
+    "price": 2000,
+    "subtotal": 2000
+  },
+  {
+    "id": 457,
+    "billId": "HD0179",
+    "productId": 99,
+    "productName": "Bột bả tường Maxbond nội thất (kg)",
+    "quantity": 11,
+    "price": 21000,
+    "subtotal": 231000
+  },
+  {
+    "id": 458,
+    "billId": "HD0179",
+    "productId": 72,
+    "productName": "Bồn cầu 2 khối Inax C-102 (bộ)",
+    "quantity": 2,
+    "price": 2151000,
+    "subtotal": 4302000
+  },
+  {
+    "id": 459,
+    "billId": "HD0179",
+    "productId": 100,
+    "productName": "Bột bả tường Promix ngoại thất (bao 25kg)",
+    "quantity": 3,
+    "price": 22000,
+    "subtotal": 66000
+  },
+  {
+    "id": 460,
+    "billId": "HD0180",
+    "productId": 70,
+    "productName": "Ống PPR nóng lạnh D32 (cây 4m)",
+    "quantity": 16,
+    "price": 50000,
+    "subtotal": 800000
+  },
+  {
+    "id": 461,
+    "billId": "HD0180",
+    "productId": 34,
+    "productName": "Gạch porcelain 60x60 siêu bóng (viên)",
+    "quantity": 6,
+    "price": 178000,
+    "subtotal": 1068000
+  },
+  {
+    "id": 462,
+    "billId": "HD0180",
+    "productId": 19,
+    "productName": "Thép phi 22 CB400V (tấn)",
+    "quantity": 3,
+    "price": 19000,
+    "subtotal": 57000
+  },
+  {
+    "id": 463,
+    "billId": "HD0182",
+    "productId": 20,
+    "productName": "Thép phi 25 CB400V (kg)",
+    "quantity": 4,
+    "price": 16000,
+    "subtotal": 64000
+  },
+  {
+    "id": 464,
+    "billId": "HD0182",
+    "productId": 24,
+    "productName": "Gạch siêu nhẹ ACC 7.5x20x60 (m2)",
+    "quantity": 15,
+    "price": 3000,
+    "subtotal": 45000
+  },
+  {
+    "id": 465,
+    "billId": "HD0182",
+    "productId": 61,
+    "productName": "Ống nhựa PVC Tiền Phong D21 (m)",
+    "quantity": 8,
+    "price": 14000,
+    "subtotal": 112000
+  },
+  {
+    "id": 466,
+    "billId": "HD0182",
+    "productId": 88,
+    "productName": "Nhôm định hình hệ 55 trắng (cây 6m)",
+    "quantity": 10,
+    "price": 193000,
+    "subtotal": 1930000
+  },
+  {
+    "id": 467,
+    "billId": "HD0182",
+    "productId": 89,
+    "productName": "Nhôm định hình hệ 55 vân gỗ (m)",
+    "quantity": 17,
+    "price": 231000,
+    "subtotal": 3927000
+  },
+  {
+    "id": 468,
+    "billId": "HD0183",
+    "productId": 35,
+    "productName": "Gạch porcelain 80x80 siêu bóng (m2)",
+    "quantity": 6,
+    "price": 217000,
+    "subtotal": 1302000
+  },
+  {
+    "id": 469,
+    "billId": "HD0183",
+    "productId": 91,
+    "productName": "Thạch cao tấm thường 9mm (tấm)",
+    "quantity": 10,
+    "price": 88000,
+    "subtotal": 880000
+  },
+  {
+    "id": 470,
+    "billId": "HD0183",
+    "productId": 62,
+    "productName": "Ống nhựa PVC Tiền Phong D27 (cây 4m)",
+    "quantity": 8,
+    "price": 21000,
+    "subtotal": 168000
+  },
+  {
+    "id": 471,
+    "billId": "HD0183",
+    "productId": 20,
+    "productName": "Thép phi 25 CB400V (kg)",
+    "quantity": 19,
+    "price": 16000,
+    "subtotal": 304000
+  },
+  {
+    "id": 472,
+    "billId": "HD0184",
+    "productId": 8,
+    "productName": "Cát mịn trát tường (tấn)",
+    "quantity": 8,
+    "price": 233000,
+    "subtotal": 1864000
+  },
+  {
+    "id": 473,
+    "billId": "HD0184",
+    "productId": 53,
+    "productName": "Dây điện đôi 4mm² Cadivi (m)",
+    "quantity": 2,
+    "price": 50000,
+    "subtotal": 100000
+  },
+  {
+    "id": 474,
+    "billId": "HD0184",
+    "productId": 36,
+    "productName": "Gạch granite 60x60 tự nhiên (thùng)",
+    "quantity": 20,
+    "price": 169000,
+    "subtotal": 3380000
+  },
+  {
+    "id": 475,
+    "billId": "HD0185",
+    "productId": 22,
+    "productName": "Gạch rỗng 8 lỗ 6x10x20 (nghìn viên)",
+    "quantity": 2,
+    "price": 1000,
+    "subtotal": 2000
+  },
+  {
+    "id": 476,
+    "billId": "HD0186",
+    "productId": 63,
+    "productName": "Ống nhựa PVC Tiền Phong D34 (cây 6m)",
+    "quantity": 2,
+    "price": 27000,
+    "subtotal": 54000
+  },
+  {
+    "id": 477,
+    "billId": "HD0186",
+    "productId": 54,
+    "productName": "Dây điện đơn 6mm² Cadivi (cuộn 100m)",
+    "quantity": 8,
+    "price": 64000,
+    "subtotal": 512000
+  },
+  {
+    "id": 478,
+    "billId": "HD0186",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 14,
+    "price": 122000,
+    "subtotal": 1708000
+  },
+  {
+    "id": 479,
+    "billId": "HD0186",
+    "productId": 55,
+    "productName": "Ổ cắm điện Sino Schneider (cái)",
+    "quantity": 12,
+    "price": 36000,
+    "subtotal": 432000
+  },
+  {
+    "id": 480,
+    "billId": "HD0187",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 17,
+    "price": 32000,
+    "subtotal": 544000
+  },
+  {
+    "id": 481,
+    "billId": "HD0189",
+    "productId": 11,
+    "productName": "Thép phi 6 CB240T (kg)",
+    "quantity": 12,
+    "price": 15000,
+    "subtotal": 180000
+  },
+  {
+    "id": 482,
+    "billId": "HD0189",
+    "productId": 37,
+    "productName": "Gạch granite 80x80 xám (viên)",
+    "quantity": 20,
+    "price": 267000,
+    "subtotal": 5340000
+  },
+  {
+    "id": 483,
+    "billId": "HD0190",
+    "productId": 12,
+    "productName": "Thép phi 8 CB240T (thanh)",
+    "quantity": 18,
+    "price": 15000,
+    "subtotal": 270000
+  },
+  {
+    "id": 484,
+    "billId": "HD0190",
+    "productId": 93,
+    "productName": "Thạch cao tấm chống cháy 12mm (tấm)",
+    "quantity": 8,
+    "price": 146000,
+    "subtotal": 1168000
+  },
+  {
+    "id": 485,
+    "billId": "HD0191",
+    "productId": 38,
+    "productName": "Gạch granite 120x60 (m2)",
+    "quantity": 4,
+    "price": 295000,
+    "subtotal": 1180000
+  },
+  {
+    "id": 486,
+    "billId": "HD0193",
+    "productId": 90,
+    "productName": "Nhôm hệ 65 xingfa (cây 6m)",
+    "quantity": 18,
+    "price": 293000,
+    "subtotal": 5274000
+  },
+  {
+    "id": 487,
+    "billId": "HD0193",
+    "productId": 92,
+    "productName": "Thạch cao tấm chống ẩm 9mm (m2)",
+    "quantity": 11,
+    "price": 122000,
+    "subtotal": 1342000
+  },
+  {
+    "id": 488,
+    "billId": "HD0193",
+    "productId": 65,
+    "productName": "Ống nhựa PVC Tiền Phong D60 (m)",
+    "quantity": 6,
+    "price": 64000,
+    "subtotal": 384000
+  },
+  {
+    "id": 489,
+    "billId": "HD0194",
+    "productId": 13,
+    "productName": "Thép phi 10 CB300V (tấn)",
+    "quantity": 3,
+    "price": 16000,
+    "subtotal": 48000
+  },
+  {
+    "id": 490,
+    "billId": "HD0195",
+    "productId": 73,
+    "productName": "Bồn cầu treo tường American Standard (cái)",
+    "quantity": 4,
+    "price": 4400000,
+    "subtotal": 17600000
+  },
+  {
+    "id": 491,
+    "billId": "HD0195",
+    "productId": 39,
+    "productName": "Gạch thạch anh 60x60 (thùng)",
+    "quantity": 8,
+    "price": 182000,
+    "subtotal": 1456000
+  },
+  {
+    "id": 492,
+    "billId": "HD0195",
+    "productId": 66,
+    "productName": "Ống HDPE chịu nhiệt D20 (cuộn 50m)",
+    "quantity": 13,
+    "price": 24000,
+    "subtotal": 312000
+  },
+  {
+    "id": 493,
+    "billId": "HD0195",
+    "productId": 74,
+    "productName": "Lavabo đặt bàn Inax AL-2395V (bộ)",
+    "quantity": 17,
+    "price": 1253000,
+    "subtotal": 21301000
+  },
+  {
+    "id": 494,
+    "billId": "HD0195",
+    "productId": 28,
+    "productName": "Gạch bê tông khí chưng áp (m2)",
+    "quantity": 12,
+    "price": 4000,
+    "subtotal": 48000
+  },
+  {
+    "id": 495,
+    "billId": "HD0196",
+    "productId": 67,
+    "productName": "Ống HDPE chịu nhiệt D25 (m)",
+    "quantity": 7,
+    "price": 28000,
+    "subtotal": 196000
+  },
+  {
+    "id": 496,
+    "billId": "HD0196",
+    "productId": 85,
+    "productName": "Kính float 8mm (m2)",
+    "quantity": 5,
+    "price": 215000,
+    "subtotal": 1075000
+  },
+  {
+    "id": 497,
+    "billId": "HD0198",
+    "productId": 9,
+    "productName": "Đá 1x2 xây dựng (m3)",
+    "quantity": 2,
+    "price": 255000,
+    "subtotal": 510000
+  },
+  {
+    "id": 498,
+    "billId": "HD0198",
+    "productId": 81,
+    "productName": "Kính cường lực 8mm trong suốt (m2)",
+    "quantity": 11,
+    "price": 356000,
+    "subtotal": 3916000
+  },
+  {
+    "id": 499,
+    "billId": "HD0198",
+    "productId": 14,
+    "productName": "Thép phi 12 CB300V (kg)",
+    "quantity": 4,
+    "price": 16000,
+    "subtotal": 64000
+  },
+  {
+    "id": 500,
+    "billId": "HD0199",
+    "productId": 64,
+    "productName": "Ống nhựa PVC Tiền Phong D42 (m)",
+    "quantity": 18,
+    "price": 32000,
+    "subtotal": 576000
+  },
+  {
+    "id": 501,
+    "billId": "HD0199",
+    "productId": 68,
+    "productName": "Ống PPR nóng lạnh D20 (cây 4m)",
+    "quantity": 12,
+    "price": 26000,
+    "subtotal": 312000
+  },
+  {
+    "id": 502,
+    "billId": "HD0199",
+    "productId": 75,
+    "productName": "Lavabo treo tường Toto L710CR (cái)",
+    "quantity": 3,
+    "price": 1847000,
+    "subtotal": 5541000
+  },
+  {
+    "id": 503,
+    "billId": "HD0199",
+    "productId": 40,
+    "productName": "Gạch ốp tường 30x60 trắng (viên)",
+    "quantity": 18,
+    "price": 86000,
+    "subtotal": 1548000
+  },
+  {
+    "id": 504,
+    "billId": "HD0200",
+    "productId": 10,
+    "productName": "Đá 4x6 nền móng (tấn)",
+    "quantity": 2,
+    "price": 253000,
+    "subtotal": 506000
+  },
+  {
+    "id": 505,
+    "billId": "HD0200",
+    "productId": 15,
+    "productName": "Thép phi 14 CB300V (thanh)",
+    "quantity": 19,
+    "price": 15000,
+    "subtotal": 285000
+  },
+  {
+    "id": 506,
+    "billId": "HD0200",
+    "productId": 51,
+    "productName": "Dây điện đơn 1.5mm² Cadivi (m)",
+    "quantity": 5,
+    "price": 17000,
+    "subtotal": 85000
+  },
+  {
+    "id": 507,
+    "billId": "HD0200",
+    "productId": 69,
+    "productName": "Ống PPR nóng lạnh D25 (m)",
+    "quantity": 8,
+    "price": 30000,
+    "subtotal": 240000
+  },
+  {
+    "id": 508,
+    "billId": "HD0200",
+    "productId": 82,
+    "productName": "Kính cường lực 10mm mờ (tấm)",
+    "quantity": 18,
+    "price": 429000,
+    "subtotal": 7722000
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Vật liệu xây dựng thô"
+  },
+  {
+    "id": 2,
+    "name": "Sắt thép xây dựng"
+  },
+  {
+    "id": 3,
+    "name": "Gạch xây"
+  },
+  {
+    "id": 4,
+    "name": "Gạch ốp lát"
+  },
+  {
+    "id": 5,
+    "name": "Sơn & chống thấm"
+  },
+  {
+    "id": 6,
+    "name": "Thiết bị điện"
+  },
+  {
+    "id": 7,
+    "name": "Thiết bị nước / ống nước"
+  },
+  {
+    "id": 8,
+    "name": "Thiết bị vệ sinh"
+  },
+  {
+    "id": 9,
+    "name": "Kính – nhôm – cửa"
+  },
+  {
+    "id": 10,
+    "name": "Vật liệu hoàn thiện / trang trí"
+  }
+]

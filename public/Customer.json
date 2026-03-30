@@ -1,0 +1,802 @@
+[
+  {
+    "id": "KH001",
+    "name": "Ngô Bảo Tú",
+    "phone": "0787760318",
+    "email": "tu1@gmail.com",
+    "address": "116 Nguyễn Huệ, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH002",
+    "name": "Võ Kim Tuấn",
+    "phone": "0750269929",
+    "email": "tuan2@gmail.com",
+    "address": "113 Phan Đình Phùng, Bà Rịa – Vũng Tàu",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH003",
+    "name": "Nguyễn Văn Linh",
+    "phone": "0374030981",
+    "email": "linh3@gmail.com",
+    "address": "54 Trường Chinh, Bà Rịa – Vũng Tàu",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH004",
+    "name": "Dương Anh Việt",
+    "phone": "0390964388",
+    "email": "viet4@gmail.com",
+    "address": "89 Phạm Ngọc Thạch, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH005",
+    "name": "Trần Thu Phúc",
+    "phone": "0985739365",
+    "email": "phuc5@gmail.com",
+    "address": "3 Võ Thị Sáu, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH006",
+    "name": "Trần Thành Đạt",
+    "phone": "0828025766",
+    "email": "dat6@gmail.com",
+    "address": "171 Phan Đình Phùng, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH007",
+    "name": "Đỗ Mai Linh",
+    "phone": "0717004858",
+    "email": "linh7@gmail.com",
+    "address": "130 Hoàng Văn Thụ, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH008",
+    "name": "Đỗ Đức Long",
+    "phone": "0990974991",
+    "email": "long8@gmail.com",
+    "address": "216 Võ Thị Sáu, Bà Rịa – Vũng Tàu",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH009",
+    "name": "Nguyễn Thu Bình",
+    "phone": "0921926874",
+    "email": "binh9@gmail.com",
+    "address": "48 Trường Chinh, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH010",
+    "name": "Lý Kim Bình",
+    "phone": "0935115011",
+    "email": "binh10@gmail.com",
+    "address": "202 Võ Thị Sáu, Bà Rịa – Vũng Tàu",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH011",
+    "name": "Hồ Đức Khoa",
+    "phone": "0730679501",
+    "email": "khoa11@gmail.com",
+    "address": "94 Nguyễn Huệ, Đà Nẵng",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH012",
+    "name": "Bùi Thu Hùng",
+    "phone": "0910008870",
+    "email": "hung12@gmail.com",
+    "address": "218 Điện Biên Phủ, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH013",
+    "name": "Đỗ Thu Long",
+    "phone": "0846061713",
+    "email": "long13@gmail.com",
+    "address": "232 Trần Hưng Đạo, Bình Dương",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH014",
+    "name": "Bùi Thị Phúc",
+    "phone": "0726299032",
+    "email": "phuc14@gmail.com",
+    "address": "209 Nguyễn Văn Linh, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH015",
+    "name": "Lê Anh Nam",
+    "phone": "0337795508",
+    "email": "nam15@gmail.com",
+    "address": "256 Lê Lợi, Bà Rịa – Vũng Tàu",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH016",
+    "name": "Nguyễn Đức Hùng",
+    "phone": "0587674372",
+    "email": "hung16@gmail.com",
+    "address": "265 Võ Thị Sáu, Đồng Nai",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH017",
+    "name": "Dương Kim Phúc",
+    "phone": "0734511704",
+    "email": "phuc17@gmail.com",
+    "address": "94 Hoàng Văn Thụ, Hà Nội",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH018",
+    "name": "Võ Thu Tú",
+    "phone": "0386242315",
+    "email": "tu18@gmail.com",
+    "address": "89 Hoàng Văn Thụ, Hà Nội",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH019",
+    "name": "Võ Anh Khải",
+    "phone": "0903781269",
+    "email": "khai19@gmail.com",
+    "address": "89 Trần Hưng Đạo, Tiền Giang",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH020",
+    "name": "Lý Thu Thảo",
+    "phone": "0869408826",
+    "email": "thao20@gmail.com",
+    "address": "267 Lê Lợi, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH021",
+    "name": "Hoàng Quang Nam",
+    "phone": "0824170541",
+    "email": "nam21@gmail.com",
+    "address": "236 Hoàng Văn Thụ, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH022",
+    "name": "Đỗ Thị Phương",
+    "phone": "0727770788",
+    "email": "phuong22@gmail.com",
+    "address": "5 Nguyễn Trãi, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH023",
+    "name": "Bùi Ngọc Tú",
+    "phone": "0770512480",
+    "email": "tu23@gmail.com",
+    "address": "229 Nguyễn Văn Linh, TP.HCM",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH024",
+    "name": "Hoàng Ngọc Khoa",
+    "phone": "0348552704",
+    "email": "khoa24@gmail.com",
+    "address": "76 Võ Thị Sáu, Bà Rịa – Vũng Tàu",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH025",
+    "name": "Dương Văn Đạt",
+    "phone": "0866967980",
+    "email": "dat25@gmail.com",
+    "address": "30 Nguyễn Huệ, Đồng Nai",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH026",
+    "name": "Huỳnh Quang Tuấn",
+    "phone": "0829205754",
+    "email": "tuan26@gmail.com",
+    "address": "191 Điện Biên Phủ, Đồng Nai",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH027",
+    "name": "Huỳnh Đức Khoa",
+    "phone": "0899743979",
+    "email": "khoa27@gmail.com",
+    "address": "253 Phạm Ngọc Thạch, Bến Tre",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH028",
+    "name": "Đỗ Văn Khoa",
+    "phone": "0514327640",
+    "email": "khoa28@gmail.com",
+    "address": "229 Điện Biên Phủ, Bà Rịa – Vũng Tàu",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH029",
+    "name": "Bùi Anh Dũng",
+    "phone": "0399264612",
+    "email": "dung29@gmail.com",
+    "address": "95 Trường Chinh, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH030",
+    "name": "Hồ Anh Bình",
+    "phone": "0862740541",
+    "email": "binh30@gmail.com",
+    "address": "147 Nguyễn Huệ, Bình Dương",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH031",
+    "name": "Huỳnh Kim Trung",
+    "phone": "0526961852",
+    "email": "trung31@gmail.com",
+    "address": "179 Phạm Ngọc Thạch, Tiền Giang",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH032",
+    "name": "Lê Thị Đạt",
+    "phone": "0571851125",
+    "email": "dat32@gmail.com",
+    "address": "268 Trần Hưng Đạo, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH033",
+    "name": "Đặng Hữu Vy",
+    "phone": "0383516641",
+    "email": "vy33@gmail.com",
+    "address": "136 Cách Mạng Tháng 8, Đà Nẵng",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH034",
+    "name": "Đặng Thành Hải",
+    "phone": "0796846345",
+    "email": "hai34@gmail.com",
+    "address": "65 Lê Lợi, Long An",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH035",
+    "name": "Lê Mai Khoa",
+    "phone": "0305419503",
+    "email": "khoa35@gmail.com",
+    "address": "66 Nguyễn Trãi, Đồng Nai",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH036",
+    "name": "Vũ Ngọc Bình",
+    "phone": "0530969960",
+    "email": "binh36@gmail.com",
+    "address": "1 Võ Thị Sáu, Bà Rịa – Vũng Tàu",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH037",
+    "name": "Dương Anh Khoa",
+    "phone": "0762652359",
+    "email": "khoa37@gmail.com",
+    "address": "121 Nguyễn Văn Linh, Cần Thơ",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH038",
+    "name": "Huỳnh Thị Bình",
+    "phone": "0900771192",
+    "email": "binh38@gmail.com",
+    "address": "181 Bà Triệu, Đồng Nai",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH039",
+    "name": "Ngô Thành Việt",
+    "phone": "0319873603",
+    "email": "viet39@gmail.com",
+    "address": "69 Nguyễn Văn Linh, TP.HCM",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH040",
+    "name": "Phạm Thành Dũng",
+    "phone": "0591270397",
+    "email": "dung40@gmail.com",
+    "address": "65 Nguyễn Văn Linh, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH041",
+    "name": "Lý Minh Hoa",
+    "phone": "0998033497",
+    "email": "hoa41@gmail.com",
+    "address": "279 Bà Triệu, Cần Thơ",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH042",
+    "name": "Lê Văn Dũng",
+    "phone": "0511330630",
+    "email": "dung42@gmail.com",
+    "address": "32 Nguyễn Trãi, Đồng Nai",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH043",
+    "name": "Lê Thị Linh",
+    "phone": "0776941102",
+    "email": "linh43@gmail.com",
+    "address": "120 Lê Lợi, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH044",
+    "name": "Huỳnh Quang Hùng",
+    "phone": "0833676806",
+    "email": "hung44@gmail.com",
+    "address": "283 Bà Triệu, Tiền Giang",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH045",
+    "name": "Hồ Mai Việt",
+    "phone": "0750452591",
+    "email": "viet45@gmail.com",
+    "address": "208 Nguyễn Huệ, Bà Rịa – Vũng Tàu",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH046",
+    "name": "Đặng Thu Phương",
+    "phone": "0303541425",
+    "email": "phuong46@gmail.com",
+    "address": "41 Trường Chinh, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH047",
+    "name": "Võ Thành Hải",
+    "phone": "0768928862",
+    "email": "hai47@gmail.com",
+    "address": "182 Hoàng Văn Thụ, Đồng Nai",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH048",
+    "name": "Đặng Thu Linh",
+    "phone": "0348749826",
+    "email": "linh48@gmail.com",
+    "address": "65 Nguyễn Trãi, TP.HCM",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH049",
+    "name": "Phạm Hữu Việt",
+    "phone": "0735229232",
+    "email": "viet49@gmail.com",
+    "address": "119 Cách Mạng Tháng 8, TP.HCM",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH050",
+    "name": "Hoàng Thu Hùng",
+    "phone": "0310639947",
+    "email": "hung50@gmail.com",
+    "address": "139 Trần Hưng Đạo, Bà Rịa – Vũng Tàu",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH051",
+    "name": "Hoàng Thị Bình",
+    "phone": "0979001863",
+    "email": "binh51@gmail.com",
+    "address": "139 Phan Đình Phùng, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH052",
+    "name": "Đặng Đức Nam",
+    "phone": "0848971547",
+    "email": "nam52@gmail.com",
+    "address": "257 Võ Thị Sáu, Bà Rịa – Vũng Tàu",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH053",
+    "name": "Trần Hữu Phương",
+    "phone": "0578934256",
+    "email": "phuong53@gmail.com",
+    "address": "250 Phạm Ngọc Thạch, Bà Rịa – Vũng Tàu",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH054",
+    "name": "Hồ Văn Tuấn",
+    "phone": "0708270365",
+    "email": "tuan54@gmail.com",
+    "address": "176 Nguyễn Thị Minh Khai, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH055",
+    "name": "Phạm Minh Thảo",
+    "phone": "0560393769",
+    "email": "thao55@gmail.com",
+    "address": "44 Trường Chinh, Tiền Giang",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH056",
+    "name": "Đỗ Ngọc Tuấn",
+    "phone": "0720877165",
+    "email": "tuan56@gmail.com",
+    "address": "125 Phan Đình Phùng, Đồng Nai",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH057",
+    "name": "Hồ Đức Phương",
+    "phone": "0981876911",
+    "email": "phuong57@gmail.com",
+    "address": "207 Nguyễn Huệ, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH058",
+    "name": "Huỳnh Kim Hải",
+    "phone": "0516281962",
+    "email": "hai58@gmail.com",
+    "address": "49 Nguyễn Văn Linh, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH059",
+    "name": "Phạm Ngọc Hùng",
+    "phone": "0368289283",
+    "email": "hung59@gmail.com",
+    "address": "61 Điện Biên Phủ, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH060",
+    "name": "Hoàng Hữu Thảo",
+    "phone": "0506368120",
+    "email": "thao60@gmail.com",
+    "address": "250 Hoàng Văn Thụ, TP.HCM",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH061",
+    "name": "Đỗ Quang Hùng",
+    "phone": "0881238690",
+    "email": "hung61@gmail.com",
+    "address": "294 Võ Thị Sáu, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH062",
+    "name": "Nguyễn Anh Phương",
+    "phone": "0511668901",
+    "email": "phuong62@gmail.com",
+    "address": "207 Bà Triệu, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH063",
+    "name": "Phạm Hữu Vy",
+    "phone": "0771399787",
+    "email": "vy63@gmail.com",
+    "address": "4 Phan Đình Phùng, TP.HCM",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH064",
+    "name": "Ngô Thị Hoa",
+    "phone": "0980027238",
+    "email": "hoa64@gmail.com",
+    "address": "242 Trần Hưng Đạo, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH065",
+    "name": "Nguyễn Minh Hoa",
+    "phone": "0338550533",
+    "email": "hoa65@gmail.com",
+    "address": "214 Điện Biên Phủ, Đồng Nai",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH066",
+    "name": "Phạm Bảo Khoa",
+    "phone": "0552618961",
+    "email": "khoa66@gmail.com",
+    "address": "79 Cách Mạng Tháng 8, Tiền Giang",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH067",
+    "name": "Trần Đức Dũng",
+    "phone": "0777561760",
+    "email": "dung67@gmail.com",
+    "address": "194 Hoàng Văn Thụ, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH068",
+    "name": "Nguyễn Thị Bình",
+    "phone": "0387286308",
+    "email": "binh68@gmail.com",
+    "address": "49 Nguyễn Huệ, Đồng Nai",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH069",
+    "name": "Bùi Minh Phương",
+    "phone": "0939852999",
+    "email": "phuong69@gmail.com",
+    "address": "180 Nguyễn Huệ, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH070",
+    "name": "Trần Lan Hùng",
+    "phone": "0347491377",
+    "email": "hung70@gmail.com",
+    "address": "237 Nguyễn Thị Minh Khai, Tiền Giang",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH071",
+    "name": "Võ Thanh Hoa",
+    "phone": "0760266636",
+    "email": "hoa71@gmail.com",
+    "address": "263 Lý Thường Kiệt, Bình Dương",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH072",
+    "name": "Lê Ngọc Phúc",
+    "phone": "0950836153",
+    "email": "phuc72@gmail.com",
+    "address": "295 Cách Mạng Tháng 8, Đồng Nai",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH073",
+    "name": "Trần Thành Phúc",
+    "phone": "0874464633",
+    "email": "phuc73@gmail.com",
+    "address": "39 Nguyễn Thị Minh Khai, Đà Nẵng",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH074",
+    "name": "Vũ Kim Hiếu",
+    "phone": "0758055995",
+    "email": "hieu74@gmail.com",
+    "address": "110 Võ Thị Sáu, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH075",
+    "name": "Hồ Thu Linh",
+    "phone": "0588668324",
+    "email": "linh75@gmail.com",
+    "address": "192 Trường Chinh, Bến Tre",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH076",
+    "name": "Dương Đức Long",
+    "phone": "0583185914",
+    "email": "long76@gmail.com",
+    "address": "5 Trường Chinh, Tiền Giang",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH077",
+    "name": "Lê Minh Hiếu",
+    "phone": "0747639314",
+    "email": "hieu77@gmail.com",
+    "address": "63 Nguyễn Văn Linh, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH078",
+    "name": "Nguyễn Đức Hoa",
+    "phone": "0808517219",
+    "email": "hoa78@gmail.com",
+    "address": "65 Nguyễn Văn Linh, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH079",
+    "name": "Lý Minh Khải",
+    "phone": "0912476103",
+    "email": "khai79@gmail.com",
+    "address": "193 Điện Biên Phủ, Cần Thơ",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH080",
+    "name": "Bùi Thanh Phương",
+    "phone": "0360514834",
+    "email": "phuong80@gmail.com",
+    "address": "199 Võ Thị Sáu, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH081",
+    "name": "Hồ Thành Trung",
+    "phone": "0807872971",
+    "email": "trung81@gmail.com",
+    "address": "267 Nguyễn Huệ, Đà Nẵng",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH082",
+    "name": "Ngô Thành Thảo",
+    "phone": "0781915032",
+    "email": "thao82@gmail.com",
+    "address": "298 Phạm Ngọc Thạch, TP.HCM",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH083",
+    "name": "Hoàng Minh Bình",
+    "phone": "0917090239",
+    "email": "binh83@gmail.com",
+    "address": "55 Trần Hưng Đạo, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH084",
+    "name": "Vũ Mai Nam",
+    "phone": "0939050929",
+    "email": "nam84@gmail.com",
+    "address": "176 Nguyễn Trãi, Hà Nội",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH085",
+    "name": "Vũ Mai Hải",
+    "phone": "0744804262",
+    "email": "hai85@gmail.com",
+    "address": "46 Phạm Ngọc Thạch, Bình Dương",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH086",
+    "name": "Hồ Lan Việt",
+    "phone": "0814513302",
+    "email": "viet86@gmail.com",
+    "address": "206 Trần Hưng Đạo, Bình Dương",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH087",
+    "name": "Nguyễn Kim Hiếu",
+    "phone": "0806952441",
+    "email": "hieu87@gmail.com",
+    "address": "280 Trường Chinh, Bến Tre",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH088",
+    "name": "Lý Quang Nam",
+    "phone": "0910227804",
+    "email": "nam88@gmail.com",
+    "address": "103 Trường Chinh, Long An",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH089",
+    "name": "Dương Ngọc Đạt",
+    "phone": "0361341328",
+    "email": "dat89@gmail.com",
+    "address": "62 Phan Đình Phùng, Đà Nẵng",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH090",
+    "name": "Huỳnh Văn Phương",
+    "phone": "0773703190",
+    "email": "phuong90@gmail.com",
+    "address": "239 Nguyễn Thị Minh Khai, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH091",
+    "name": "Dương Thanh Dũng",
+    "phone": "0779656598",
+    "email": "dung91@gmail.com",
+    "address": "130 Nguyễn Huệ, Cần Thơ",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH092",
+    "name": "Trần Thanh Trung",
+    "phone": "0981746901",
+    "email": "trung92@gmail.com",
+    "address": "17 Nguyễn Huệ, TP.HCM",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH093",
+    "name": "Võ Ngọc Tuấn",
+    "phone": "0778253237",
+    "email": "tuan93@gmail.com",
+    "address": "32 Nguyễn Trãi, Hà Nội",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH094",
+    "name": "Trần Thanh Nam",
+    "phone": "0983114762",
+    "email": "nam94@gmail.com",
+    "address": "138 Lê Lợi, Đà Nẵng",
+    "type": "Đại lý"
+  },
+  {
+    "id": "KH095",
+    "name": "Huỳnh Văn Linh",
+    "phone": "0519359191",
+    "email": "linh95@gmail.com",
+    "address": "35 Nguyễn Văn Linh, Hà Nội",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH096",
+    "name": "Đặng Quang Hùng",
+    "phone": "0951288429",
+    "email": "hung96@gmail.com",
+    "address": "297 Nguyễn Huệ, Đà Nẵng",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH097",
+    "name": "Bùi Mai Bình",
+    "phone": "0940122119",
+    "email": "binh97@gmail.com",
+    "address": "228 Cách Mạng Tháng 8, TP.HCM",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH098",
+    "name": "Lê Đức Hải",
+    "phone": "0815327126",
+    "email": "hai98@gmail.com",
+    "address": "42 Nguyễn Huệ, Đồng Nai",
+    "type": "Cá nhân"
+  },
+  {
+    "id": "KH099",
+    "name": "Hoàng Thanh Đạt",
+    "phone": "0854336183",
+    "email": "dat99@gmail.com",
+    "address": "52 Nguyễn Trãi, Hà Nội",
+    "type": "Nhà thầu"
+  },
+  {
+    "id": "KH100",
+    "name": "Lý Anh Thảo",
+    "phone": "0379478138",
+    "email": "thao100@gmail.com",
+    "address": "112 Lý Thường Kiệt, Đà Nẵng",
+    "type": "Nhà thầu"
+  }
+]

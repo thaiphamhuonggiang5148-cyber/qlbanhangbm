@@ -1,0 +1,92 @@
+[
+  {
+    "id": "NV001",
+    "name": "Nguyễn Minh Tuấn",
+    "phone": "0901234567",
+    "email": "minhtuannv@vlxd.com",
+    "role": "Quản lý",
+    "salary": 15000000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV002",
+    "name": "Trần Thị Lan",
+    "phone": "0912345678",
+    "email": "lantt@vlxd.com",
+    "role": "Thu ngân",
+    "salary": 9000000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV003",
+    "name": "Lê Văn Hùng",
+    "phone": "0923456789",
+    "email": "hunglv@vlxd.com",
+    "role": "Nhân viên bán hàng",
+    "salary": 8500000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV004",
+    "name": "Phạm Thị Hoa",
+    "phone": "0934567890",
+    "email": "hoapt@vlxd.com",
+    "role": "Nhân viên bán hàng",
+    "salary": 8500000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV005",
+    "name": "Hoàng Đức Nam",
+    "phone": "0945678901",
+    "email": "namhd@vlxd.com",
+    "role": "Nhân viên kho",
+    "salary": 8000000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV006",
+    "name": "Vũ Thị Ngọc",
+    "phone": "0956789012",
+    "email": "ngocvt@vlxd.com",
+    "role": "Kế toán",
+    "salary": 11000000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV007",
+    "name": "Đặng Văn Khoa",
+    "phone": "0967890123",
+    "email": "khadv@vlxd.com",
+    "role": "Nhân viên bán hàng",
+    "salary": 8500000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV008",
+    "name": "Bùi Thị Thanh",
+    "phone": "0978901234",
+    "email": "thanhbt@vlxd.com",
+    "role": "Nhân viên giao hàng",
+    "salary": 7500000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV009",
+    "name": "Hồ Minh Long",
+    "phone": "0989012345",
+    "email": "longmh@vlxd.com",
+    "role": "Nhân viên kho",
+    "salary": 8000000,
+    "status": "Đang làm việc"
+  },
+  {
+    "id": "NV010",
+    "name": "Ngô Thị Phương",
+    "phone": "0990123456",
+    "email": "phuongnt@vlxd.com",
+    "role": "Nhân viên bán hàng",
+    "salary": 8500000,
+    "status": "Đang làm việc"
+  }
+]
