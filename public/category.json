@@ -1,42 +1,43 @@
 [
-  {
-    "id": 1,
-    "name": "Vật liệu xây dựng thô"
-  },
-  {
-    "id": 2,
-    "name": "Sắt thép xây dựng"
-  },
-  {
-    "id": 3,
-    "name": "Gạch xây"
-  },
-  {
-    "id": 4,
-    "name": "Gạch ốp lát"
-  },
-  {
-    "id": 5,
-    "name": "Sơn & chống thấm"
-  },
-  {
-    "id": 6,
-    "name": "Thiết bị điện"
-  },
-  {
-    "id": 7,
-    "name": "Thiết bị nước / ống nước"
-  },
-  {
-    "id": 8,
-    "name": "Thiết bị vệ sinh"
-  },
-  {
-    "id": 9,
-    "name": "Kính – nhôm – cửa"
-  },
-  {
-    "id": 10,
-    "name": "Vật liệu hoàn thiện / trang trí"
-  }
+    {
+        "id":1,
+        "name": "Phụ kiện thời trang"
+
+    },
+     {
+        "id":2,
+        "name": "Túi xách & Ví"
+    },
+    {
+        "id":3,
+        "name": "Đồ trang trí nhà cửa"
+    },
+     {
+        "id":4,
+        "name": "Đồ Gốm & Đất sét"
+    },
+    {
+        "id":5,
+        "name": "Nến thơm & Tinh dầu"
+    },
+     {
+        "id":6,
+        "name": "Đồ len"
+    },
+    {
+        "id":7,
+        "name": "Đồ da"
+    },
+     {
+        "id":8,
+        "name": "Phụ kiện trang sức "
+    },
+    {
+        "id":9,
+        "name": "Tranh thủ công"
+    },
+     {
+        "id":10,
+        "name": "Mỹ phẩm thiên nhiên & Quà tặng"
+    }
 ]

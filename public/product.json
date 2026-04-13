@@ -1,902 +1,702 @@
 [
-  {
-    "id": 1,
-    "name": "Xi măng Hà Tiên",
-    "categoryId": 1,
-    "img": "",
-    "price": 28000,
-    "unit": "bao 50kg",
-    "stock": 377
-  },
-  {
-    "id": 2,
-    "name": "Xi măng Holcim",
-    "categoryId": 1,
-    "img": "",
-    "price": 28000,
-    "unit": "bao 40kg",
-    "stock": 107
-  },
-  {
-    "id": 3,
-    "name": "Xi măng INSEE",
-    "categoryId": 1,
-    "img": "",
-    "price": 28000,
-    "unit": "bao 50kg",
-    "stock": 62
-  },
-  {
-    "id": 4,
-    "name": "Xi măng Nghi Sơn",
-    "categoryId": 1,
-    "img": "",
-    "price": 25000,
-    "unit": "tấn",
-    "stock": 429
-  },
-  {
-    "id": 5,
-    "name": "Xi măng Vicem",
-    "categoryId": 1,
-    "img": "",
-    "price": 27000,
-    "unit": "bao 50kg",
-    "stock": 190
-  },
-  {
-    "id": 6,
-    "name": "Cát vàng xây dựng",
-    "categoryId": 1,
-    "img": "",
-    "price": 211000,
-    "unit": "tấn",
-    "stock": 175
-  },
-  {
-    "id": 7,
-    "name": "Cát đen san lấp",
-    "categoryId": 1,
-    "img": "",
-    "price": 133000,
-    "unit": "m3",
-    "stock": 164
-  },
-  {
-    "id": 8,
-    "name": "Cát mịn trát tường",
-    "categoryId": 1,
-    "img": "",
-    "price": 233000,
-    "unit": "tấn",
-    "stock": 121
-  },
-  {
-    "id": 9,
-    "name": "Đá 1x2 xây dựng",
-    "categoryId": 1,
-    "img": "",
-    "price": 255000,
-    "unit": "m3",
-    "stock": 427
-  },
-  {
-    "id": 10,
-    "name": "Đá 4x6 nền móng",
-    "categoryId": 1,
-    "img": "",
-    "price": 253000,
-    "unit": "tấn",
-    "stock": 102
-  },
-  {
-    "id": 11,
-    "name": "Thép phi 6 CB240T",
-    "categoryId": 2,
-    "img": "",
-    "price": 15000,
-    "unit": "kg",
-    "stock": 396
-  },
-  {
-    "id": 12,
-    "name": "Thép phi 8 CB240T",
-    "categoryId": 2,
-    "img": "",
-    "price": 15000,
-    "unit": "thanh",
-    "stock": 429
-  },
-  {
-    "id": 13,
-    "name": "Thép phi 10 CB300V",
-    "categoryId": 2,
-    "img": "",
-    "price": 16000,
-    "unit": "tấn",
-    "stock": 329
-  },
-  {
-    "id": 14,
-    "name": "Thép phi 12 CB300V",
-    "categoryId": 2,
-    "img": "",
-    "price": 16000,
-    "unit": "kg",
-    "stock": 94
-  },
-  {
-    "id": 15,
-    "name": "Thép phi 14 CB300V",
-    "categoryId": 2,
-    "img": "",
-    "price": 15000,
-    "unit": "thanh",
-    "stock": 352
-  },
-  {
-    "id": 16,
-    "name": "Thép phi 16 CB300V",
-    "categoryId": 2,
-    "img": "",
-    "price": 17000,
-    "unit": "tấn",
-    "stock": 266
-  },
-  {
-    "id": 17,
-    "name": "Thép phi 18 CB400V",
-    "categoryId": 2,
-    "img": "",
-    "price": 16000,
-    "unit": "kg",
-    "stock": 66
-  },
-  {
-    "id": 18,
-    "name": "Thép phi 20 CB400V",
-    "categoryId": 2,
-    "img": "",
-    "price": 16000,
-    "unit": "thanh",
-    "stock": 65
-  },
-  {
-    "id": 19,
-    "name": "Thép phi 22 CB400V",
-    "categoryId": 2,
-    "img": "",
-    "price": 19000,
-    "unit": "tấn",
-    "stock": 97
-  },
-  {
-    "id": 20,
-    "name": "Thép phi 25 CB400V",
-    "categoryId": 2,
-    "img": "",
-    "price": 16000,
-    "unit": "kg",
-    "stock": 161
-  },
-  {
-    "id": 21,
-    "name": "Gạch đặc 6.5x10.5x22",
-    "categoryId": 3,
-    "img": "",
-    "price": 1000,
-    "unit": "viên",
-    "stock": 169
-  },
-  {
-    "id": 22,
-    "name": "Gạch rỗng 8 lỗ 6x10x20",
-    "categoryId": 3,
-    "img": "",
-    "price": 1000,
-    "unit": "nghìn viên",
-    "stock": 308
-  },
-  {
-    "id": 23,
-    "name": "Gạch rỗng 4 lỗ 8x8x18",
-    "categoryId": 3,
-    "img": "",
-    "price": 1000,
-    "unit": "viên",
-    "stock": 358
-  },
-  {
-    "id": 24,
-    "name": "Gạch siêu nhẹ ACC 7.5x20x60",
-    "categoryId": 3,
-    "img": "",
-    "price": 3000,
-    "unit": "m2",
-    "stock": 63
-  },
-  {
-    "id": 25,
-    "name": "Gạch siêu nhẹ ACC 10x20x60",
-    "categoryId": 3,
-    "img": "",
-    "price": 4000,
-    "unit": "viên",
-    "stock": 337
-  },
-  {
-    "id": 26,
-    "name": "Gạch không nung 10x20x40",
-    "categoryId": 3,
-    "img": "",
-    "price": 2000,
-    "unit": "m2",
-    "stock": 151
-  },
-  {
-    "id": 27,
-    "name": "Gạch không nung 15x20x40",
-    "categoryId": 3,
-    "img": "",
-    "price": 2000,
-    "unit": "viên",
-    "stock": 416
-  },
-  {
-    "id": 28,
-    "name": "Gạch bê tông khí chưng áp",
-    "categoryId": 3,
-    "img": "",
-    "price": 4000,
-    "unit": "m2",
-    "stock": 382
-  },
-  {
-    "id": 29,
-    "name": "Gạch đỏ thủ công 5x10x20",
-    "categoryId": 3,
-    "img": "",
-    "price": 1000,
-    "unit": "viên",
-    "stock": 409
-  },
-  {
-    "id": 30,
-    "name": "Gạch tuy nen 6x10x22",
-    "categoryId": 3,
-    "img": "",
-    "price": 1000,
-    "unit": "nghìn viên",
-    "stock": 329
-  },
-  {
-    "id": 31,
-    "name": "Gạch ceramic 30x30 bóng",
-    "categoryId": 4,
-    "img": "",
-    "price": 76000,
-    "unit": "viên",
-    "stock": 264
-  },
-  {
-    "id": 32,
-    "name": "Gạch ceramic 40x40 mờ",
-    "categoryId": 4,
-    "img": "",
-    "price": 89000,
-    "unit": "m2",
-    "stock": 162
-  },
-  {
-    "id": 33,
-    "name": "Gạch ceramic 60x60 bóng",
-    "categoryId": 4,
-    "img": "",
-    "price": 104000,
-    "unit": "thùng",
-    "stock": 279
-  },
-  {
-    "id": 34,
-    "name": "Gạch porcelain 60x60 siêu bóng",
-    "categoryId": 4,
-    "img": "",
-    "price": 178000,
-    "unit": "viên",
-    "stock": 351
-  },
-  {
-    "id": 35,
-    "name": "Gạch porcelain 80x80 siêu bóng",
-    "categoryId": 4,
-    "img": "",
-    "price": 217000,
-    "unit": "m2",
-    "stock": 192
-  },
-  {
-    "id": 36,
-    "name": "Gạch granite 60x60 tự nhiên",
-    "categoryId": 4,
-    "img": "",
-    "price": 169000,
-    "unit": "thùng",
-    "stock": 464
-  },
-  {
-    "id": 37,
-    "name": "Gạch granite 80x80 xám",
-    "categoryId": 4,
-    "img": "",
-    "price": 267000,
-    "unit": "viên",
-    "stock": 495
-  },
-  {
-    "id": 38,
-    "name": "Gạch granite 120x60",
-    "categoryId": 4,
-    "img": "",
-    "price": 295000,
-    "unit": "m2",
-    "stock": 53
-  },
-  {
-    "id": 39,
-    "name": "Gạch thạch anh 60x60",
-    "categoryId": 4,
-    "img": "",
-    "price": 182000,
-    "unit": "thùng",
-    "stock": 438
-  },
-  {
-    "id": 40,
-    "name": "Gạch ốp tường 30x60 trắng",
-    "categoryId": 4,
-    "img": "",
-    "price": 86000,
-    "unit": "viên",
-    "stock": 462
-  },
-  {
-    "id": 41,
-    "name": "Sơn nội thất Dulux EasyCare",
-    "categoryId": 5,
-    "img": "",
-    "price": 173000,
-    "unit": "lít",
-    "stock": 131
-  },
-  {
-    "id": 42,
-    "name": "Sơn ngoại thất Dulux WeatherShield",
-    "categoryId": 5,
-    "img": "",
-    "price": 162000,
-    "unit": "thùng 5L",
-    "stock": 407
-  },
-  {
-    "id": 43,
-    "name": "Sơn Jotun Majestic nội thất",
-    "categoryId": 5,
-    "img": "",
-    "price": 173000,
-    "unit": "thùng 18L",
-    "stock": 266
-  },
-  {
-    "id": 44,
-    "name": "Sơn Jotun Jotashield ngoại thất",
-    "categoryId": 5,
-    "img": "",
-    "price": 182000,
-    "unit": "lít",
-    "stock": 224
-  },
-  {
-    "id": 45,
-    "name": "Sơn Nippon Odour-less nội thất",
-    "categoryId": 5,
-    "img": "",
-    "price": 153000,
-    "unit": "thùng 5L",
-    "stock": 192
-  },
-  {
-    "id": 46,
-    "name": "Sơn Nippon Weatherbond ngoại thất",
-    "categoryId": 5,
-    "img": "",
-    "price": 171000,
-    "unit": "thùng 18L",
-    "stock": 129
-  },
-  {
-    "id": 47,
-    "name": "Sơn Kova nội thất C-20",
-    "categoryId": 5,
-    "img": "",
-    "price": 107000,
-    "unit": "lít",
-    "stock": 160
-  },
-  {
-    "id": 48,
-    "name": "Sơn Kova ngoại thất C-23",
-    "categoryId": 5,
-    "img": "",
-    "price": 109000,
-    "unit": "thùng 5L",
-    "stock": 440
-  },
-  {
-    "id": 49,
-    "name": "Chống thấm Sika 107",
-    "categoryId": 5,
-    "img": "",
-    "price": 195000,
-    "unit": "thùng 20kg",
-    "stock": 222
-  },
-  {
-    "id": 50,
-    "name": "Chống thấm Sika Top 107 Seal",
-    "categoryId": 5,
-    "img": "",
-    "price": 205000,
-    "unit": "thùng 5kg",
-    "stock": 102
-  },
-  {
-    "id": 51,
-    "name": "Dây điện đơn 1.5mm² Cadivi",
-    "categoryId": 6,
-    "img": "",
-    "price": 17000,
-    "unit": "m",
-    "stock": 97
-  },
-  {
-    "id": 52,
-    "name": "Dây điện đôi 2.5mm² Cadivi",
-    "categoryId": 6,
-    "img": "",
-    "price": 38000,
-    "unit": "cuộn 100m",
-    "stock": 244
-  },
-  {
-    "id": 53,
-    "name": "Dây điện đôi 4mm² Cadivi",
-    "categoryId": 6,
-    "img": "",
-    "price": 50000,
-    "unit": "m",
-    "stock": 99
-  },
-  {
-    "id": 54,
-    "name": "Dây điện đơn 6mm² Cadivi",
-    "categoryId": 6,
-    "img": "",
-    "price": 64000,
-    "unit": "cuộn 100m",
-    "stock": 233
-  },
-  {
-    "id": 55,
-    "name": "Ổ cắm điện Sino Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 36000,
-    "unit": "cái",
-    "stock": 483
-  },
-  {
-    "id": 56,
-    "name": "Công tắc đơn Sino Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 29000,
-    "unit": "bộ",
-    "stock": 226
-  },
-  {
-    "id": 57,
-    "name": "Công tắc đôi Sino Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 54000,
-    "unit": "cái",
-    "stock": 359
-  },
-  {
-    "id": 58,
-    "name": "Aptomat MCB 16A Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 50000,
-    "unit": "cái",
-    "stock": 185
-  },
-  {
-    "id": 59,
-    "name": "Aptomat MCB 20A Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 67000,
-    "unit": "cái",
-    "stock": 463
-  },
-  {
-    "id": 60,
-    "name": "Aptomat MCB 32A Schneider",
-    "categoryId": 6,
-    "img": "",
-    "price": 80000,
-    "unit": "cái",
-    "stock": 72
-  },
-  {
-    "id": 61,
-    "name": "Ống nhựa PVC Tiền Phong D21",
-    "categoryId": 7,
-    "img": "",
-    "price": 14000,
-    "unit": "m",
-    "stock": 423
-  },
-  {
-    "id": 62,
-    "name": "Ống nhựa PVC Tiền Phong D27",
-    "categoryId": 7,
-    "img": "",
-    "price": 21000,
-    "unit": "cây 4m",
-    "stock": 285
-  },
-  {
-    "id": 63,
-    "name": "Ống nhựa PVC Tiền Phong D34",
-    "categoryId": 7,
-    "img": "",
-    "price": 27000,
-    "unit": "cây 6m",
-    "stock": 324
-  },
-  {
-    "id": 64,
-    "name": "Ống nhựa PVC Tiền Phong D42",
-    "categoryId": 7,
-    "img": "",
-    "price": 32000,
-    "unit": "m",
-    "stock": 113
-  },
-  {
-    "id": 65,
-    "name": "Ống nhựa PVC Tiền Phong D60",
-    "categoryId": 7,
-    "img": "",
-    "price": 64000,
-    "unit": "m",
-    "stock": 243
-  },
-  {
-    "id": 66,
-    "name": "Ống HDPE chịu nhiệt D20",
-    "categoryId": 7,
-    "img": "",
-    "price": 24000,
-    "unit": "cuộn 50m",
-    "stock": 90
-  },
-  {
-    "id": 67,
-    "name": "Ống HDPE chịu nhiệt D25",
-    "categoryId": 7,
-    "img": "",
-    "price": 28000,
-    "unit": "m",
-    "stock": 332
-  },
-  {
-    "id": 68,
-    "name": "Ống PPR nóng lạnh D20",
-    "categoryId": 7,
-    "img": "",
-    "price": 26000,
-    "unit": "cây 4m",
-    "stock": 200
-  },
-  {
-    "id": 69,
-    "name": "Ống PPR nóng lạnh D25",
-    "categoryId": 7,
-    "img": "",
-    "price": 30000,
-    "unit": "m",
-    "stock": 474
-  },
-  {
-    "id": 70,
-    "name": "Ống PPR nóng lạnh D32",
-    "categoryId": 7,
-    "img": "",
-    "price": 50000,
-    "unit": "cây 4m",
-    "stock": 371
-  },
-  {
-    "id": 71,
-    "name": "Bồn cầu 1 khối TOTO CS300",
-    "categoryId": 8,
-    "img": "",
-    "price": 2923000,
-    "unit": "cái",
-    "stock": 366
-  },
-  {
-    "id": 72,
-    "name": "Bồn cầu 2 khối Inax C-102",
-    "categoryId": 8,
-    "img": "",
-    "price": 2151000,
-    "unit": "bộ",
-    "stock": 491
-  },
-  {
-    "id": 73,
-    "name": "Bồn cầu treo tường American Standard",
-    "categoryId": 8,
-    "img": "",
-    "price": 4400000,
-    "unit": "cái",
-    "stock": 235
-  },
-  {
-    "id": 74,
-    "name": "Lavabo đặt bàn Inax AL-2395V",
-    "categoryId": 8,
-    "img": "",
-    "price": 1253000,
-    "unit": "bộ",
-    "stock": 345
-  },
-  {
-    "id": 75,
-    "name": "Lavabo treo tường Toto L710CR",
-    "categoryId": 8,
-    "img": "",
-    "price": 1847000,
-    "unit": "cái",
-    "stock": 148
-  },
-  {
-    "id": 76,
-    "name": "Lavabo đặt bàn Caesar LF5255",
-    "categoryId": 8,
-    "img": "",
-    "price": 1465000,
-    "unit": "bộ",
-    "stock": 410
-  },
-  {
-    "id": 77,
-    "name": "Vòi sen tắm Hafele",
-    "categoryId": 8,
-    "img": "",
-    "price": 439000,
-    "unit": "cái",
-    "stock": 85
-  },
-  {
-    "id": 78,
-    "name": "Sen cây đứng Inax BFV-110S",
-    "categoryId": 8,
-    "img": "",
-    "price": 2198000,
-    "unit": "bộ",
-    "stock": 73
-  },
-  {
-    "id": 79,
-    "name": "Sen tắm nhiệt độ Grohe",
-    "categoryId": 8,
-    "img": "",
-    "price": 3210000,
-    "unit": "cái",
-    "stock": 388
-  },
-  {
-    "id": 80,
-    "name": "Vòi rửa bát nóng lạnh Teka",
-    "categoryId": 8,
-    "img": "",
-    "price": 689000,
-    "unit": "cái",
-    "stock": 166
-  },
-  {
-    "id": 81,
-    "name": "Kính cường lực 8mm trong suốt",
-    "categoryId": 9,
-    "img": "",
-    "price": 356000,
-    "unit": "m2",
-    "stock": 445
-  },
-  {
-    "id": 82,
-    "name": "Kính cường lực 10mm mờ",
-    "categoryId": 9,
-    "img": "",
-    "price": 429000,
-    "unit": "tấm",
-    "stock": 198
-  },
-  {
-    "id": 83,
-    "name": "Kính cường lực 12mm",
-    "categoryId": 9,
-    "img": "",
-    "price": 621000,
-    "unit": "m2",
-    "stock": 90
-  },
-  {
-    "id": 84,
-    "name": "Kính float 5mm",
-    "categoryId": 9,
-    "img": "",
-    "price": 126000,
-    "unit": "tấm",
-    "stock": 487
-  },
-  {
-    "id": 85,
-    "name": "Kính float 8mm",
-    "categoryId": 9,
-    "img": "",
-    "price": 215000,
-    "unit": "m2",
-    "stock": 169
-  },
-  {
-    "id": 86,
-    "name": "Kính hộp đôi 5+6A+5",
-    "categoryId": 9,
-    "img": "",
-    "price": 440000,
-    "unit": "tấm",
-    "stock": 493
-  },
-  {
-    "id": 87,
-    "name": "Kính phản quang 6mm",
-    "categoryId": 9,
-    "img": "",
-    "price": 308000,
-    "unit": "m2",
-    "stock": 101
-  },
-  {
-    "id": 88,
-    "name": "Nhôm định hình hệ 55 trắng",
-    "categoryId": 9,
-    "img": "",
-    "price": 193000,
-    "unit": "cây 6m",
-    "stock": 244
-  },
-  {
-    "id": 89,
-    "name": "Nhôm định hình hệ 55 vân gỗ",
-    "categoryId": 9,
-    "img": "",
-    "price": 231000,
-    "unit": "m",
-    "stock": 192
-  },
-  {
-    "id": 90,
-    "name": "Nhôm hệ 65 xingfa",
-    "categoryId": 9,
-    "img": "",
-    "price": 293000,
-    "unit": "cây 6m",
-    "stock": 282
-  },
-  {
-    "id": 91,
-    "name": "Thạch cao tấm thường 9mm",
-    "categoryId": 10,
-    "img": "",
-    "price": 88000,
-    "unit": "tấm",
-    "stock": 375
-  },
-  {
-    "id": 92,
-    "name": "Thạch cao tấm chống ẩm 9mm",
-    "categoryId": 10,
-    "img": "",
-    "price": 122000,
-    "unit": "m2",
-    "stock": 477
-  },
-  {
-    "id": 93,
-    "name": "Thạch cao tấm chống cháy 12mm",
-    "categoryId": 10,
-    "img": "",
-    "price": 146000,
-    "unit": "tấm",
-    "stock": 236
-  },
-  {
-    "id": 94,
-    "name": "Thanh xương thạch cao C 38",
-    "categoryId": 10,
-    "img": "",
-    "price": 20000,
-    "unit": "cây 3m",
-    "stock": 133
-  },
-  {
-    "id": 95,
-    "name": "Thanh xương thạch cao U 28",
-    "categoryId": 10,
-    "img": "",
-    "price": 22000,
-    "unit": "thanh",
-    "stock": 239
-  },
-  {
-    "id": 96,
-    "name": "Keo dán gạch CM17 bột trắng",
-    "categoryId": 10,
-    "img": "",
-    "price": 21000,
-    "unit": "bao 25kg",
-    "stock": 231
-  },
-  {
-    "id": 97,
-    "name": "Keo dán gạch Mapei Kerabond",
-    "categoryId": 10,
-    "img": "",
-    "price": 22000,
-    "unit": "kg",
-    "stock": 157
-  },
-  {
-    "id": 98,
-    "name": "Keo chít mạch đàn hồi màu",
-    "categoryId": 10,
-    "img": "",
-    "price": 110000,
-    "unit": "hộp 1kg",
-    "stock": 393
-  },
-  {
-    "id": 99,
-    "name": "Bột bả tường Maxbond nội thất",
-    "categoryId": 10,
-    "img": "",
-    "price": 21000,
-    "unit": "kg",
-    "stock": 186
-  },
-  {
-    "id": 100,
-    "name": "Bột bả tường Promix ngoại thất",
-    "categoryId": 10,
-    "img": "",
-    "price": 22000,
-    "unit": "bao 25kg",
-    "stock": 409
-  }
+    {
+        "id": 1,
+        "idcategory": 1,
+        "name": "Băng đô len xinh xắn",
+        "image": ".jpg",
+        "price": 65000
+    },
+    {
+        "id": 2,
+        "idcategory": 1,
+        "name": "Kẹp tóc vải thêu hoa",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 3,
+        "idcategory": 1,
+        "name": "Khăn tay thêu họa tiết",
+        "image": ".jpg",
+        "price": 65000
+    },
+    {
+        "id": 4,
+        "idcategory": 1,
+        "name": "Móc khóa da khắc tên",
+        "image": ".jpg",
+        "price": 75000
+    },
+    {
+        "id": 5,
+        "idcategory": 1,
+        "name": "Kẹp tóc đính đá",
+        "image": ".jpg",
+        "price": 55000
+    },
+    {
+        "id": 6,
+        "idcategory": 1,
+        "name": "Băng keo Washi họa tiết",
+        "image": ".jpg",
+        "price": 35000
+    },
+    {
+        "id": 7,
+        "idcategory": 1,
+        "name": "Bookmark kim loại khắc",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 8,
+        "idcategory": 1,
+        "name": "Bao lì xì vải thêu",
+        "image": ".jpg",
+        "price": 25000
+    },
+    {
+        "id": 9,
+        "idcategory": 1,
+        "name": "Trâm cài tóc nghệ thuật",
+        "image": ".jpg",
+        "price": 95000
+    },
+    {
+        "id": 10,
+        "idcategory": 1,
+        "name": "Móc treo tường nghệ thuật",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 11,
+        "idcategory": 2,
+        "name": "Túi xách len handmade",
+        "image": ".jpg",
+        "price": 280000
+    },
+    {
+        "id": 12,
+        "idcategory": 2,
+        "name": "Ví da nam basic",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 13,
+        "idcategory": 2,
+        "name": "Túi đeo chéo da thật",
+        "image": ".jpg",
+        "price": 850000
+    },
+    {
+        "id": 14,
+        "idcategory": 2,
+        "name": "Ví da nữ cầm tay",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 15,
+        "idcategory": 2,
+        "name": "Túi vải Tote thêu tên",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 16,
+        "idcategory": 2,
+        "name": "Bao da hộ chiếu",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 17,
+        "idcategory": 2,
+        "name": "Bao da điện thoại",
+        "image": ".jpg",
+        "price": 320000
+    },
+    {
+        "id": 18,
+        "idcategory": 2,
+        "name": "Cặp táp da thủ công",
+        "image": ".jpg",
+        "price": 1200000
+    },
+    {
+        "id": 19,
+        "idcategory": 2,
+        "name": "Ví đựng thẻ mini",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 20,
+        "idcategory": 2,
+        "name": "Balo mini vải canvas",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 21,
+        "idcategory": 3,
+        "name": "Lót ly bằng len",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 22,
+        "idcategory": 3,
+        "name": "Vỏ gối thêu trang trí",
+        "image": ".jpg",
+        "price": 125000
+    },
+    {
+        "id": 23,
+        "idcategory": 3,
+        "name": "Khăn trải bàn thêu viền",
+        "image": ".jpg",
+        "price": 320000
+    },
+    {
+        "id": 24,
+        "idcategory": 3,
+        "name": "Kệ gỗ mini trang trí",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 25,
+        "idcategory": 3,
+        "name": "Đèn ngủ gỗ tối giản",
+        "image": ".jpg",
+        "price": 380000
+    },
+    {
+        "id": 26,
+        "idcategory": 3,
+        "name": "Khay gỗ đựng đồ đa năng",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 27,
+        "idcategory": 3,
+        "name": "Đồng hồ để bàn bằng gỗ",
+        "image": ".jpg",
+        "price": 290000
+    },
+    {
+        "id": 28,
+        "idcategory": 3,
+        "name": "Lót ly gỗ khắc laser",
+        "image": ".jpg",
+        "price": 35000
+    },
+    {
+        "id": 29,
+        "idcategory": 3,
+        "name": "Lịch gỗ vĩnh cửu",
+        "image": ".jpg",
+        "price": 175000
+    },
+    {
+        "id": 30,
+        "idcategory": 3,
+        "name": "Chân nến nghệ thuật",
+        "image": ".jpg",
+        "price": 95000
+    },
+    {
+        "id": 31,
+        "idcategory": 4,
+        "name": "Chậu gốm mini để bàn",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 32,
+        "idcategory": 4,
+        "name": "Tách trà gốm nung",
+        "image": ".jpg",
+        "price": 85000
+    },
+    {
+        "id": 33,
+        "idcategory": 4,
+        "name": "Bình hoa đất sét",
+        "image": ".jpg",
+        "price": 210000
+    },
+    {
+        "id": 34,
+        "idcategory": 4,
+        "name": "Đĩa gốm trang trí",
+        "image": ".jpg",
+        "price": 220000
+    },
+    {
+        "id": 35,
+        "idcategory": 4,
+        "name": "Tượng gốm nhỏ decor",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 36,
+        "idcategory": 4,
+        "name": "Muỗng gốm thủ công",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 37,
+        "idcategory": 4,
+        "name": "Hũ gốm đựng trà",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 38,
+        "idcategory": 4,
+        "name": "Đèn xông tinh dầu gốm",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 39,
+        "idcategory": 4,
+        "name": "Khay gốm chữ nhật",
+        "image": ".jpg",
+        "price": 130000
+    },
+    {
+        "id": 40,
+        "idcategory": 4,
+        "name": "Bộ ấm trà gốm sứ",
+        "image": ".jpg",
+        "price": 550000
+    },
+    {
+        "id": 41,
+        "idcategory": 5,
+        "name": "Nến thơm Lavender",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 42,
+        "idcategory": 5,
+        "name": "Nến thơm mùi gỗ thông",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 43,
+        "idcategory": 5,
+        "name": "Tinh dầu sả chanh",
+        "image": ".jpg",
+        "price": 95000
+    },
+    {
+        "id": 44,
+        "idcategory": 5,
+        "name": "Nến thơm hoa hồng",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 45,
+        "idcategory": 5,
+        "name": "Nến trụ trang trí",
+        "image": ".jpg",
+        "price": 220000
+    },
+    {
+        "id": 46,
+        "idcategory": 5,
+        "name": "Tinh dầu vỏ bưởi",
+        "image": ".jpg",
+        "price": 110000
+    },
+    {
+        "id": 47,
+        "idcategory": 5,
+        "name": "Sáp thơm treo tủ",
+        "image": ".jpg",
+        "price": 55000
+    },
+    {
+        "id": 48,
+        "idcategory": 5,
+        "name": "Nến tealight không khói",
+        "image": ".jpg",
+        "price": 15000
+    },
+    {
+        "id": 49,
+        "idcategory": 5,
+        "name": "Bộ khuếch tán tinh dầu",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 50,
+        "idcategory": 5,
+        "name": "Nến thơm mùi quế",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 51,
+        "idcategory": 6,
+        "name": "Áo len vặn thừng",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 52,
+        "idcategory": 6,
+        "name": "Mũ len Beanie",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 53,
+        "idcategory": 6,
+        "name": "Khăn choàng cổ len",
+        "image": ".jpg",
+        "price": 200000
+    },
+    {
+        "id": 54,
+        "idcategory": 6,
+        "name": "Găng tay len mùa đông",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 55,
+        "idcategory": 6,
+        "name": "Vớ len họa tiết",
+        "image": ".jpg",
+        "price": 85000
+    },
+    {
+        "id": 56,
+        "idcategory": 6,
+        "name": "Thú bông len amigurumi",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 57,
+        "idcategory": 6,
+        "name": "Áo khoác Cardigan len",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 58,
+        "idcategory": 6,
+        "name": "Giày len cho bé",
+        "image": ".jpg",
+        "price": 95000
+    },
+    {
+        "id": 59,
+        "idcategory": 6,
+        "name": "Túi đựng bình nước len",
+        "image": ".jpg",
+        "price": 55000
+    },
+    {
+        "id": 60,
+        "idcategory": 6,
+        "name": "Chân váy len ngắn",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 61,
+        "idcategory": 7,
+        "name": "Thắt lưng da bò",
+        "image": ".jpg",
+        "price": 380000
+    },
+    {
+        "id": 62,
+        "idcategory": 7,
+        "name": "Sổ tay bìa da lộn",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 63,
+        "idcategory": 7,
+        "name": "Dây đồng hồ da thủ công",
+        "image": ".jpg",
+        "price": 220000
+    },
+    {
+        "id": 64,
+        "idcategory": 7,
+        "name": "Găng tay da cừu",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 65,
+        "idcategory": 7,
+        "name": "Bao chìa khóa da",
+        "image": ".jpg",
+        "price": 65000
+    },
+    {
+        "id": 66,
+        "idcategory": 7,
+        "name": "Lót chuột bằng da",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 67,
+        "idcategory": 7,
+        "name": "Ví đựng passport da",
+        "image": ".jpg",
+        "price": 185000
+    },
+    {
+        "id": 68,
+        "idcategory": 7,
+        "name": "Kẹp tiền bằng da bò",
+        "image": ".jpg",
+        "price": 95000
+    },
+    {
+        "id": 69,
+        "idcategory": 7,
+        "name": "Túi đựng bút bằng da",
+        "image": ".jpg",
+        "price": 110000
+    },
+    {
+        "id": 70,
+        "idcategory": 7,
+        "name": "Dây đeo máy ảnh da",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 71,
+        "idcategory": 8,
+        "name": "Dây chuyền bạc thủ công",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 72,
+        "idcategory": 8,
+        "name": "Nhẫn cặp tối giản",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 73,
+        "idcategory": 8,
+        "name": "Bông tai ngọc trai",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 74,
+        "idcategory": 8,
+        "name": "Lắc tay hạt cườm",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 75,
+        "idcategory": 8,
+        "name": "Vòng tay phong thủy",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 76,
+        "idcategory": 8,
+        "name": "Lắc chân bạc thanh mảnh",
+        "image": ".jpg",
+        "price": 135000
+    },
+    {
+        "id": 77,
+        "idcategory": 8,
+        "name": "Mặt dây chuyền gỗ khắc",
+        "image": ".jpg",
+        "price": 110000
+    },
+    {
+        "id": 78,
+        "idcategory": 8,
+        "name": "Vòng cổ Choker handmade",
+        "image": ".jpg",
+        "price": 75000
+    },
+    {
+        "id": 79,
+        "idcategory": 8,
+        "name": "Đồng hồ dây vải handmade",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 80,
+        "idcategory": 8,
+        "name": "Cài áo hoa lụa",
+        "image": ".jpg",
+        "price": 85000
+    },
+    {
+        "id": 81,
+        "idcategory": 9,
+        "name": "Tranh Canvas hướng dương",
+        "image": ".jpg",
+        "price": 320000
+    },
+    {
+        "id": 82,
+        "idcategory": 9,
+        "name": "Tranh sơn dầu phong cảnh",
+        "image": ".jpg",
+        "price": 1500000
+    },
+    {
+        "id": 83,
+        "idcategory": 9,
+        "name": "Tranh trừu tượng hiện đại",
+        "image": ".jpg",
+        "price": 850000
+    },
+    {
+        "id": 84,
+        "idcategory": 9,
+        "name": "Tranh màu nước vẽ tay",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 85,
+        "idcategory": 9,
+        "name": "Tranh thêu chữ thập",
+        "image": ".jpg",
+        "price": 650000
+    },
+    {
+        "id": 86,
+        "idcategory": 9,
+        "name": "Tranh đính đá nghệ thuật",
+        "image": ".jpg",
+        "price": 550000
+    },
+    {
+        "id": 87,
+        "idcategory": 9,
+        "name": "Khung tranh gỗ thủ công",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 88,
+        "idcategory": 9,
+        "name": "Tranh ký họa chân dung",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 89,
+        "idcategory": 9,
+        "name": "Poster nghệ thuật",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 90,
+        "idcategory": 9,
+        "name": "Tranh phong thủy bình an",
+        "image": ".jpg",
+        "price": 950000
+    },
+    {
+        "id": 91,
+        "idcategory": 10,
+        "name": "Son môi hữu cơ sáp ong",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 92,
+        "idcategory": 10,
+        "name": "Xà phòng handmade tinh dầu",
+        "image": ".jpg",
+        "price": 85000
+    },
+    {
+        "id": 93,
+        "idcategory": 10,
+        "name": "Kem dưỡng thảo mộc",
+        "image": ".jpg",
+        "price": 230000
+    },
+    {
+        "id": 94,
+        "idcategory": 10,
+        "name": "Dầu gội bưởi cô đặc",
+        "image": ".jpg",
+        "price": 280000
+    },
+    {
+        "id": 95,
+        "idcategory": 10,
+        "name": "Nước hoa khô dạng sáp",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 96,
+        "idcategory": 10,
+        "name": "Set quà tặng Thư giãn",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 97,
+        "idcategory": 10,
+        "name": "Hộp quà Chăm sóc tóc",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 98,
+        "idcategory": 10,
+        "name": "Combo dưỡng môi & Tay",
+        "image": ".jpg",
+        "price": 195000
+    },
+    {
+        "id": 99,
+        "idcategory": 10,
+        "name": "Túi quà ngâm chân thảo dược",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 100,
+        "idcategory": 10,
+        "name": "Giỏ quà tặng cao cấp",
+        "image": ".jpg",
+        "price": 650000
+    }
 ]
