@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "name": "Phụ kiện thời trang"
+
+    },
+     {
+        "id":2,
+        "name": "Túi xách & Ví"
+    },
+    {
+        "id":3,
+        "name": "Đồ trang trí nhà cửa"
+    },
+     {
+        "id":4,
+        "name": "Đồ Gốm & Đất sét"
+    },
+    {
+        "id":5,
+        "name": "Nến thơm & Tinh dầu"
+    },
+     {
+        "id":6,
+        "name": "Đồ len"
+    },
+    {
+        "id":7,
+        "name": "Đồ da"
+    },
+     {
+        "id":8,
+        "name": "Phụ kiện trang sức "
+    },
+    {
+        "id":9,
+        "name": "Tranh thủ công"
+    },
+     {
+        "id":10,
+        "name": "Mỹ phẩm thiên nhiên & Quà tặng"
+    }
+]

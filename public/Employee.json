@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn Thành Nam",
+    "position": "Quản lý",
+    "email": "nam.manager@shop.com",
+    "phone": "0901112223",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Lê Thị Hồng Thắm",
+    "position": "Kế toán",
+    "email": "tham.acc@shop.com",
+    "phone": "0904445556",
+    "role": "staff"
+  },
+  {
+    "id": 3,
+    "name": "Trần Minh Hoàng",
+    "position": "Nhân viên bán hàng",
+    "email": "hoang.sales@shop.com",
+    "phone": "0912223334",
+    "role": "staff"
+  },
+  {
+    "id": 4,
+    "name": "Phạm Thanh Thủy",
+    "position": "Nhân viên bán hàng",
+    "email": "thuy.sales@shop.com",
+    "phone": "0915556667",
+    "role": "staff"
+  },
+  {
+    "id": 5,
+    "name": "Đặng Quốc Bảo",
+    "position": "Nhân viên kho",
+    "email": "bao.warehouse@shop.com",
+    "phone": "0983334445",
+    "role": "staff"
+  },
+  {
+    "id": 6,
+    "name": "Vũ Thu Phương",
+    "position": "Nhân viên tư vấn",
+    "email": "phuong.consult@shop.com",
+    "phone": "0986667778",
+    "role": "staff"
+  },
+  {
+    "id": 7,
+    "name": "Hoàng Văn Thái",
+    "position": "Nhân viên giao hàng",
+    "email": "thai.shipper@shop.com",
+    "phone": "0937778889",
+    "role": "staff"
+  },
+  {
+    "id": 8,
+    "name": "Bùi Mai Anh",
+    "position": "Nhân viên bán hàng",
+    "email": "anh.sales@shop.com",
+    "phone": "0931119990",
+    "role": "staff"
+  },
+  {
+    "id": 9,
+    "name": "Đỗ Hữu Nghĩa",
+    "position": "Kỹ thuật viên",
+    "email": "nghia.tech@shop.com",
+    "phone": "0942220001",
+    "role": "staff"
+  },
+  {
+    "id": 10,
+    "name": "Ngô Bảo Ngọc",
+    "position": "Nhân viên Marketing",
+    "email": "ngoc.mkt@shop.com",
+    "phone": "0945551112",
+    "role": "staff"
+  },
+  {
+    "id": 11,
+    "name": "Lý Thanh Tùng",
+    "position": "Nhân viên bán hàng",
+    "email": "tung.sales@shop.com",
+    "phone": "0976662223",
+    "role": "staff"
+  },
+  {
+    "id": 12,
+    "name": "Trần Kim Liên",
+    "position": "Nhân viên kho",
+    "email": "lien.warehouse@shop.com",
+    "phone": "0979993334",
+    "role": "staff"
+  },
+  {
+    "id": 13,
+    "name": "Nguyễn Đức Phúc",
+    "position": "Nhân viên bán hàng",
+    "email": "phuc.sales@shop.com",
+    "phone": "0921114445",
+    "role": "staff"
+  },
+  {
+    "id": 14,
+    "name": "Võ Thị Sáu",
+    "position": "Nhân viên tư vấn",
+    "email": "sau.consult@shop.com",
+    "phone": "0924445556",
+    "role": "staff"
+  },
+  {
+    "id": 15,
+    "name": "Phan Anh Tuấn",
+    "position": "Nhân viên giao hàng",
+    "email": "tuan.shipper@shop.com",
+    "phone": "0967776667",
+    "role": "staff"
+  },
+  {
+    "id": 16,
+    "name": "Lê Hồng Nhung",
+    "position": "Nhân viên bán hàng",
+    "email": "nhung.sales@shop.com",
+    "phone": "0963337778",
+    "role": "staff"
+  },
+  {
+    "id": 17,
+    "name": "Đinh Văn Toàn",
+    "position": "Quản lý kho",
+    "email": "toan.manager@shop.com",
+    "phone": "0918888889",
+    "role": "staff"
+  },
+  {
+    "id": 18,
+    "name": "Quách Gia Bình",
+    "position": "Nhân viên kỹ thuật",
+    "email": "binh.tech@shop.com",
+    "phone": "0919999990",
+    "role": "staff"
+  },
+  {
+    "id": 19,
+    "name": "Trương Mỹ Linh",
+    "position": "Nhân viên Marketing",
+    "email": "linh.mkt@shop.com",
+    "phone": "0941112223",
+    "role": "staff"
+  },
+  {
+    "id": 20,
+    "name": "Hồ Vĩnh Khoa",
+    "position": "Nhân viên bán hàng",
+    "email": "khoa.sales@shop.com",
+    "phone": "0943334445",
+    "role": "staff"
+  },
+  {
+    "id": 21,
+    "name": "Nguyễn Cao Kỳ Duyên",
+    "position": "Nhân viên bán hàng",
+    "email": "duyen.sales@shop.com",
+    "phone": "0901234455",
+    "role": "staff"
+  },
+  {
+    "id": 22,
+    "name": "Lê Huỳnh Thúy Ngân",
+    "position": "Nhân viên tư vấn",
+    "email": "ngan.consult@shop.com",
+    "phone": "0902345566",
+    "role": "staff"
+  },
+  {
+    "id": 23,
+    "name": "Trần Thanh Sơn",
+    "position": "Kỹ thuật viên",
+    "email": "son.tech@shop.com",
+    "phone": "0903456677",
+    "role": "staff"
+  },
+  {
+    "id": 24,
+    "name": "Phạm Hoàng Yến",
+    "position": "Nhân viên Marketing",
+    "email": "yen.mkt@shop.com",
+    "phone": "0904567788",
+    "role": "staff"
+  },
+  {
+    "id": 25,
+    "name": "Đặng Minh Khang",
+    "position": "Nhân viên kho",
+    "email": "khang.warehouse@shop.com",
+    "phone": "0905678899",
+    "role": "staff"
+  },
+  {
+    "id": 26,
+    "name": "Vũ Gia Bảo",
+    "position": "Nhân viên giao hàng",
+    "email": "bao.shipper@shop.com",
+    "phone": "0906789900",
+    "role": "staff"
+  },
+  {
+    "id": 27,
+    "name": "Hoàng Thục Quyên",
+    "position": "Kế toán",
+    "email": "quyen.acc@shop.com",
+    "phone": "0907890011",
+    "role": "staff"
+  },
+  {
+    "id": 28,
+    "name": "Bùi Thế Hiển",
+    "position": "Nhân viên bán hàng",
+    "email": "hien.sales@shop.com",
+    "phone": "0908901122",
+    "role": "staff"
+  },
+  {
+    "id": 29,
+    "name": "Đỗ Mỹ Tâm",
+    "position": "Nhân viên tư vấn",
+    "email": "tam.consult@shop.com",
+    "phone": "0909012233",
+    "role": "staff"
+  },
+  {
+    "id": 30,
+    "name": "Ngô Quang Vinh",
+    "position": "Nhân viên Marketing",
+    "email": "vinh.mkt@shop.com",
+    "phone": "0910123344",
+    "role": "staff"
+  },
+  {
+    "id": 31,
+    "name": "Lý Lan Hương",
+    "position": "Nhân viên kho",
+    "email": "huong.warehouse@shop.com",
+    "phone": "0911234455",
+    "role": "staff"
+  },
+  {
+    "id": 32,
+    "name": "Trần Quốc Việt",
+    "position": "Nhân viên giao hàng",
+    "email": "viet.shipper@shop.com",
+    "phone": "0912345566",
+    "role": "staff"
+  },
+  {
+    "id": 33,
+    "name": "Nguyễn Mai Phương",
+    "position": "Nhân viên bán hàng",
+    "email": "phuong.sales@shop.com",
+    "phone": "0913456677",
+    "role": "staff"
+  },
+  {
+    "id": 34,
+    "name": "Phan Minh Tú",
+    "position": "Nhân viên tư vấn",
+    "email": "tu.consult@shop.com",
+    "phone": "0914567788",
+    "role": "staff"
+  },
+  {
+    "id": 35,
+    "name": "Lê Tuấn Kiệt",
+    "position": "Kỹ thuật viên",
+    "email": "kiet.tech@shop.com",
+    "phone": "0915678899",
+    "role": "staff"
+  },
+  {
+    "id": 36,
+    "name": "Bùi Xuân Mạnh",
+    "position": "Nhân viên kho",
+    "email": "manh.warehouse@shop.com",
+    "phone": "0916789900",
+    "role": "staff"
+  },
+  {
+    "id": 37,
+    "name": "Vũ Anh Thư",
+    "position": "Nhân viên Marketing",
+    "email": "thu.mkt@shop.com",
+    "phone": "0917890011",
+    "role": "staff"
+  },
+  {
+    "id": 38,
+    "name": "Đặng Thu Thảo",
+    "position": "Kế toán",
+    "email": "thao.acc@shop.com",
+    "phone": "0918901122",
+    "role": "staff"
+  },
+  {
+    "id": 39,
+    "name": "Nguyễn Hoàng Long",
+    "position": "Nhân viên giao hàng",
+    "email": "long.shipper@shop.com",
+    "phone": "0919012233",
+    "role": "staff"
+  },
+  {
+    "id": 40,
+    "name": "Trần Bích Thủy",
+    "position": "Nhân viên bán hàng",
+    "email": "thuy.sales@shop.com",
+    "phone": "0920123344",
+    "role": "staff"
+  },
+  {
+    "id": 41,
+    "name": "Hồ Quang Hiếu",
+    "position": "Nhân viên tư vấn",
+    "email": "hieu.consult@shop.com",
+    "phone": "0921234455",
+    "role": "staff"
+  },
+  {
+    "id": 42,
+    "name": "Lương Thế Thành",
+    "position": "Kỹ thuật viên",
+    "email": "thanh.tech@shop.com",
+    "phone": "0922345566",
+    "role": "staff"
+  },
+  {
+    "id": 43,
+    "name": "Nguyễn Diệu Nhi",
+    "position": "Nhân viên bán hàng",
+    "email": "nhi.sales@shop.com",
+    "phone": "0923456677",
+    "role": "staff"
+  },
+  {
+    "id": 44,
+    "name": "Huỳnh Lập",
+    "position": "Nhân viên Marketing",
+    "email": "lap.mkt@shop.com",
+    "phone": "0924567788",
+    "role": "staff"
+  },
+  {
+    "id": 45,
+    "name": "Khả Như",
+    "position": "Nhân viên tư vấn",
+    "email": "nhu.consult@shop.com",
+    "phone": "0925678899",
+    "role": "staff"
+  },
+  {
+    "id": 46,
+    "name": "Mạc Văn Khoa",
+    "position": "Nhân viên kho",
+    "email": "khoa.warehouse@shop.com",
+    "phone": "0926789900",
+    "role": "staff"
+  },
+  {
+    "id": 47,
+    "name": "Puka",
+    "position": "Nhân viên bán hàng",
+    "email": "puka.sales@shop.com",
+    "phone": "0927890011",
+    "role": "staff"
+  },
+  {
+    "id": 48,
+    "name": "Gin Tuấn Kiệt",
+    "position": "Nhân viên giao hàng",
+    "email": "gin.shipper@shop.com",
+    "phone": "0928901122",
+    "role": "staff"
+  },
+  {
+    "id": 49,
+    "name": "Võ Hoàng Yến",
+    "position": "Quản lý Marketing",
+    "email": "yen.manager@shop.com",
+    "phone": "0929012233",
+    "role": "staff"
+  },
+  {
+    "id": 50,
+    "name": "Minh Tú",
+    "position": "Nhân viên đào tạo",
+    "email": "tu.training@shop.com",
+    "phone": "0930123344",
+    "role": "staff"
+  },
+  {
+    "id": 51,
+    "name": "Nguyễn Hoàng Thông",
+    "position": "Nhân viên bán hàng",
+    "email": "thong.sales@shop.com",
+    "phone": "0931234455",
+    "role": "staff"
+  },
+  {
+    "id": 52,
+    "name": "Lê Thị Lan",
+    "position": "Nhân viên kho",
+    "email": "lan.warehouse@shop.com",
+    "phone": "0932345566",
+    "role": "staff"
+  },
+  {
+    "id": 53,
+    "name": "Trần Văn Bằng",
+    "position": "Nhân viên giao hàng",
+    "email": "bang.shipper@shop.com",
+    "phone": "0933456677",
+    "role": "staff"
+  },
+  {
+    "id": 54,
+    "name": "Phạm Thị Cúc",
+    "position": "Nhân viên tư vấn",
+    "email": "cuc.consult@shop.com",
+    "phone": "0934567788",
+    "role": "staff"
+  },
+  {
+    "id": 55,
+    "name": "Đặng Văn Danh",
+    "position": "Nhân viên bán hàng",
+    "email": "danh.sales@shop.com",
+    "phone": "0935678899",
+    "role": "staff"
+  },
+  {
+    "id": 56,
+    "name": "Vũ Thị Đào",
+    "position": "Kế toán",
+    "email": "dao.acc@shop.com",
+    "phone": "0936789900",
+    "role": "staff"
+  },
+  {
+    "id": 57,
+    "name": "Hoàng Văn Em",
+    "position": "Nhân viên Marketing",
+    "email": "em.mkt@shop.com",
+    "phone": "0937890011",
+    "role": "staff"
+  },
+  {
+    "id": 58,
+    "name": "Bùi Thị Giang",
+    "position": "Kỹ thuật viên",
+    "email": "giang.tech@shop.com",
+    "phone": "0938901122",
+    "role": "staff"
+  },
+  {
+    "id": 59,
+    "name": "Đỗ Văn Hùng",
+    "position": "Nhân viên kho",
+    "email": "hung.warehouse@shop.com",
+    "phone": "0939012233",
+    "role": "staff"
+  },
+  {
+    "id": 60,
+    "name": "Ngô Thị Inh",
+    "position": "Nhân viên bán hàng",
+    "email": "inh.sales@shop.com",
+    "phone": "0940123344",
+    "role": "staff"
+  },
+  {
+    "id": 61,
+    "name": "Lý Văn Khôi",
+    "position": "Nhân viên giao hàng",
+    "email": "khoi.shipper@shop.com",
+    "phone": "0941234455",
+    "role": "staff"
+  },
+  {
+    "id": 62,
+    "name": "Trần Thị Lựu",
+    "position": "Nhân viên tư vấn",
+    "email": "luu.consult@shop.com",
+    "phone": "0942345566",
+    "role": "staff"
+  },
+  {
+    "id": 63,
+    "name": "Nguyễn Văn Minh",
+    "position": "Nhân viên bán hàng",
+    "email": "minh.sales@shop.com",
+    "phone": "0943456677",
+    "role": "staff"
+  },
+  {
+    "id": 64,
+    "name": "Phan Thị Nga",
+    "position": "Nhân viên Marketing",
+    "email": "nga.mkt@shop.com",
+    "phone": "0944567788",
+    "role": "staff"
+  },
+  {
+    "id": 65,
+    "name": "Lê Văn Oanh",
+    "position": "Nhân viên kho",
+    "email": "oanh.warehouse@shop.com",
+    "phone": "0945678899",
+    "role": "staff"
+  },
+  {
+    "id": 66,
+    "name": "Bùi Thị Phượng",
+    "position": "Kế toán",
+    "email": "phuong.acc@shop.com",
+    "phone": "0946789900",
+    "role": "staff"
+  },
+  {
+    "id": 67,
+    "name": "Vũ Văn Quân",
+    "position": "Nhân viên giao hàng",
+    "email": "quan.shipper@shop.com",
+    "phone": "0947890011",
+    "role": "staff"
+  },
+  {
+    "id": 68,
+    "name": "Đặng Thị Sâm",
+    "position": "Nhân viên tư vấn",
+    "email": "sam.consult@shop.com",
+    "phone": "0948901122",
+    "role": "staff"
+  },
+  {
+    "id": 69,
+    "name": "Nguyễn Văn Tâm",
+    "position": "Nhân viên bán hàng",
+    "email": "tam.sales@shop.com",
+    "phone": "0949012233",
+    "role": "staff"
+  },
+  {
+    "id": 70,
+    "name": "Trần Thị Uyên",
+    "position": "Nhân viên Marketing",
+    "email": "uyen.mkt@shop.com",
+    "phone": "0950123344",
+    "role": "staff"
+  },
+  {
+    "id": 71,
+    "name": "Hoàng Văn Vũ",
+    "position": "Kỹ thuật viên",
+    "email": "vu.tech@shop.com",
+    "phone": "0951234455",
+    "role": "staff"
+  },
+  {
+    "id": 72,
+    "name": "Bùi Thị Xuân",
+    "position": "Nhân viên kho",
+    "email": "xuan.warehouse@shop.com",
+    "phone": "0952345566",
+    "role": "staff"
+  },
+  {
+    "id": 73,
+    "name": "Đỗ Văn Yến",
+    "position": "Nhân viên giao hàng",
+    "email": "yen.shipper@shop.com",
+    "phone": "0953456677",
+    "role": "staff"
+  },
+  {
+    "id": 74,
+    "name": "Ngô Thị Anh",
+    "position": "Nhân viên bán hàng",
+    "email": "anh.sales@shop.com",
+    "phone": "0954567788",
+    "role": "staff"
+  },
+  {
+    "id": 75,
+    "name": "Lý Văn Bình",
+    "position": "Nhân viên tư vấn",
+    "email": "binh.consult@shop.com",
+    "phone": "0955678899",
+    "role": "staff"
+  },
+  {
+    "id": 76,
+    "name": "Trần Thị Chi",
+    "position": "Nhân viên Marketing",
+    "email": "chi.mkt@shop.com",
+    "phone": "0956789900",
+    "role": "staff"
+  },
+  {
+    "id": 77,
+    "name": "Nguyễn Văn Dũng",
+    "position": "Nhân viên kho",
+    "email": "dung.warehouse@shop.com",
+    "phone": "0957890011",
+    "role": "staff"
+  },
+  {
+    "id": 78,
+    "name": "Phan Thị Giang",
+    "position": "Nhân viên bán hàng",
+    "email": "giang.sales@shop.com",
+    "phone": "0958901122",
+    "role": "staff"
+  },
+  {
+    "id": 79,
+    "name": "Lê Văn Hải",
+    "position": "Kỹ thuật viên",
+    "email": "hai.tech@shop.com",
+    "phone": "0959012233",
+    "role": "staff"
+  },
+  {
+    "id": 80,
+    "name": "Bùi Thị Kim",
+    "position": "Kế toán",
+    "email": "kim.acc@shop.com",
+    "phone": "0960123344",
+    "role": "staff"
+  },
+  {
+    "id": 81,
+    "name": "Vũ Văn Lợi",
+    "position": "Nhân viên giao hàng",
+    "email": "loi.shipper@shop.com",
+    "phone": "0961234455",
+    "role": "staff"
+  },
+  {
+    "id": 82,
+    "name": "Đặng Thị Mai",
+    "position": "Nhân viên bán hàng",
+    "email": "mai.sales@shop.com",
+    "phone": "0962345566",
+    "role": "staff"
+  },
+  {
+    "id": 83,
+    "name": "Nguyễn Văn Nam",
+    "position": "Nhân viên kho",
+    "email": "nam.warehouse@shop.com",
+    "phone": "0963456677",
+    "role": "staff"
+  },
+  {
+    "id": 84,
+    "name": "Trần Thị Oanh",
+    "position": "Nhân viên Marketing",
+    "email": "oanh.mkt@shop.com",
+    "phone": "0964567788",
+    "role": "staff"
+  },
+  {
+    "id": 85,
+    "name": "Hoàng Văn Phúc",
+    "position": "Nhân viên giao hàng",
+    "email": "phuc.shipper@shop.com",
+    "phone": "0965678899",
+    "role": "staff"
+  },
+  {
+    "id": 86,
+    "name": "Bùi Thị Quỳnh",
+    "position": "Nhân viên bán hàng",
+    "email": "quynh.sales@shop.com",
+    "phone": "0966789900",
+    "role": "staff"
+  },
+  {
+    "id": 87,
+    "name": "Đỗ Văn Sơn",
+    "position": "Nhân viên tư vấn",
+    "email": "son.consult@shop.com",
+    "phone": "0967890011",
+    "role": "staff"
+  },
+  {
+    "id": 88,
+    "name": "Ngô Thị Thúy",
+    "position": "Nhân viên kho",
+    "email": "thuy.warehouse@shop.com",
+    "phone": "0968901122",
+    "role": "staff"
+  },
+  {
+    "id": 89,
+    "name": "Lý Văn Trung",
+    "position": "Kỹ thuật viên",
+    "email": "trung.tech@shop.com",
+    "phone": "0969012233",
+    "role": "staff"
+  },
+  {
+    "id": 90,
+    "name": "Trần Thị Vân",
+    "position": "Nhân viên Marketing",
+    "email": "van.mkt@shop.com",
+    "phone": "0970123344",
+    "role": "staff"
+  },
+  {
+    "id": 91,
+    "name": "Nguyễn Văn Xuyên",
+    "position": "Nhân viên giao hàng",
+    "email": "xuyen.shipper@shop.com",
+    "phone": "0971234455",
+    "role": "staff"
+  },
+  {
+    "id": 92,
+    "name": "Phan Thị Ý",
+    "position": "Nhân viên bán hàng",
+    "email": "y.sales@shop.com",
+    "phone": "0972345566",
+    "role": "staff"
+  },
+  {
+    "id": 93,
+    "name": "Lê Văn An",
+    "position": "Nhân viên kho",
+    "email": "an.warehouse@shop.com",
+    "phone": "0973456677",
+    "role": "staff"
+  },
+  {
+    "id": 94,
+    "name": "Bùi Thị Bình",
+    "position": "Nhân viên bán hàng",
+    "email": "binh2.sales@shop.com",
+    "phone": "0974567788",
+    "role": "staff"
+  },
+  {
+    "id": 95,
+    "name": "Vũ Văn Cường",
+    "position": "Kỹ thuật viên",
+    "email": "cuong.tech@shop.com",
+    "phone": "0975678899",
+    "role": "staff"
+  },
+  {
+    "id": 96,
+    "name": "Đặng Thị Dung",
+    "position": "Kế toán",
+    "email": "dung.acc@shop.com",
+    "phone": "0976789900",
+    "role": "staff"
+  },
+  {
+    "id": 97,
+    "name": "Nguyễn Văn Giang",
+    "position": "Nhân viên giao hàng",
+    "email": "giang.shipper@shop.com",
+    "phone": "0977890011",
+    "role": "staff"
+  },
+  {
+    "id": 98,
+    "name": "Trần Thị Hoa",
+    "position": "Nhân viên Marketing",
+    "email": "hoa.mkt@shop.com",
+    "phone": "0978901122",
+    "role": "staff"
+  },
+  {
+    "id": 99,
+    "name": "Hoàng Văn Hùng",
+    "position": "Nhân viên tư vấn",
+    "email": "hung.consult@shop.com",
+    "phone": "0979012233",
+    "role": "staff"
+  },
+  {
+    "id": 100,
+    "name": "Phan Anh Đức",
+    "position": "Quản trị hệ thống",
+    "email": "duc.sysadmin@shop.com",
+    "phone": "0980123344",
+    "role": "admin"
+  }
+]

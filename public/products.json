@@ -1,0 +1,720 @@
+[
+    {
+        "id": 1,
+        "name": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+        "imageKey": "sp1",
+        "sizeS": "S",
+        "sizeM": "M",
+        "sizeL": "L",
+        "currentPrice": "158.000₫",
+        "originalPrice": "180.000₫",
+        "discount": "-13,75%",
+        "rating": "5",
+        "sold": "5,9k"
+    },
+    {
+        "id": 2,
+        "name": "Kẹp tóc linn thêu tên",
+        "imageKey": "sp2",
+        "sizeS": "S",
+        "sizeM": "M",
+        "sizeL": "L",
+        "currentPrice": "67.000₫",
+        "originalPrice": "90.000₫",
+        "discount": "-8%",
+        "rating": "5",
+        "sold": "117"
+    },
+    {
+        "id": 3,
+        "name": "Băng đô móc len daisy hoạ tiết hoa cúc",
+        "imageKey": "sp3",
+        "sizeS": "S",
+        "sizeM": "M",
+        "sizeL": "L",
+        "currentPrice": "130.000₫",
+        "originalPrice": "140.000₫",
+        "rating": "4.9",
+        "sold": "27k"
+    },
+
+    {
+        "id": 4,
+        "idcategory": 1,
+        "name": "Nơ cột tóc caro đỏ",
+        "image": ".jpg",
+        "price": 30000
+    },
+    {
+        "id": 5,
+        "idcategory": 1,
+        "name": "Móc khoá da vẽ tay candle in red",
+        "image": ".jpg",
+        "price": 230000
+    },
+    {
+        "id": 6,
+        "idcategory": 1,
+        "name": "Nhẫn thép đêm đầy sao vẽ tay",
+        "image": ".jpg",
+        "price": 290000
+    },
+    {
+        "id": 7,
+        "idcategory": 1,
+        "name": "Khăn lụa tơ tằm twilly hoạ tiết cung đình triều Nguyễn",
+        "image": ".jpg",
+        "price": 690000
+    },
+    {
+        "id": 8,
+        "idcategory": 1,
+        "name": "Ghim cài áo đất sét",
+        "image": ".jpg",
+        "price": 325000
+    },
+    {
+        "id": 9,
+        "idcategory": 1,
+        "name": "Móc khoá đất sét khắc tên",
+        "image": ".jpg",
+        "price": 85000
+    },
+    {
+        "id": 10,
+        "idcategory": 1,
+        "name": "Scrunchies nơ tai thỏ thêu hoa tuyết mù đông",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 11,
+        "idcategory": 2,
+        "name": "Túi lưới macrame handmade",
+        "image": ".jpg",
+        "price": 225000
+    },
+    {
+        "id": 12,
+        "idcategory": 2,
+        "name": "Ví da nam basic",
+        "image": ".jpg",
+        "price": 168000
+    },
+    {
+        "id": 13,
+        "idcategory": 2,
+        "name": "Túi bucket vải jean tái chế lót da",
+        "image": ".jpg",
+        "price": 615000
+    },
+    {
+        "id": 14,
+        "idcategory": 2,
+        "name": "Túi canvas thêu tên hoa cỏ",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 15,
+        "idcategory": 2,
+        "name": "Túi dây rút mini vải linen thêu hoa cỏ",
+        "image": ".jpg",
+        "price": 160000
+    },
+    {
+        "id": 16,
+        "idcategory": 2,
+        "name": "Ví da đựng hộ chiếu",
+        "image": ".jpg",
+        "price": 1600000
+    },
+    {
+        "id": 17,
+        "idcategory": 2,
+        "name": "Túi đựng điện thoại vải lanh thêu tay",
+        "image": ".jpg",
+        "price": 200000
+    },
+    {
+        "id": 18,
+        "idcategory": 2,
+        "name": "Túi tote len móc caro",
+        "image": ".jpg",
+        "price": 300000
+    },
+    {
+        "id": 19,
+        "idcategory": 2,
+        "name": "Balo mini số 2 từ jeans tái chế",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 20,
+        "idcategory": 2,
+        "name": "Túi Len Nơ ",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 21,
+        "idcategory": 3,
+        "name": "Khung tranh gỗ ép hoa khô Đà Lạt ô cửa sổ",
+        "image": ".jpg",
+        "price": 265000
+    },
+    {
+        "id": 22,
+        "idcategory": 3,
+        "name": "Nến thơm vỏ sò thủ công",
+        "image": ".jpg",
+        "price": 260000
+    },
+    {
+        "id": 23,
+        "idcategory": 3,
+        "name": "Giỏ mây hình cá độc đáo",
+        "image": ".jpg",
+        "price": 100000
+    },
+    {
+        "id": 24,
+        "idcategory": 3,
+        "name": "Tấm trải bàn thổ cẩm vải bông dày",
+        "image": ".jpg",
+        "price": 600000
+    },
+    {
+        "id": 25,
+        "idcategory": 3,
+        "name": "Mành treo tường macrame",
+        "image": ".jpg",
+        "price": 600000
+    },
+    {
+        "id": 26,
+        "idcategory": 3,
+        "name": "Dây treo đá tự nhiên thắt nút thủ công",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 27,
+        "idcategory": 3,
+        "name": "Lót ly macrame thủ công",
+        "image": ".jpg",
+        "price": 25000
+    },
+    {
+        "id": 28,
+        "idcategory": 3,
+        "name": "Set 2 bông tuyết thắt macrame",
+        "image": ".jpg",
+        "price": 60000
+    },
+    {
+        "id": 29,
+        "idcategory": 3,
+        "name": "Khay đựng đồ 3 ngăn màu trắng",
+        "image": ".jpg",
+        "price": 185000
+    },
+    {
+        "id": 30,
+        "idcategory": 3,
+        "name": "Xà phòng thủ công hình cá",
+        "image": ".jpg",
+        "price": 45000
+    },
+    {
+        "id": 31,
+        "idcategory": 4,
+        "name": "Dĩa gốm quả trứng ốp la",
+        "image": ".jpg",
+        "price": 288000
+    },
+    {
+        "id": 32,
+        "idcategory": 4,
+        "name": "Gác đũa sứ tráng men tinh xảo",
+        "image": ".jpg",
+        "price": 35000
+    },
+    {
+        "id": 33,
+        "idcategory": 4,
+        "name": "Bình hoa gốm sứ dáng cao",
+        "image": ".jpg",
+        "price": 210000
+    },
+    {
+        "id": 34,
+        "idcategory": 4,
+        "name": "Đèn đốt tinh dầu gốm thủ công",
+        "image": ".jpg",
+        "price": 300000
+    },
+    {
+        "id": 35,
+        "idcategory": 4,
+        "name": "Bộ 4 món chén bát sứ",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 36,
+        "idcategory": 4,
+        "name": "Cốc gốm cá đàn thủ công",
+        "image": ".jpg",
+        "price": 395000
+    },
+    {
+        "id": 37,
+        "idcategory": 4,
+        "name": "Chén chấm gốm sứ dáng thuyền mộc mạc",
+        "image": ".jpg",
+        "price": 380000
+    },
+    {
+        "id": 38,
+        "idcategory": 4,
+        "name": "Bộ ấm trà gốm sứ bát giác Wattle Green",
+        "image": ".jpg",
+        "price": 1157400
+    },
+    {
+        "id": 39,
+        "idcategory": 4,
+        "name": "Cốc cà phê gốm sứ chân cao Harvest Gold",
+        "image": ".jpg",
+        "price": 101700
+    },
+    {
+        "id": 40,
+        "idcategory": 4,
+        "name": "Cốc sứ mạ vàng danh lam thắng cảnh",
+        "image": ".jpg",
+        "price": 550000
+    },
+    {
+        "id": 41,
+        "idcategory": 5,
+        "name": "Nến thơm cupcake",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 42,
+        "idcategory": 5,
+        "name": "Nến thơm concrete",
+        "image": ".jpg",
+        "price": 130000
+    },
+    {
+        "id": 43,
+        "idcategory": 5,
+        "name": "Nến thơm thông điệp ẩn theo yêu cầu",
+        "image": ".jpg",
+        "price": 380000
+    },
+    {
+        "id": 44,
+        "idcategory": 5,
+        "name": "Sáp thơm hoa khô nghệ thuật",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 45,
+        "idcategory": 5,
+        "name": "Sáp thơm treo tủ tinh dầu đính hoa khô",
+        "image": ".jpg",
+        "price": 90000
+    },
+    {
+        "id": 46,
+        "idcategory": 5,
+        "name": "Nến thơm tạo hình hoa hồng",
+        "image": ".jpg",
+        "price": 110000
+    },
+    {
+        "id": 47,
+        "idcategory": 5,
+        "name": "Nến thơm tạo hình chó con puppy",
+        "image": ".jpg",
+        "price": 600000
+    },
+    {
+        "id": 48,
+        "idcategory": 5,
+        "name": "Tinh dầu thơm mùi thông",
+        "image": ".jpg",
+        "price": 430000
+    },
+    {
+        "id": 49,
+        "idcategory": 5,
+        "name": "Tinh dầu thơm hoa hồng",
+        "image": ".jpg",
+        "price": 690000
+    },
+    {
+        "id": 50,
+        "idcategory": 5,
+        "name": "Tinh dầu thơm cam",
+        "image": ".jpg",
+        "price": 480000
+    },
+    {
+        "id": 51,
+        "idcategory": 6,
+        "name": "Mèo nhồi bông len handmade",
+        "image": ".jpg",
+        "price": 160000
+    },
+    {
+        "id": 52,
+        "idcategory": 6,
+        "name": "Túi len móc hình bông hoa",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 53,
+        "idcategory": 6,
+        "name": "Túi len móc hoa hình hoa Tulip",
+        "image": ".jpg",
+        "price": 200000
+    },
+    {
+        "id": 54,
+        "idcategory": 6,
+        "name": "Mũ len beanie",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 55,
+        "idcategory": 6,
+        "name": "Túi len hoạ tiết mặt cười",
+        "image": ".jpg",
+        "price": 295000
+    },
+    {
+        "id": 56,
+        "idcategory": 6,
+        "name": "Chậu hoa len hướng dương mini",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 57,
+        "idcategory": 6,
+        "name": "Giỏ hoa gấu len ",
+        "image": ".jpg",
+        "price": 750000
+    },
+    {
+        "id": 58,
+        "idcategory": 6,
+        "name": "Túi len hoạ tiết hoa",
+        "image": ".jpg",
+        "price": 255000
+    },
+    {
+        "id": 59,
+        "idcategory": 6,
+        "name": "Túi handmade tự đan phong cách Hàn Quốc",
+        "image": ".jpg",
+        "price": 365000
+    },
+    {
+        "id": 60,
+        "idcategory": 6,
+        "name": "Bikini bằng len cho bé thiết kế tiên cá",
+        "image": ".jpg",
+        "price": 795000
+    },
+    {
+        "id": 61,
+        "idcategory": 7,
+        "name": "Túi xách nữ da bò Togo cao cấp",
+        "image": ".jpg",
+        "price": 1380000
+    },
+    {
+        "id": 62,
+        "idcategory": 7,
+        "name": "Túi xách nữ da bò",
+        "image": ".jpg",
+        "price": 2200000
+    },
+    {
+        "id": 63,
+        "idcategory": 7,
+        "name": "Túi Tote da bò sáp",
+        "image": ".jpg",
+        "price": 2350000
+    },
+    {
+        "id": 64,
+        "idcategory": 7,
+        "name": "Dây đồng hồ da cá sấu thủ công patina",
+        "image": ".jpg",
+        "price": 700000
+    },
+    {
+        "id": 65,
+        "idcategory": 7,
+        "name": "Dây lưng da bò Epsom",
+        "image": ".jpg",
+        "price": 500000
+    },
+    {
+        "id": 66,
+        "idcategory": 7,
+        "name": "Túi da bò du lịch",
+        "image": ".jpg",
+        "price": 3450000
+    },
+    {
+        "id": 67,
+        "idcategory": 7,
+        "name": "Túi đeo chéo nam Gento",
+        "image": ".jpg",
+        "price": 1600000
+    },
+    {
+        "id": 68,
+        "idcategory": 7,
+        "name": "Túi xách da nữ handmade",
+        "image": ".jpg",
+        "price": 2300000
+    },
+    {
+        "id": 69,
+        "idcategory": 7,
+        "name": "Bao da đựng macbook 12 inch Gento ",
+        "image": ".jpg",
+        "price": 1400000
+    },
+    {
+        "id": 70,
+        "idcategory": 7,
+        "name": "Túi da cầm tay cao cấp Gento ",
+        "image": ".jpg",
+        "price": 1000000
+    },
+    {
+        "id": 71,
+        "idcategory": 8,
+        "name": "Hoa tai pha lê dây dài",
+        "image": ".jpg",
+        "price": 320000
+    },
+    {
+        "id": 72,
+        "idcategory": 8,
+        "name": "Vòng cổ pha lê bện ngọc trai 3 dây",
+        "image": ".jpg",
+        "price": 150000
+    },
+    {
+        "id": 73,
+        "idcategory": 8,
+        "name": "Cài áo pha lê mix cườm và vỏ ốc xà cừ kết hình hoa 6 cánh",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 74,
+        "idcategory": 8,
+        "name": "Vòng cổ xích mix cườm Delica ngũ giác",
+        "image": ".jpg",
+        "price": 185000
+    },
+    {
+        "id": 75,
+        "idcategory": 8,
+        "name": "Lắc chân cườm Delica macrame",
+        "image": ".jpg",
+        "price": 210000
+    },
+    {
+        "id": 76,
+        "idcategory": 8,
+        "name": "Vòng cổ cườm mix charm cườm Delica, khóa GF",
+        "image": ".jpg",
+        "price": 135000
+    },
+    {
+        "id": 77,
+        "idcategory": 8,
+        "name": "Hoa tai cườm kết hình bán nguyệt",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 78,
+        "idcategory": 8,
+        "name": "Vòng cổ cườm bọc mặt Ruby thiên nhiên",
+        "image": ".jpg",
+        "price": 3780000
+    },
+    {
+        "id": 79,
+        "idcategory": 8,
+        "name": "Hoa tai nơ đính đá",
+        "image": ".jpg",
+        "price": 520000
+    },
+    {
+        "id": 80,
+        "idcategory": 8,
+        "name": "Vòng tay charm heo",
+        "image": ".jpg",
+        "price": 285000
+    },
+    {
+        "id": 81,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Vịnh Hạ Long",
+        "image": ".jpg",
+        "price": 320000
+    },
+    {
+        "id": 82,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade  Cầu Thê Húc",
+        "image": ".jpg",
+        "price": 300000
+    },
+    {
+        "id": 83,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Phố Cổ",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 84,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Chùa Một Cột ",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 85,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Hồ Gươm ",
+        "image": ".jpg",
+        "price": 650000
+    },
+    {
+        "id": 86,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Thôn Quê Việt Nam",
+        "image": ".jpg",
+        "price": 550000
+    },
+    {
+        "id": 87,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Phủ Chủ tịch",
+        "image": ".jpg",
+        "price": 180000
+    },
+    {
+        "id": 88,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Phố Cổ Xưa",
+        "image": ".jpg",
+        "price": 350000
+    },
+    {
+        "id": 89,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Phong Cảnh ",
+        "image": ".jpg",
+        "price": 120000
+    },
+    {
+        "id": 90,
+        "idcategory": 9,
+        "name": "Tranh cuộn giấy handmade - Phong Cảnh Đường Làng",
+        "image": ".jpg",
+        "price": 950000
+    },
+    {
+        "id": 91,
+        "idcategory": 10,
+        "name": "Xà phòng tạo hình hoa hồng",
+        "image": ".jpg",
+        "price": 250000
+    },
+    {
+        "id": 92,
+        "idcategory": 10,
+        "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho cho phái nam sang trọng",
+        "image": ".jpg",
+        "price": 985000
+    },
+    {
+        "id": 93,
+        "idcategory": 10,
+        "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho ngày cưới",
+        "image": ".jpg",
+        "price": 830000
+    },
+    {
+        "id": 94,
+        "idcategory": 10,
+        "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho tân gia",
+        "image": ".jpg",
+        "price": 2880000
+    },
+    {
+        "id": 95,
+        "idcategory": 10,
+        "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho phái nữ",
+        "image": ".jpg",
+        "price": 920000
+    },
+    {
+        "id": 96,
+        "idcategory": 10,
+        "name": "Set quà tặng Thư giãn",
+        "image": ".jpg",
+        "price": 850000
+    },
+    {
+        "id": 97,
+        "idcategory": 10,
+        "name": "Xà phòng hương hoa hồng",
+        "image": ".jpg",
+        "price": 450000
+    },
+    {
+        "id": 98,
+        "idcategory": 10,
+        "name": "Tẩy da chết toàn thân hương cam thảo mộc",
+        "image": ".jpg",
+        "price": 1925000
+    },
+    {
+        "id": 99,
+        "idcategory": 10,
+        "name": "Son dưỡng trà xanh",
+        "image": ".jpg",
+        "price": 270000
+    },
+    {
+        "id": 100,
+        "idcategory": 10,
+        "name": "ữa rửa mặt thiên nhiên",
+        "image": ".jpg",
+        "price": 650000
+    }
+]
