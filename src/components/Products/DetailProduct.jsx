@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation, useParams, useNavigate } from 'react-router-dom';
-import { resolveProductImages } from '../../utils/ProductImages';
+import { imageMap } from '../../utils/productImages';
 const DetailProduct = () => {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -29,7 +29,7 @@ const DetailProduct = () => {
 
         setProduct({
           ...found,
-          image: resolveProductTmageS[item.imageKey] || item.image
+          image: imageMap[found.imageKey] || found.image
         });
       } catch (err) {
         setError(err.message);
