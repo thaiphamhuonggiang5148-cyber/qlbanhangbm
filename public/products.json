@@ -261,7 +261,6 @@
     },
     {
         "id": 21,
-        "idcategory": 3,
         "name": "Khung tranh gỗ ép hoa khô Đà Lạt ô cửa sổ",
         "imageKey": "sp21",
         "sizeS": "S",
@@ -275,7 +274,6 @@
     },
     {
         "id": 22,
-        "idcategory": 3,
         "name": "Nến thơm vỏ sò thủ công",
         "imageKey": "sp22",
         "sizeS": "S",
@@ -289,7 +287,6 @@
     },
     {
         "id": 23,
-        "idcategory": 3,
         "name": "Giỏ mây hình cá độc đáo",
         "imageKey": "sp23",
         "sizeS": "S",
@@ -303,7 +300,6 @@
     },
     {
         "id": 24,
-        "idcategory": 3,
         "name": "Tấm trải bàn thổ cẩm vải bông dày",
         "imageKey": "sp24",
         "sizeS": "S",
@@ -317,7 +313,6 @@
     },
     {
         "id": 25,
-        "idcategory": 3,
         "name": "Mành treo tường macrame",
         "imageKey": "sp25",
         "sizeS": "S",
@@ -331,7 +326,6 @@
     },
     {
         "id": 26,
-        "idcategory": 3,
         "name": "Dây treo đá tự nhiên thắt nút thủ công",
         "imageKey": "sp26",
         "sizeS": "S",
@@ -345,7 +339,6 @@
     },
     {
         "id": 27,
-        "idcategory": 3,
         "name": "Lót ly macrame thủ công",
         "imageKey": "sp27",
         "sizeS": "S",
@@ -359,7 +352,6 @@
     },
     {
         "id": 28,
-        "idcategory": 3,
         "name": "Set 2 bông tuyết thắt macrame",
         "imageKey": "sp28",
         "sizeS": "S",
@@ -373,7 +365,6 @@
     },
     {
         "id": 29,
-        "idcategory": 3,
         "name": "Khay đựng đồ 3 ngăn màu trắng",
         "imageKey": "sp29",
         "sizeS": "S",
@@ -387,7 +378,6 @@
     },
     {
         "id": 30,
-        "idcategory": 3,
         "name": "Xà phòng thủ công hình cá",
         "imageKey": "sp30",
         "sizeS": "S",
@@ -401,7 +391,6 @@
     },
     {
         "id": 31,
-        "idcategory": 4,
         "name": "Dĩa gốm quả trứng ốp la",
         "imageKey": "sp31",
         "sizeS": "S",
@@ -415,7 +404,6 @@
     },
     {
         "id": 32,
-        "idcategory": 4,
         "name": "Gác đũa sứ tráng men tinh xảo",
         "imageKey": "sp32",
         "sizeS": "S",
@@ -429,7 +417,6 @@
     },
     {
         "id": 33,
-        "idcategory": 4,
         "name": "Bình hoa gốm sứ dáng cao",
         "imageKey": "sp33",
         "sizeS": "S",
@@ -443,7 +430,6 @@
     },
     {
         "id": 34,
-        "idcategory": 4,
         "name": "Đèn đốt tinh dầu gốm thủ công",
         "imageKey": "sp34",
         "sizeS": "S",
@@ -457,7 +443,6 @@
     },
     {
         "id": 35,
-        "idcategory": 4,
         "name": "Bộ 4 món chén bát sứ",
         "imageKey": "sp35",
         "sizeS": "S",
@@ -471,7 +456,6 @@
     },
     {
         "id": 36,
-        "idcategory": 4,
         "name": "Cốc gốm cá đàn thủ công",
         "imageKey": "sp36",
         "sizeS": "S",
@@ -485,7 +469,6 @@
     },
     {
         "id": 37,
-        "idcategory": 4,
         "name": "Chén chấm gốm sứ dáng thuyền mộc mạc",
         "imageKey": "sp37",
         "sizeS": "S",
@@ -499,7 +482,6 @@
     },
     {
         "id": 38,
-        "idcategory": 4,
         "name": "Bộ ấm trà gốm sứ bát giác Wattle Green",
         "imageKey": "sp38",
         "sizeS": "S",
@@ -513,7 +495,6 @@
     },
     {
         "id": 39,
-        "idcategory": 4,
         "name": "Cốc cà phê gốm sứ chân cao Harvest Gold",
         "imageKey": "sp39",
         "sizeS": "S",
@@ -527,7 +508,6 @@
     },
     {
         "id": 40,
-        "idcategory": 4,
         "name": "Cốc sứ mạ vàng danh lam thắng cảnh",
         "imageKey": "sp40",
         "sizeS": "S",
@@ -541,7 +521,6 @@
     },
     {
         "id": 41,
-        "idcategory": 5,
         "name": "Nến thơm cupcake",
         "imageKey": "sp41",
         "sizeS": "S",
@@ -555,7 +534,6 @@
     },
     {
         "id": 42,
-        "idcategory": 5,
         "name": "Nến thơm concrete",
         "imageKey": "sp42",
         "sizeS": "S",
@@ -569,7 +547,6 @@
     },
     {
         "id": 43,
-        "idcategory": 5,
         "name": "Nến thơm thông điệp ẩn theo yêu cầu",
         "imageKey": "sp43",
         "sizeS": "S",
@@ -583,7 +560,6 @@
     },
     {
         "id": 44,
-        "idcategory": 5,
         "name": "Sáp thơm hoa khô nghệ thuật",
         "imageKey": "sp44",
         "sizeS": "S",
@@ -597,7 +573,6 @@
     },
     {
         "id": 45,
-        "idcategory": 5,
         "name": "Sáp thơm treo tủ tinh dầu đính hoa khô",
         "imageKey": "sp45",
         "sizeS": "S",
@@ -611,7 +586,6 @@
     },
     {
         "id": 46,
-        "idcategory": 5,
         "name": "Nến thơm tạo hình hoa hồng",
         "imageKey": "sp46",
         "sizeS": "S",
@@ -625,7 +599,6 @@
     },
     {
         "id": 47,
-        "idcategory": 5,
         "name": "Nến thơm tạo hình chó con puppy",
         "imageKey": "sp47",
         "sizeS": "S",
@@ -639,7 +612,6 @@
     },
     {
         "id": 48,
-        "idcategory": 5,
         "name": "Tinh dầu thơm mùi thông",
         "imageKey": "sp48",
         "sizeS": "S",
@@ -653,7 +625,6 @@
     },
     {
         "id": 49,
-        "idcategory": 5,
         "name": "Tinh dầu thơm hoa hồng",
         "imageKey": "sp49",
         "sizeS": "S",
@@ -667,7 +638,6 @@
     },
     {
         "id": 50,
-        "idcategory": 5,
         "name": "Tinh dầu thơm cam",
         "imageKey": "sp50",
         "sizeS": "S",
@@ -681,7 +651,6 @@
     },
     {
         "id": 51,
-        "idcategory": 6,
         "name": "Mèo nhồi bông len handmade",
         "imageKey": "sp51",
         "sizeS": "S",
@@ -695,7 +664,6 @@
     },
     {
         "id": 52,
-        "idcategory": 6,
         "name": "Túi len móc hình bông hoa",
         "imageKey": "sp52",
         "sizeS": "S",
@@ -709,7 +677,6 @@
     },
     {
         "id": 53,
-        "idcategory": 6,
         "name": "Túi len móc hoa hình hoa Tulip",
         "imageKey": "sp53",
         "sizeS": "S",
@@ -723,7 +690,6 @@
     },
     {
         "id": 54,
-        "idcategory": 6,
         "name": "Mũ len beanie",
         "imageKey": "sp54",
         "sizeS": "S",
@@ -737,7 +703,6 @@
     },
     {
         "id": 55,
-        "idcategory": 6,
         "name": "Túi len hoạ tiết mặt cười",
         "imageKey": "sp55",
         "sizeS": "S",
@@ -751,7 +716,6 @@
     },
     {
         "id": 56,
-        "idcategory": 6,
         "name": "Chậu hoa len hướng dương mini",
         "imageKey": "sp56",
         "sizeS": "S",
@@ -765,7 +729,6 @@
     },
     {
         "id": 57,
-        "idcategory": 6,
         "name": "Giỏ hoa gấu len",
         "imageKey": "sp57",
         "sizeS": "S",
@@ -779,7 +742,6 @@
     },
     {
         "id": 58,
-        "idcategory": 6,
         "name": "Túi len hoạ tiết hoa",
         "imageKey": "sp58",
         "sizeS": "S",
@@ -793,7 +755,6 @@
     },
     {
         "id": 59,
-        "idcategory": 6,
         "name": "Túi handmade tự đan phong cách Hàn Quốc",
         "imageKey": "sp59",
         "sizeS": "S",
@@ -807,7 +768,6 @@
     },
     {
         "id": 60,
-        "idcategory": 6,
         "name": "Bikini bằng len cho bé thiết kế tiên cá",
         "imageKey": "sp60",
         "sizeS": "S",
@@ -821,7 +781,6 @@
     },
     {
         "id": 61,
-        "idcategory": 7,
         "name": "Túi xách nữ da bò Togo cao cấp",
         "imageKey": "sp61",
         "sizeS": "S",
@@ -835,7 +794,6 @@
     },
     {
         "id": 62,
-        "idcategory": 7,
         "name": "Túi xách nữ da bò",
         "imageKey": "sp62",
         "sizeS": "S",
@@ -849,7 +807,6 @@
     },
     {
         "id": 63,
-        "idcategory": 7,
         "name": "Túi Tote da bò sáp",
         "imageKey": "sp63",
         "sizeS": "S",
@@ -863,7 +820,6 @@
     },
     {
         "id": 64,
-        "idcategory": 7,
         "name": "Dây đồng hồ da cá sấu thủ công patina",
         "imageKey": "sp64",
         "sizeS": "S",
@@ -877,7 +833,6 @@
     },
     {
         "id": 65,
-        "idcategory": 7,
         "name": "Dây lưng da bò Epsom",
         "imageKey": "sp65",
         "sizeS": "S",
@@ -891,7 +846,6 @@
     },
     {
         "id": 66,
-        "idcategory": 7,
         "name": "Túi da bò du lịch",
         "imageKey": "sp66",
         "sizeS": "S",
@@ -905,7 +859,6 @@
     },
     {
         "id": 67,
-        "idcategory": 7,
         "name": "Túi đeo chéo nam Gento",
         "imageKey": "sp67",
         "sizeS": "S",
@@ -919,7 +872,6 @@
     },
     {
         "id": 68,
-        "idcategory": 7,
         "name": "Túi xách da nữ handmade",
         "imageKey": "sp68",
         "sizeS": "S",
@@ -933,7 +885,6 @@
     },
     {
         "id": 69,
-        "idcategory": 7,
         "name": "Bao da đựng macbook 12 inch Gento",
         "imageKey": "sp69",
         "sizeS": "S",
@@ -947,7 +898,6 @@
     },
     {
         "id": 70,
-        "idcategory": 7,
         "name": "Túi da cầm tay cao cấp Gento",
         "imageKey": "sp70",
         "sizeS": "S",
@@ -961,7 +911,6 @@
     },
     {
         "id": 71,
-        "idcategory": 8,
         "name": "Hoa tai pha lê dây dài",
         "imageKey": "sp71",
         "sizeS": "S",
@@ -975,7 +924,6 @@
     },
     {
         "id": 72,
-        "idcategory": 8,
         "name": "Vòng cổ pha lê bện ngọc trai 3 dây",
         "imageKey": "sp72",
         "sizeS": "S",
@@ -989,7 +937,6 @@
     },
     {
         "id": 73,
-        "idcategory": 8,
         "name": "Cài áo pha lê mix cườm và vỏ ốc xà cừ kết hình hoa 6 cánh",
         "imageKey": "sp73",
         "sizeS": "S",
@@ -1003,7 +950,6 @@
     },
     {
         "id": 74,
-        "idcategory": 8,
         "name": "Vòng cổ xích mix cườm Delica ngũ giác",
         "imageKey": "sp74",
         "sizeS": "S",
@@ -1017,7 +963,6 @@
     },
     {
         "id": 75,
-        "idcategory": 8,
         "name": "Lắc chân cườm Delica macrame",
         "imageKey": "sp75",
         "sizeS": "S",
@@ -1031,7 +976,6 @@
     },
     {
         "id": 76,
-        "idcategory": 8,
         "name": "Vòng cổ cườm mix charm cườm Delica, khóa GF",
         "imageKey": "sp76",
         "sizeS": "S",
@@ -1045,7 +989,6 @@
     },
     {
         "id": 77,
-        "idcategory": 8,
         "name": "Hoa tai cườm kết hình bán nguyệt",
         "imageKey": "sp77",
         "sizeS": "S",
@@ -1059,7 +1002,6 @@
     },
     {
         "id": 78,
-        "idcategory": 8,
         "name": "Vòng cổ cườm bọc mặt Ruby thiên nhiên",
         "imageKey": "sp78",
         "sizeS": "S",
@@ -1073,7 +1015,6 @@
     },
     {
         "id": 79,
-        "idcategory": 8,
         "name": "Hoa tai nơ đính đá",
         "imageKey": "sp79",
         "sizeS": "S",
@@ -1087,7 +1028,6 @@
     },
     {
         "id": 80,
-        "idcategory": 8,
         "name": "Vòng tay charm heo",
         "imageKey": "sp80",
         "sizeS": "S",
@@ -1101,7 +1041,6 @@
     },
     {
         "id": 81,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Vịnh Hạ Long",
         "imageKey": "sp81",
         "sizeS": "S",
@@ -1115,7 +1054,6 @@
     },
     {
         "id": 82,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade Cầu Thê Húc",
         "imageKey": "sp82",
         "sizeS": "S",
@@ -1129,7 +1067,6 @@
     },
     {
         "id": 83,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Phố Cổ",
         "imageKey": "sp83",
         "sizeS": "S",
@@ -1143,7 +1080,6 @@
     },
     {
         "id": 84,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Chùa Một Cột",
         "imageKey": "sp84",
         "sizeS": "S",
@@ -1157,7 +1093,6 @@
     },
     {
         "id": 85,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Hồ Gươm",
         "imageKey": "sp85",
         "sizeS": "S",
@@ -1171,7 +1106,6 @@
     },
     {
         "id": 86,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Thôn Quê Việt Nam",
         "imageKey": "sp86",
         "sizeS": "S",
@@ -1185,7 +1119,6 @@
     },
     {
         "id": 87,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Phủ Chủ tịch",
         "imageKey": "sp87",
         "sizeS": "S",
@@ -1199,7 +1132,6 @@
     },
     {
         "id": 88,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Phố Cổ Xưa",
         "imageKey": "sp88",
         "sizeS": "S",
@@ -1213,7 +1145,6 @@
     },
     {
         "id": 89,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Phong Cảnh",
         "imageKey": "sp89",
         "sizeS": "S",
@@ -1227,7 +1158,6 @@
     },
     {
         "id": 90,
-        "idcategory": 9,
         "name": "Tranh cuộn giấy handmade - Phong Cảnh Đường Làng",
         "imageKey": "sp90",
         "sizeS": "S",
@@ -1241,7 +1171,6 @@
     },
     {
         "id": 91,
-        "idcategory": 10,
         "name": "Xà phòng tạo hình hoa hồng",
         "imageKey": "sp91",
         "sizeS": "S",
@@ -1255,7 +1184,6 @@
     },
     {
         "id": 92,
-        "idcategory": 10,
         "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho cho phái nam sang trọng",
         "imageKey": "sp92",
         "sizeS": "S",
@@ -1269,7 +1197,6 @@
     },
     {
         "id": 93,
-        "idcategory": 10,
         "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho ngày cưới",
         "imageKey": "sp93",
         "sizeS": "S",
@@ -1283,7 +1210,6 @@
     },
     {
         "id": 94,
-        "idcategory": 10,
         "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho tân gia",
         "imageKey": "sp94",
         "sizeS": "S",
@@ -1297,7 +1223,6 @@
     },
     {
         "id": 95,
-        "idcategory": 10,
         "name": "Bộ quà tặng mỹ phẩm thiên nhiên dành cho phái nữ",
         "imageKey": "sp95",
         "sizeS": "S",
@@ -1311,7 +1236,6 @@
     },
     {
         "id": 96,
-        "idcategory": 10,
         "name": "Set quà tặng Thư giãn",
         "imageKey": "sp96",
         "sizeS": "S",
@@ -1325,7 +1249,6 @@
     },
     {
         "id": 97,
-        "idcategory": 10,
         "name": "Xà phòng hương hoa hồng",
         "imageKey": "sp97",
         "sizeS": "S",
@@ -1339,7 +1262,6 @@
     },
     {
         "id": 98,
-        "idcategory": 10,
         "name": "Tẩy da chết toàn thân hương cam thảo mộc",
         "imageKey": "sp98",
         "sizeS": "S",
@@ -1353,7 +1275,6 @@
     },
     {
         "id": 99,
-        "idcategory": 10,
         "name": "Son dưỡng trà xanh",
         "imageKey": "sp99",
         "sizeS": "S",
@@ -1367,7 +1288,6 @@
     },
     {
         "id": 100,
-        "idcategory": 10,
         "name": "Sữa rửa mặt thiên nhiên",
         "imageKey": "sp100",
         "sizeS": "S",
