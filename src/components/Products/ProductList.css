@@ -1,38 +1,56 @@
 
-.product-list-container {
-  padding: 40px 20px;
-  background-color: #f5f5f5;
-  min-height: 500px;
-}
+import React, { useEffect, useState } from 'react';
+import ProductCard from './ProductCard';
+import './ProductList.css';
+import { resolveProductImages } from '../../utils/ProductImages';
 
-.product-list {
-  max-width: 1300px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  align-items: stretch;
-}
+const ProductList = () => {
+  const [products, setProducts] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
 
-@media (max-width: 768px) {
-  .product-list {
-    grid-template-columns: 1fr;
-    gap: 15px;
+  useEffect(() => {
+    const loadProducts = async () => {
+      try {
+        const response = await fetch('/products.json');
+        if (!response.ok) {
+          throw new Error('Không thể tải dữ liệu sản phẩm');
+        }
+
+        const data = await response.json();
+        const mappedProducts = data.map((item) => ({
+          ...item,
+          image: resolveProductTmageS[item.imageKey] || item.image
+        }));
+
+        setProducts(mappedProducts);
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
+
+    loadProducts();
+  }, []);
+
+  if (isLoading) {
+    return <div className="product-list-container">Đang tải sản phẩm...</div>;
   }
 
-  .product-list-container {
-    padding: 20px 15px;
+  if (error) {
+    return <div className="product-list-container">Lỗi: {error}</div>;
   }
-}
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  .product-list {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
+  return (
+    <div className="product-list-container">
+      <div className="product-list">
+        {products.map((product) => (
+          <ProductCard key={product.id} product={product} />
+        ))}
+      </div>
+    </div>
+  );
+};
 
-@media (min-width: 1025px) {
-  .product-list {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
+export default ProductList;
