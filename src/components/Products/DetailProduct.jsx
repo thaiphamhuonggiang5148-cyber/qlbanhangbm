@@ -1,16 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation, useParams, useNavigate } from 'react-router-dom';
-import sp1Image from '../../img/sp1.jpg';
-import sp2Image from '../../img/sp2.jpg';
-import sp3Image from '../../img/sp3.jpg';
-import './DetailProduct.css';
-
-const imageMap = {
-  sp1: sp1Image,
-  sp2: sp2Image,
-  sp3: sp3Image
-};
-
+import { resolveProductImages } from '../../utils/ProductImages';
 const DetailProduct = () => {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -39,7 +29,7 @@ const DetailProduct = () => {
 
         setProduct({
           ...found,
-          image: imageMap[found.imageKey] || found.image
+          image: resolveProductTmageS[item.imageKey] || item.image
         });
       } catch (err) {
         setError(err.message);
