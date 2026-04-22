@@ -20,7 +20,7 @@ const DetailProduct = () => {
         }
 
         const data = await response.json();
-        const found = data.find((item) => 
+        const found = data.find((item) =>
           String(item.id) === String(id)
         );
         if (!found) {
@@ -61,9 +61,9 @@ const DetailProduct = () => {
 
       <div className="detail-card">
         <div className="detail-image">
-          <img 
-            src={product.image || 'https://via.placeholder.com/500x350'} 
-            alt={product.name} 
+          <img
+            src={product.image || 'https://via.placeholder.com/500x350'}
+            alt={product.name}
           />
         </div>
 
