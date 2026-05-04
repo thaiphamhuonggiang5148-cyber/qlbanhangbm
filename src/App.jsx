@@ -1,44 +1,43 @@
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./components/Header/Header";
+import React, { Profiler, useEffect } from 'react';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import Header from './components/Header/Header';
 import Footer from "./components/Footer/Footer";
-import ProductList from "./components/Products/ProductList";
+import '@fortawesome/fontawesome-free/css/all.min.css';
 import DetailProduct from "./components/Products/DetailProduct";
+import ProductCard from './components/Products/ProductCard';
+import ProductList from './components/Products/ProductList';
+import Cart from './components/Pages/Cart';
+function App() {
+  const location = useLocation();
 
-// Import thêm các component đang được gọi từ Header
-// import Cart from "./components/Cart/Cart";
-// import Login from "./components/Login/Login";
+  const hideChrome =
+    location.pathname === '/login' ||
+    location.pathname === '/signup' ||
+    location.pathname === '/admin';
 
-export default function App() {
   return (
-    <BrowserRouter>
-      <div
-        className="app-wrapper"
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          minHeight: "100vh",
-        }}
-      >
-        <Header />
+    <>
+      {!hideChrome && <Header />}
 
-        <main style={{ flex: 1 }}>
-          <Routes>
-            <Route path="/" element={<ProductList />} />
-            <Route path="/products" element={<ProductList />} />
-            <Route path="/product/:id" element={<DetailProduct />} />
-            
-            {/* Bổ sung các route bị thiếu */}
-            {/* <Route path="/cart" element={<Cart />} /> */}
-            {/* <Route path="/login" element={<Login />} /> */}
-            
-            {/* Nên có một route 404 để bắt các đường dẫn không tồn tại */}
-            {/* <Route path="*" element={<div>Trang không tồn tại</div>} /> */}
-          </Routes>
-        </main>
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <>
+              <ProductList />
+            </>
+          }
+        />
         
-        <Footer />
-      </div>
-    </BrowserRouter>
+        <Route path="/product/:id" element={<DetailProduct />} />
+
+        <Route path="/cart" element={<Cart/>}/>
+
+      </Routes>
+
+      {!hideChrome && <Footer />}
+    </>
   );
 }
+
+export default App;
