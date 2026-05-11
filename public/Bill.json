@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "customerId": 1,
+    "staffId": 3,
+    "date": "2026-03-01",
+    "totalPrice": 500000,
+    "status": "delivered"
+  },
+  {
+    "id": 2,
+    "customerId": 3,
+    "staffId": 4,
+    "date": "2026-03-02",
+    "totalPrice": 270000,
+    "status": "delivered"
+  },
+  {
+    "id": 3,
+    "customerId": 5,
+    "staffId": 8,
+    "date": "2026-03-02",
+    "totalPrice": 120000,
+    "status": "shipping"
+  },
+  {
+    "id": 4,
+    "customerId": 2,
+    "staffId": 11,
+    "date": "2026-03-03",
+    "totalPrice": 180000,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "customerId": 10,
+    "staffId": 16,
+    "date": "2026-03-03",
+    "totalPrice": 450000,
+    "status": "delivered"
+  },
+  {
+    "id": 6,
+    "customerId": 7,
+    "staffId": 20,
+    "date": "2026-03-04",
+    "totalPrice": 95000,
+    "status": "shipping"
+  },
+  {
+    "id": 7,
+    "customerId": 15,
+    "staffId": 33,
+    "date": "2026-03-04",
+    "totalPrice": 320000,
+    "status": "delivered"
+  },
+  {
+    "id": 8,
+    "customerId": 20,
+    "staffId": 47,
+    "date": "2026-03-04",
+    "totalPrice": 65000,
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "customerId": 4,
+    "staffId": 51,
+    "date": "2026-03-04",
+    "totalPrice": 220000,
+    "status": "delivered"
+  },
+  {
+    "id": 10,
+    "customerId": 8,
+    "staffId": 60,
+    "date": "2026-03-04",
+    "totalPrice": 150000,
+    "status": "pending"
+  }
+]
