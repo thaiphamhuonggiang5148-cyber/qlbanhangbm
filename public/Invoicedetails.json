@@ -1,86 +1,902 @@
 [
   {
     "id": 1,
-    "billId": 1,
-    "productId": 1,
-    "quantity": 1,
-    "unitPrice": 350000
+    "billId": "HD0001",
+    "productId": 23,
+    "productName": "Túi len tote họa tiết caro phối màu thanh lịch",
+    "quantity": 3,
+    "price": 240000,
+    "subtotal": 720000
   },
   {
     "id": 2,
-    "billId": 1,
-    "productId": 2,
-    "quantity": 1,
-    "unitPrice": 150000
+    "billId": "HD0001",
+    "productId": 85,
+    "productName": "Hộp quà tặng nến thơm và hoa sáp cao cấp",
+    "quantity": 5,
+    "price": 320000,
+    "subtotal": 1600000
   },
   {
     "id": 3,
-    "billId": 2,
-    "productId": 21,
-    "quantity": 1,
-    "unitPrice": 150000
+    "billId": "HD0001",
+    "productId": 14,
+    "productName": "Móc khóa len hình chú gấu ôm tim đáng yêu",
+    "quantity": 20,
+    "price": 45000,
+    "subtotal": 900000
   },
   {
     "id": 4,
-    "billId": 2,
-    "productId": 31,
-    "quantity": 1,
-    "unitPrice": 120000
+    "billId": "HD0001",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 10,
+    "price": 67000,
+    "subtotal": 670000
   },
   {
     "id": 5,
-    "billId": 3,
-    "productId": 16,
-    "quantity": 1,
-    "unitPrice": 120000
+    "billId": "HD0001",
+    "productId": 97,
+    "productName": "Xà phòng hương hoa hồng",
+    "quantity": 8,
+    "price": 150000,
+    "subtotal": 1200000
   },
   {
     "id": 6,
-    "billId": 4,
-    "productId": 41,
-    "quantity": 1,
-    "unitPrice": 180000
+    "billId": "HD0001",
+    "productId": 54,
+    "productName": "Nến thơm hình đám mây tự nhiên decor phòng ngủ",
+    "quantity": 10,
+    "price": 79000,
+    "subtotal": 790000
   },
   {
     "id": 7,
-    "billId": 5,
-    "productId": 71,
-    "quantity": 1,
-    "unitPrice": 450000
+    "billId": "HD0001",
+    "productId": 39,
+    "productName": "Khăn trải bàn canvas thêu hoa cúc vintage",
+    "quantity": 6,
+    "price": 185000,
+    "subtotal": 1110000
   },
   {
     "id": 8,
-    "billId": 6,
-    "productId": 43,
-    "quantity": 1,
-    "unitPrice": 95000
+    "billId": "HD0001",
+    "productId": 8,
+    "productName": "Nón len bucket tai gấu dễ thương mầu nâu trà sữa",
+    "quantity": 8,
+    "price": 125000,
+    "subtotal": 1000000
   },
   {
     "id": 9,
-    "billId": 7,
-    "productId": 17,
-    "quantity": 1,
-    "unitPrice": 320000
+    "billId": "HD0001",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 5,
+    "price": 118000,
+    "subtotal": 590000
   },
   {
     "id": 10,
-    "billId": 8,
-    "productId": 61,
-    "quantity": 1,
-    "unitPrice": 65000
+    "billId": "HD0001",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 10,
+    "price": 21000,
+    "subtotal": 210000
   },
   {
     "id": 11,
-    "billId": 9,
-    "productId": 34,
-    "quantity": 1,
-    "unitPrice": 220000
+    "billId": "HD0001",
+    "productId": 12,
+    "productName": "Set nguyên liệu tự móc túi len bông xù xách tay",
+    "quantity": 6,
+    "price": 65000,
+    "subtotal": 390000
   },
   {
     "id": 12,
-    "billId": 10,
-    "productId": 22,
+    "billId": "HD0001",
+    "productId": 61,
+    "productName": "Ly sứ vẽ tay họa tiết mèo lười cute",
+    "quantity": 10,
+    "price": 140000,
+    "subtotal": 1400000
+  },
+  {
+    "id": 13,
+    "billId": "HD0001",
+    "productId": 7,
+    "productName": "Scrunchies vải voan tơ kiếng lấp lánh",
     "quantity": 1,
-    "unitPrice": 150000
+    "price": 20000,
+    "subtotal": 20000
+  },
+  {
+    "id": 14,
+    "billId": "HD0001",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 0,
+    "price": 35000,
+    "subtotal": 0
+  },
+  {
+    "id": 15,
+    "billId": "HD0001",
+    "productId": 11,
+    "productName": "Vòng tay chỉ đỏ may mắn mix hạt cườm handmade",
+    "quantity": 1,
+    "price": 14000,
+    "subtotal": 14000
+  },
+  {
+    "id": 16,
+    "billId": "HD0002",
+    "productId": 98,
+    "productName": "Tẩy da chết toàn thân hương cam thảo mộc",
+    "quantity": 15,
+    "price": 525000,
+    "subtotal": 7875000
+  },
+  {
+    "id": 17,
+    "billId": "HD0002",
+    "productId": 76,
+    "productName": "Set quà tặng sinh nhật cốc sứ và thìa gỗ kèm hộp decor",
+    "quantity": 40,
+    "price": 195000,
+    "subtotal": 7800000
+  },
+  {
+    "id": 18,
+    "billId": "HD0002",
+    "productId": 45,
+    "productName": "Khay gốm sứ hình lá chuối đựng đồ ăn vặt",
+    "quantity": 50,
+    "price": 115000,
+    "subtotal": 5750000
+  },
+  {
+    "id": 19,
+    "billId": "HD0002",
+    "productId": 18,
+    "productName": "Áo khoác len cardigan dáng rộng phong cách Hàn Quốc",
+    "quantity": 10,
+    "price": 385000,
+    "subtotal": 3850000
+  },
+  {
+    "id": 20,
+    "billId": "HD0002",
+    "productId": 23,
+    "productName": "Túi len tote họa tiết caro phối màu thanh lịch",
+    "quantity": 30,
+    "price": 240000,
+    "subtotal": 7200000
+  },
+  {
+    "id": 21,
+    "billId": "HD0002",
+    "productId": 85,
+    "productName": "Hộp quà tặng nến thơm và hoa sáp cao cấp",
+    "quantity": 25,
+    "price": 320000,
+    "subtotal": 8000000
+  },
+  {
+    "id": 22,
+    "billId": "HD0002",
+    "productId": 39,
+    "productName": "Khăn trải bàn canvas thêu hoa cúc vintage",
+    "quantity": 30,
+    "price": 185000,
+    "subtotal": 5550000
+  },
+  {
+    "id": 23,
+    "billId": "HD0002",
+    "productId": 61,
+    "productName": "Ly sứ vẽ tay họa tiết mèo lười cute",
+    "quantity": 40,
+    "price": 140000,
+    "subtotal": 5600000
+  },
+  {
+    "id": 24,
+    "billId": "HD0002",
+    "productId": 65,
+    "productName": "Bình giữ nhiệt vỏ tre khắc tên theo yêu cầu",
+    "quantity": 19,
+    "price": 250000,
+    "subtotal": 4750000
+  },
+  {
+    "id": 25,
+    "billId": "HD0002",
+    "productId": 41,
+    "productName": "Dreamcatcher lưới bắt giấc mơ đan tay phối lông vũ trắng",
+    "quantity": 0,
+    "price": 135000,
+    "subtotal": 0
+  },
+  {
+    "id": 26,
+    "billId": "HD0002",
+    "productId": 92,
+    "productName": "Xịt thơm quần áo hương nước hoa thảo mộc",
+    "quantity": 0,
+    "price": 125000,
+    "subtotal": 0
+  },
+  {
+    "id": 27,
+    "billId": "HD0002",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 0,
+    "price": 118000,
+    "subtotal": 0
+  },
+  {
+    "id": 28,
+    "billId": "HD0002",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 1,
+    "price": 90000,
+    "subtotal": 90000
+  },
+  {
+    "id": 29,
+    "billId": "HD0003",
+    "productId": 89,
+    "productName": "Tinh dầu thiên nhiên treo xe hương sả chanh bưởi",
+    "quantity": 90,
+    "price": 45000,
+    "subtotal": 4050000
+  },
+  {
+    "id": 30,
+    "billId": "HD0003",
+    "productId": 33,
+    "productName": "Lót ly gốm thấm nước họa tiết mandala thổ cẩm",
+    "quantity": 200,
+    "price": 35000,
+    "subtotal": 7000000
+  },
+  {
+    "id": 31,
+    "billId": "HD0003",
+    "productId": 5,
+    "productName": "Bông tai đất sét tự nặn hình hoa tulip cam",
+    "quantity": 40,
+    "price": 80000,
+    "subtotal": 3200000
+  },
+  {
+    "id": 32,
+    "billId": "HD0003",
+    "productId": 29,
+    "productName": "Sổ tay handmade bìa da bò thật may chỉ nổi",
+    "quantity": 50,
+    "price": 195000,
+    "subtotal": 9750000
+  },
+  {
+    "id": 33,
+    "billId": "HD0003",
+    "productId": 23,
+    "productName": "Túi len tote họa tiết caro phối màu thanh lịch",
+    "quantity": 30,
+    "price": 240000,
+    "subtotal": 7200000
+  },
+  {
+    "id": 34,
+    "billId": "HD0003",
+    "productId": 85,
+    "productName": "Hộp quà tặng nến thơm và hoa sáp cao cấp",
+    "quantity": 25,
+    "price": 320000,
+    "subtotal": 8000000
+  },
+  {
+    "id": 35,
+    "billId": "HD0003",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 7,
+    "price": 121000,
+    "subtotal": 847000
+  },
+  {
+    "id": 36,
+    "billId": "HD0003",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 0,
+    "price": 67000,
+    "subtotal": 0
+  },
+  {
+    "id": 37,
+    "billId": "HD0003",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 1,
+    "price": 3000,
+    "subtotal": 3000
+  },
+  {
+    "id": 38,
+    "billId": "HD0004",
+    "productId": 11,
+    "productName": "Vòng tay chỉ đỏ may mắn mix hạt cườm handmade",
+    "quantity": 100,
+    "price": 15000,
+    "subtotal": 1500000
+  },
+  {
+    "id": 39,
+    "billId": "HD0004",
+    "productId": 65,
+    "productName": "Bình giữ nhiệt vỏ tre khắc tên theo yêu cầu",
+    "quantity": 40,
+    "price": 250000,
+    "subtotal": 10000000
+  },
+  {
+    "id": 40,
+    "billId": "HD0004",
+    "productId": 24,
+    "productName": "Thảm dệt treo tường tranh phong cảnh hoàng hôn boho",
+    "quantity": 15,
+    "price": 290000,
+    "subtotal": 4350000
+  },
+  {
+    "id": 41,
+    "billId": "HD0004",
+    "productId": 18,
+    "productName": "Áo khoác len cardigan dáng rộng phong cách Hàn Quốc",
+    "quantity": 12,
+    "price": 385000,
+    "subtotal": 4620000
+  },
+  {
+    "id": 42,
+    "billId": "HD0004",
+    "productId": 98,
+    "productName": "Tẩy da chết toàn thân hương cam thảo mộc",
+    "quantity": 2,
+    "price": 525000,
+    "subtotal": 1050000
+  },
+  {
+    "id": 43,
+    "billId": "HD0004",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 0,
+    "price": 118000,
+    "subtotal": 0
+  },
+  {
+    "id": 44,
+    "billId": "HD0004",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 0,
+    "price": 67000,
+    "subtotal": 0
+  },
+  {
+    "id": 45,
+    "billId": "HD0004",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 1,
+    "price": 20000,
+    "subtotal": 20000
+  },
+  {
+    "id": 46,
+    "billId": "HD0195",
+    "productId": 41,
+    "productName": "Dreamcatcher lưới bắt giấc mơ đan tay phối lông vũ trắng",
+    "quantity": 40,
+    "price": 135000,
+    "subtotal": 5400000
+  },
+  {
+    "id": 47,
+    "billId": "HD0195",
+    "productId": 92,
+    "productName": "Xịt thơm quần áo hương nước hoa thảo mộc",
+    "quantity": 60,
+    "price": 125000,
+    "subtotal": 7500000
+  },
+  {
+    "id": 48,
+    "billId": "HD0195",
+    "productId": 7,
+    "productName": "Scrunchies vải voan tơ kiếng lấp lánh",
+    "quantity": 50,
+    "price": 20000,
+    "subtotal": 1000000
+  },
+  {
+    "id": 49,
+    "billId": "HD0195",
+    "productId": 15,
+    "productName": "Móc khóa len hình chú heo hồng đeo ếch xanh",
+    "quantity": 40,
+    "price": 48000,
+    "subtotal": 1920000
+  },
+  {
+    "id": 50,
+    "billId": "HD0195",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 50,
+    "price": 21000,
+    "subtotal": 1050000
+  },
+  {
+    "id": 51,
+    "billId": "HD0195",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 40,
+    "price": 35000,
+    "subtotal": 1400000
+  },
+  {
+    "id": 52,
+    "billId": "HD0195",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 30,
+    "price": 67000,
+    "subtotal": 2010000
+  },
+  {
+    "id": 53,
+    "billId": "HD0195",
+    "productId": 98,
+    "productName": "Tẩy da chết toàn thân hương cam thảo mộc",
+    "quantity": 20,
+    "price": 525000,
+    "subtotal": 10500000
+  },
+  {
+    "id": 54,
+    "billId": "HD0195",
+    "productId": 76,
+    "productName": "Set quà tặng sinh nhật cốc sứ và thìa gỗ kèm hộp decor",
+    "quantity": 40,
+    "price": 195000,
+    "subtotal": 7800000
+  },
+  {
+    "id": 55,
+    "billId": "HD0195",
+    "productId": 23,
+    "productName": "Túi len tote họa tiết caro phối màu thanh lịch",
+    "quantity": 9,
+    "price": 240000,
+    "subtotal": 2160000
+  },
+  {
+    "id": 56,
+    "billId": "HD0195",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 0,
+    "price": 118000,
+    "subtotal": 0
+  },
+  {
+    "id": 57,
+    "billId": "HD0195",
+    "productId": 5,
+    "productName": "Bông tai đất sét tự nặn hình hoa tulip cam",
+    "quantity": 0,
+    "price": 80000,
+    "subtotal": 0
+  },
+  {
+    "id": 58,
+    "billId": "HD0195",
+    "productId": 6,
+    "productName": "Nhẫn hạt cườm hoa cúc nhí dễ thương",
+    "quantity": 2,
+    "price": 13500,
+    "subtotal": 27000
+  },
+  {
+    "id": 59,
+    "billId": "HD0196",
+    "productId": 58,
+    "productName": "Chậu cây sen đá bằng đất nung mini",
+    "quantity": 10,
+    "price": 45000,
+    "subtotal": 450000
+  },
+  {
+    "id": 60,
+    "billId": "HD0196",
+    "productId": 10,
+    "productName": "Vòng cổ chocker chuỗi hạt ngọc trai nhân tạo",
+    "quantity": 8,
+    "price": 55000,
+    "subtotal": 440000
+  },
+  {
+    "id": 61,
+    "billId": "HD0196",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 2,
+    "price": 118000,
+    "subtotal": 236000
+  },
+  {
+    "id": 62,
+    "billId": "HD0196",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 1,
+    "price": 67000,
+    "subtotal": 67000
+  },
+  {
+    "id": 63,
+    "billId": "HD0196",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 2,
+    "price": 21000,
+    "subtotal": 42000
+  },
+  {
+    "id": 64,
+    "billId": "HD0196",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 1,
+    "price": 35000,
+    "subtotal": 35000
+  },
+  {
+    "id": 65,
+    "billId": "HD0196",
+    "productId": 5,
+    "productName": "Bông tai đất sét tự nặn hình hoa tulip cam",
+    "quantity": 0,
+    "price": 80000,
+    "subtotal": 0
+  },
+  {
+    "id": 66,
+    "billId": "HD0196",
+    "productId": 6,
+    "productName": "Nhẫn hạt cườm hoa cúc nhí dễ thương",
+    "quantity": 1,
+    "price": 10000,
+    "subtotal": 10000
+  },
+  {
+    "id": 67,
+    "billId": "HD0197",
+    "productId": 52,
+    "productName": "Set 3 nến thơm mini mẫu thử nhiều mùi hương",
+    "quantity": 0,
+    "price": 65000,
+    "subtotal": 0
+  },
+  {
+    "id": 68,
+    "billId": "HD0197",
+    "productId": 29,
+    "productName": "Sổ tay handmade bìa da bò thật may chỉ nổi",
+    "quantity": 0,
+    "price": 195000,
+    "subtotal": 0
+  },
+  {
+    "id": 69,
+    "billId": "HD0197",
+    "productId": 12,
+    "productName": "Set nguyên liệu tự móc túi len bông xù xách tay",
+    "quantity": 0,
+    "price": 65000,
+    "subtotal": 0
+  },
+  {
+    "id": 70,
+    "billId": "HD0197",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 0,
+    "price": 118000,
+    "subtotal": 0
+  },
+  {
+    "id": 71,
+    "billId": "HD0197",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 0,
+    "price": 67000,
+    "subtotal": 0
+  },
+  {
+    "id": 72,
+    "billId": "HD0197",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 0,
+    "price": 21000,
+    "subtotal": 0
+  },
+  {
+    "id": 73,
+    "billId": "HD0197",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 0,
+    "price": 35000,
+    "subtotal": 0
+  },
+  {
+    "id": 74,
+    "billId": "HD0198",
+    "productId": 12,
+    "productName": "Set nguyên liệu tự móc túi len bông xù xách tay",
+    "quantity": 20,
+    "price": 65000,
+    "subtotal": 1300000
+  },
+  {
+    "id": 75,
+    "billId": "HD0198",
+    "productId": 72,
+    "productName": "Lọ thủy tinh dây thừng thắt nơ decor hoa khô",
+    "quantity": 30,
+    "price": 45000,
+    "subtotal": 1350000
+  },
+  {
+    "id": 76,
+    "billId": "HD0198",
+    "productId": 34,
+    "productName": "Đế lót ly bằng gỗ xà cừ tự nhiên nguyên khối",
+    "quantity": 50,
+    "price": 25000,
+    "subtotal": 1250000
+  },
+  {
+    "id": 77,
+    "billId": "HD0198",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 10,
+    "price": 118000,
+    "subtotal": 1180000
+  },
+  {
+    "id": 78,
+    "billId": "HD0198",
+    "productId": 23,
+    "productName": "Túi len tote họa tiết caro phối màu thanh lịch",
+    "quantity": 15,
+    "price": 240000,
+    "subtotal": 3600000
+  },
+  {
+    "id": 79,
+    "billId": "HD0198",
+    "productId": 85,
+    "productName": "Hộp quà tặng nến thơm và hoa sáp cao cấp",
+    "quantity": 4,
+    "price": 320000,
+    "subtotal": 1280000
+  },
+  {
+    "id": 80,
+    "billId": "HD0198",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 3,
+    "price": 67000,
+    "subtotal": 201000
+  },
+  {
+    "id": 81,
+    "billId": "HD0198",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 1,
+    "price": 32000,
+    "subtotal": 32000
+  },
+  {
+    "id": 82,
+    "billId": "HD0199",
+    "productId": 14,
+    "productName": "Móc khóa len hình chú gấu ôm tim đáng yêu",
+    "quantity": 15,
+    "price": 45000,
+    "subtotal": 675000
+  },
+  {
+    "id": 83,
+    "billId": "HD0199",
+    "productId": 61,
+    "productName": "Ly sứ vẽ tay họa tiết mèo lười cute",
+    "quantity": 10,
+    "price": 140000,
+    "subtotal": 1400000
+  },
+  {
+    "id": 84,
+    "billId": "HD0199",
+    "productId": 8,
+    "productName": "Nón len bucket tai gấu dễ thương mầu nâu trà sữa",
+    "quantity": 12,
+    "price": 125000,
+    "subtotal": 1500000
+  },
+  {
+    "id": 85,
+    "billId": "HD0199",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 10,
+    "price": 118000,
+    "subtotal": 1180000
+  },
+  {
+    "id": 86,
+    "billId": "HD0199",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 15,
+    "price": 67000,
+    "subtotal": 1005000
+  },
+  {
+    "id": 87,
+    "billId": "HD0199",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 20,
+    "price": 21000,
+    "subtotal": 420000
+  },
+  {
+    "id": 88,
+    "billId": "HD0199",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 10,
+    "price": 35000,
+    "subtotal": 350000
+  },
+  {
+    "id": 89,
+    "billId": "HD0199",
+    "productId": 5,
+    "productName": "Bông tai đất sét tự nặn hình hoa tulip cam",
+    "quantity": 10,
+    "price": 80000,
+    "subtotal": 800000
+  },
+  {
+    "id": 90,
+    "billId": "HD0199",
+    "productId": 6,
+    "productName": "Nhẫn hạt cườm hoa cúc nhí dễ thương",
+    "quantity": 7,
+    "price": 10000,
+    "subtotal": 71000
+  },
+  {
+    "id": 91,
+    "billId": "HD0200",
+    "productId": 1,
+    "productName": "Trâm cài tóc gỗ tua rua hoa hồng trắng",
+    "quantity": 10,
+    "price": 118000,
+    "subtotal": 1180000
+  },
+  {
+    "id": 92,
+    "billId": "HD0200",
+    "productId": 2,
+    "productName": "Kẹp tóc linn thêu tên",
+    "quantity": 10,
+    "price": 67000,
+    "subtotal": 670000
+  },
+  {
+    "id": 93,
+    "billId": "HD0200",
+    "productId": 3,
+    "productName": "Băng đô móc len daisy hoạ tiết hoa cúc",
+    "quantity": 10,
+    "price": 21000,
+    "subtotal": 210000
+  },
+  {
+    "id": 94,
+    "billId": "HD0200",
+    "productId": 4,
+    "productName": "Kẹp tóc càng cua đính đá pha lê",
+    "quantity": 10,
+    "price": 35000,
+    "subtotal": 350000
+  },
+  {
+    "id": 95,
+    "billId": "HD0200",
+    "productId": 5,
+    "productName": "Bông tai đất sét tự nặn hình hoa tulip cam",
+    "quantity": 4,
+    "price": 80000,
+    "subtotal": 320000
+  },
+  {
+    "id": 96,
+    "billId": "HD0200",
+    "productId": 6,
+    "productName": "Nhẫn hạt cườm hoa cúc nhí dễ thương",
+    "quantity": 3,
+    "price": 10000,
+    "subtotal": 30000
+  },
+  {
+    "id": 97,
+    "billId": "HD0200",
+    "productId": 7,
+    "productName": "Scrunchies vải voan tơ kiếng lấp lánh",
+    "quantity": 0,
+    "price": 20000,
+    "subtotal": 0
+  },
+  {
+    "id": 98,
+    "billId": "HD0200",
+    "productId": 8,
+    "productName": "Nón len bucket tai gấu dễ thương mầu nâu trà sữa",
+    "quantity": 0,
+    "price": 125000,
+    "subtotal": 0
+  },
+  {
+    "id": 99,
+    "billId": "HD0200",
+    "productId": 10,
+    "productName": "Vòng cổ chocker chuỗi hạt ngọc trai nhân tạo",
+    "quantity": 0,
+    "price": 55000,
+    "subtotal": 0
+  },
+  {
+    "id": 100,
+    "billId": "HD0200",
+    "productId": 11,
+    "productName": "Vòng tay chỉ đỏ may mắn mix hạt cườm handmade",
+    "quantity": 0,
+    "price": 15000,
+    "subtotal": 0
   }
 ]
